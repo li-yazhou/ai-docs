@@ -1,6 +1,6 @@
 # AI技术文摘
 
-本站收录 [li-yazhou/ai-notes](https://github.com/li-yazhou/ai-notes) 笔记库中 Anthropic 官方博客的中英对照翻译，共 108 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 108 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
