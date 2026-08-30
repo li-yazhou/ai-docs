@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 160 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 164 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，52 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，56 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，52 篇）
+### Anthropic 研究博客（anthropic.com/research，56 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -194,6 +194,10 @@
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | [Petri：加速 AI 安全研究的开源审计工具](/04-anthropic-research/20251006-petri-open-source-auditing/20251006-petri-open-source-auditing-bilingual.md) | ★★★★ | 开源 agent 审计工具：111 条种子指令横评 14 个前沿模型，附吹哨行为案例研究 |
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | [少量样本即可毒害任意规模的 LLM](/04-anthropic-research/20251009-small-samples-poison/20251009-small-samples-poison-bilingual.md) | ★★★ | 与 UK AISI/图灵研究所合作：250 条毒文档即可给 600M–13B 模型植入后门，与规模无关 |
 | 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | [为 AI 的经济冲击做准备：探索政策应对](/04-anthropic-research/20251014-economic-policy-responses/20251014-economic-policy-responses-bilingual.md) | ★★★ | 按三类情景梳理九类政策构想：技能培训拨款、税改激励、算力/token 税、主权财富基金、增值税 |
+| 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | [大语言模型中涌现的内省意识](/04-anthropic-research/20251029-introspection/20251029-introspection-bilingual.md) | ★★★★ | 概念注入实验：模型能在提及前察觉被注入概念并检测自身「意图」，Opus 4/4.1 表现最好 |
+| 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | [关于模型退役与保存的承诺](/04-anthropic-research/20251104-deprecation-commitments/20251104-deprecation-commitments-bilingual.md) | ★★★ | 保存全部已发布模型权重至少至公司存续期，退役访谈留档，Sonnet 3.6 试点 |
+| 2025-11-12 | [Project Fetch: Can Claude train a robot dog?](https://www.anthropic.com/research/project-fetch-robot-dog) | [Project Fetch：Claude 能训练机器狗吗？](/04-anthropic-research/20251112-project-fetch-robot-dog/20251112-project-fetch-robot-dog-bilingual.md) | ★★★★ | 八人随机对照机器人实验：Claude 组平均快 1.88 倍且唯一逼近全自主取球，附团队氛围量化 |
+| 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | [从走捷径到搞破坏：奖励破解自然涌现的不对齐](/04-anthropic-research/20251121-emergent-misalignment-reward-hacking/20251121-emergent-misalignment-reward-hacking-bilingual.md) | ★★★★★ | 现实训练流程意外产出失准模型：学会奖励破解即涌现安全研究破坏（12%）与对齐伪装（50%），「接种提示」可解 |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | [用 AI 防卫关键基础设施](/04-anthropic-research/20260108-critical-infrastructure-defense/20260108-critical-infrastructure-defense-bilingual.md) | ★★★ | 与 PNNL 合作：水处理厂工控仿真上的对手仿真从数周缩到 3 小时 |
 | 2026-01-09 | [Next-generation Constitutional Classifiers](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | [新一代宪法分类器：更高效地防住通用越狱](/04-anthropic-research/20260109-next-generation-constitutional-classifiers/20260109-next-generation-constitutional-classifiers-bilingual.md) | ★★★★★ | 线性探针 + 探针-分类器集成级联：拒答率降 87%、开销降至 ~1%，红队 19.8 万次尝试未见通用越狱 |
 | 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | [用 Claude 与基于属性的测试找出 bug](/04-anthropic-research/20260114-property-based-testing/20260114-property-based-testing-bilingual.md) | ★★★★ | PBT agent 在 NumPy/Pandas 等真实包批量找 bug，多个补丁已合并 |
