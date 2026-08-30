@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 128 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 132 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，20 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，24 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，20 篇）
+### Anthropic 研究博客（anthropic.com/research，24 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -198,6 +198,10 @@
 | 2026-01-19 | [The assistant axis](https://www.anthropic.com/research/assistant-axis) | [助手轴](/04-anthropic-research/2601-assistant-axis/2601-assistant-axis-bilingual.md) | ★★★★ | 人格空间中的「助手」方向：激活封顶稳定人格、抵御人格漂移越狱 |
 | 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | [Claude 的新宪法](/04-anthropic-research/2601-claude-new-constitution/2601-claude-new-constitution-bilingual.md) | ★★★★ | 宪法从原则清单升级为"写给 Claude 读"的完整文档，CC0 全文公开 |
 | 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | [真实 AI 使用中的失权模式](/04-anthropic-research/2601-disempowerment-patterns/2601-disempowerment-patterns-bilingual.md) | ★★★★ | 150 万对话的首次大规模失权测量：三类扭曲、放大因子与感知落差 |
+| 2026-01-29 | [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills) | [AI 辅助如何影响编程技能的形成](/04-anthropic-research/2601-AI-assistance-coding-skills/2601-AI-assistance-coding-skills-bilingual.md) | ★★★★ | 随机对照试验：AI 组测验低 17%，交互模式决定学习留存 |
+| 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | [LLM 发现的 0 日漏洞](/04-anthropic-research/2602-zero-days/2602-zero-days-bilingual.md) | ★★★★ | Opus 4.6 开箱即用找出 500+ 高危漏洞，"防守方窗口"论的关键证据 |
+| 2026-02-18 | [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) | [在实践中测量 AI 智能体的自主性](/04-anthropic-research/2602-measuring-agent-autonomy/2602-measuring-agent-autonomy-bilingual.md) | ★★★★★ | 数百万交互实测：自主时长三个月翻倍、老手多放权也多打断、agent 自主暂停多于人类打断 |
+| 2026-02-23 | [The persona selection model](https://www.anthropic.com/research/persona-selection-model) | [人格选择模型](/04-anthropic-research/2602-persona-selection-model/2602-persona-selection-model-bilingual.md) | ★★★ | 后训练是在预训练人格空间内"选角与润色"，而非从零塑造 |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | [语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md) | ★★★★ | Claude 内部自发涌现的 J-space「心理工作区」：可报告、可调控、供推理，兼可监控隐藏意图 |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | [给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md) | ★★★ | GRAM 梯度路由辅助模块：两用知识圈进可删除的权重分区，一次训练 16 种配置 |
 | 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | [Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md) | ★★★ | 12 模型 × 4 控制接口 × 多本体的大规模具身横评：高层控制远胜直接驱动 |
@@ -211,4 +215,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 20 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 24 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
