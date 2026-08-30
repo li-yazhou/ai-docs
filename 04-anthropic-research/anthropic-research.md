@@ -48,7 +48,7 @@
 | 2026-02-23 | [The persona selection model](https://www.anthropic.com/research/persona-selection-model) | ★★★ | 为什么 AI 助手显得像人：人格选择理论 | [[20260223-persona-selection-model-bilingual\|中英对照]] |  |
 | 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | ★★★★ | 新版宪法公布：表达并塑造 Claude 是谁的基础文档 | [[20260122-claude-new-constitution-bilingual\|中英对照]] |  |
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | ★★★ | 模型退役与存档承诺，少见的制度安排 | [[20251104-deprecation-commitments-bilingual\|中英对照]] |  |
-| 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | ★★★ | 模型可主动终止极端虐待性对话：福利与安全的权衡实例 |  |  |
+| 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | ★★★ | 模型可主动终止极端虐待性对话：福利与安全的权衡实例 | [[20250815-end-subset-conversations-bilingual\|中英对照]] |  |
 | 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 |  |  |
 | 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 |  |  |
 | 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | ★★★ | 1000 名美国人参与起草宪法并用于训练的实验 |  |  |
@@ -99,7 +99,7 @@
 | 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 | [[20251124-prompt-injection-defenses-bilingual\|中英对照]] |  |
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 | [[20251003-building-ai-cyber-defenders-bilingual\|中英对照]] |  |
 | 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | ★★★★ | 论为何认真对待 LLM 生物风险：评估与防护的论证 |  |  |
-| 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） |  |  |
+| 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） | [[20250821-nuclear-safeguards-for-ai-bilingual\|中英对照]] |  |
 | 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | ★★★★ | Claude 参加人类网安竞赛常进前 25%：能力与短板实录 | [[20250809-cyber-competitions-bilingual\|中英对照]] |  |
 | 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | ★★★ | Claude 4 网安评测细节（与 Pattern Labs 合作） | [[20250715-claude-4-cyber-bilingual\|中英对照]] |  |
 | 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | ★★★★ | 给通用 LLM 配工具包即可打业务规模网络的多阶段攻击 |  |  |
@@ -153,7 +153,7 @@
 | 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | ★★★★ | 真实使用中的「失权」模式识别与分类 | [[20260128-disempowerment-patterns-bilingual\|中英对照]] |  |
 | 2025-12-04 | [Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/research/anthropic-interviewer) | ★★★★ | Claude 驱动的规模化访谈工具与 1250 位专业人员的发现 | [[20251204-anthropic-interviewer-bilingual\|中英对照]] |  |
 | 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 | [[20251202-how-ai-is-transforming-work-at-anthropic-bilingual\|中英对照]] |  |
-| 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 |  |  |
+| 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 | [[20250827-anthropic-education-report-how-educators-use-claude-bilingual\|中英对照]] |  |
 | 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 |  |  |
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 |  |  |
 | 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 |  |  |
