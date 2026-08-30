@@ -22,7 +22,7 @@ Anthropic 工程博客与 Claude 产品博客的**中英对照双语文摘站**�
 
 ## 文章体例
 
-一篇文章一个文件夹，命名 `YYMM-slug`：
+一篇文章一个文件夹。`01-anthropic` 与 `02-claude` 命名为 `YYMM-slug`；`04-anthropic-research` 命名为 `YYYYMMDD-slug`（YYYYMMDD 为文章发布日期）：
 
 ```
 02-claude/2608-warp-self-improving-agents/
@@ -54,7 +54,7 @@ python3 -m http.server 3000
 
 ## 新增文章流程
 
-1. 新建 `YYMM-slug/` 文件夹，放入 `YYMM-slug-bilingual.md` 与 `images/`
+1. 新建文章文件夹（`01/02` 目录为 `YYMM-slug/`，`04` 目录为 `YYYYMMDD-slug/`），放入同名 `-bilingual.md` 与 `images/`
 2. 在对应目录的登记总表中「中英文版本」列登记该篇
 3. 更新 `_sidebar.md`（目录）与 `_home.md`（导航）
 4. 提交并推送 main，GitHub Pages 自动发布（Pages 页面约有 10 分钟缓存）
