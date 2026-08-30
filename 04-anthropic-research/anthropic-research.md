@@ -22,7 +22,7 @@
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | ★★★ | 约 250 条恶意样本即可毒害任意规模模型，数据污染风险量化 | [[20251009-small-samples-poison-bilingual\|中英对照]] |  |
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | ★★★★ | 开源 agent 审计工具：自动构造交互环境探测模型异常行为 | [[20251006-petri-open-source-auditing-bilingual\|中英对照]] |  |
 | 2025-06-20 | [Agentic misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment) | ★★★★★ | LLM 内部威胁实验（模拟勒索、商业间谍等），agent 安全绕不开的一篇 |  |  |
-| 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | ★★★★★ | agent 秘密破坏与监控方的评测基准：长任务中谁能藏住、谁看得住 |  |  |
+| 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | ★★★★★ | agent 秘密破坏与监控方的评测基准：长任务中谁能藏住、谁看得住 | [[20250616-shade-arena-sabotage-monitoring-bilingual\|中英对照]] |  |
 | 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 |  |  |
 | 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 |  |  |
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | ★★★ | 用代理能力曲线预测罕见危险行为（如核扩散相关），评估方法论 |  |  |
@@ -102,7 +102,7 @@
 | 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） | [[20250821-nuclear-safeguards-for-ai-bilingual\|中英对照]] |  |
 | 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | ★★★★ | Claude 参加人类网安竞赛常进前 25%：能力与短板实录 | [[20250809-cyber-competitions-bilingual\|中英对照]] |  |
 | 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | ★★★ | Claude 4 网安评测细节（与 Pattern Labs 合作） | [[20250715-claude-4-cyber-bilingual\|中英对照]] |  |
-| 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | ★★★★ | 给通用 LLM 配工具包即可打业务规模网络的多阶段攻击 |  |  |
+| 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | ★★★★ | 给通用 LLM 配工具包即可打业务规模网络的多阶段攻击 | [[20250613-cyber-toolkits-bilingual\|中英对照]] |  |
 | 2025-02-03 | [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) | ★★★★★ | 宪法分类器首发：扛住 3000 小时红队无 universal jailbreak |  |  |
 
 ## 五、红队实弹项目
@@ -183,7 +183,7 @@
 | 2026-05-14 | [2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership) | ★★★★ | 中美 AI 竞争的两种 2028 情景推演 | [[20260514-2028-ai-leadership-bilingual\|中英对照]] |  |
 | 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | ★★★ | Anthropic Institute 的研究议程公开 | [[20260507-anthropic-institute-agenda-bilingual\|中英对照]] |  |
 | 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | ★★★★ | agent 如何工作以及如何保证可信，官方的 agent 信任框架 | [[20260409-trustworthy-agents-bilingual\|中英对照]] |  |
-| 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | ★★★ | 用 TEE 保护模型权重与用户数据的机密推理 |  |  |
+| 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | ★★★ | 用 TEE 保护模型权重与用户数据的机密推理 | [[20250618-confidential-inference-trusted-vms-bilingual\|中英对照]] |  |
 | 2024-10-22 | [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use) | ★★★★ | computer use 模型的开发过程与技术细节 |  |  |
 
 ---

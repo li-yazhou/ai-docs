@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 180 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 183 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，72 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，75 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,15 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，72 篇）
+### Anthropic 研究博客（anthropic.com/research，75 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | [配备工具包的 LLM](/04-anthropic-research/20250613-cyber-toolkits/20250613-cyber-toolkits-bilingual.md) | ★★★★ | Incalmo 工具包让未微调 LLM 攻破 25–50 主机网络（含 Equifax 高保真仿真），无工具则几乎全败 |
+| 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | [SHADE-Arena：评测 LLM 智能体的破坏与监控](/04-anthropic-research/20250616-shade-arena-sabotage-monitoring/20250616-shade-arena-sabotage-monitoring-bilingual.md) | ★★★★★ | 17 项双面任务：总体成功率<30%，暴露思维链可大幅提升监控捕获率，Opus 4 总会「说漏」副任务 |
+| 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | [经可信虚拟机实现的机密推理](/04-anthropic-research/20250618-confidential-inference-trusted-vms/20250618-confidential-inference-trusted-vms-bilingual.md) | ★★★ | 可信加载器+TPM 证明+密钥服务器：敏感数据只在处理瞬间、可信环境内解密 |
 | 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | [Claude 4 的详细网安评测](/04-anthropic-research/20250715-claude-4-cyber/20250715-claude-4-cyber-bilingual.md) | ★★★ | 与 Pattern Labs 合作评测：攻击链与漏洞识别显著进步，长程规划遇意外阻碍仍是短板 |
 | 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | [人格向量：监控与控制语言模型的品格特质](/04-anthropic-research/20250801-persona-vectors/20250801-persona-vectors-bilingual.md) | ★★★★★ | 品格特质的激活向量：监控人格漂移、「接种式」预防训练致人格偏移、标记问题训练数据 |
 | 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | [Claude 与人类在（某些）网安竞赛中不相上下](/04-anthropic-research/20250809-cyber-competitions/20250809-cyber-competitions-bilingual.md) | ★★★★ | 七场人类网安竞赛实录：PicoCTF 前 3%、解题速度可比顶尖人类队，哲学沉思代替工作是硬伤 |
