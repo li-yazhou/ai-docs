@@ -113,6 +113,9 @@
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2507-Claude 4 的详细网安评测](/04-anthropic-research/20250715-claude-4-cyber/20250715-claude-4-cyber-bilingual.md)
+  - [2508-人格向量：监控与控制语言模型的品格特质](/04-anthropic-research/20250801-persona-vectors/20250801-persona-vectors-bilingual.md)
+  - [2508-Claude 与人类在（某些）网安竞赛中不相上下](/04-anthropic-research/20250809-cyber-competitions/20250809-cyber-competitions-bilingual.md)
   - [2510-为网络防守者打造 AI](/04-anthropic-research/20251003-building-ai-cyber-defenders/20251003-building-ai-cyber-defenders-bilingual.md)
   - [2510-Petri：加速 AI 安全研究的开源审计工具](/04-anthropic-research/20251006-petri-open-source-auditing/20251006-petri-open-source-auditing-bilingual.md)
   - [2510-少量样本即可毒害任意规模的 LLM](/04-anthropic-research/20251009-small-samples-poison/20251009-small-samples-poison-bilingual.md)

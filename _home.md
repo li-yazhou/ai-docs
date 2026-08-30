@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 171 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 174 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，63 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，66 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,15 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，63 篇）
+### Anthropic 研究博客（anthropic.com/research，66 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | [Claude 4 的详细网安评测](/04-anthropic-research/20250715-claude-4-cyber/20250715-claude-4-cyber-bilingual.md) | ★★★ | 与 Pattern Labs 合作评测：攻击链与漏洞识别显著进步，长程规划遇意外阻碍仍是短板 |
+| 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | [人格向量：监控与控制语言模型的品格特质](/04-anthropic-research/20250801-persona-vectors/20250801-persona-vectors-bilingual.md) | ★★★★★ | 品格特质的激活向量：监控人格漂移、「接种式」预防训练致人格偏移、标记问题训练数据 |
+| 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | [Claude 与人类在（某些）网安竞赛中不相上下](/04-anthropic-research/20250809-cyber-competitions/20250809-cyber-competitions-bilingual.md) | ★★★★ | 七场人类网安竞赛实录：PicoCTF 前 3%、解题速度可比顶尖人类队，哲学沉思代替工作是硬伤 |
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | [为网络防守者打造 AI](/04-anthropic-research/20251003-building-ai-cyber-defenders/20251003-building-ai-cyber-defenders-bilingual.md) | ★★★ | Sonnet 4.5 网安能力提升：Cybench/CyberGym 评测数据与 HackerOne、CrowdStrike 防守向合作 |
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | [Petri：加速 AI 安全研究的开源审计工具](/04-anthropic-research/20251006-petri-open-source-auditing/20251006-petri-open-source-auditing-bilingual.md) | ★★★★ | 开源 agent 审计工具：111 条种子指令横评 14 个前沿模型，附吹哨行为案例研究 |
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | [少量样本即可毒害任意规模的 LLM](/04-anthropic-research/20251009-small-samples-poison/20251009-small-samples-poison-bilingual.md) | ★★★ | 与 UK AISI/图灵研究所合作：250 条毒文档即可给 600M–13B 模型植入后门，与规模无关 |

@@ -67,7 +67,7 @@
 | 2026-03-13 | [A "diff" tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | ★★★★ | 给模型行为做 diff：定位新旧模型的差异来源 | [[20260313-diff-tool-bilingual\|中英对照]] |  |
 | 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 | [[20260119-assistant-axis-bilingual\|中英对照]] |  |
 | 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | ★★★★ | 模型能否访问并报告自身内部状态：有限但真实的内省证据 | [[20251029-introspection-bilingual\|中英对照]] |  |
-| 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | ★★★★★ | 品格特质的激活向量：监控与控制模型人格的工程方法 |  |  |
+| 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | ★★★★★ | 品格特质的激活向量：监控与控制模型人格的工程方法 | [[20250801-persona-vectors-bilingual\|中英对照]] |  |
 | 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 |  |  |
 | 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 |  |  |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 |  |  |
@@ -100,8 +100,8 @@
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 | [[20251003-building-ai-cyber-defenders-bilingual\|中英对照]] |  |
 | 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | ★★★★ | 论为何认真对待 LLM 生物风险：评估与防护的论证 |  |  |
 | 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） |  |  |
-| 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | ★★★★ | Claude 参加人类网安竞赛常进前 25%：能力与短板实录 |  |  |
-| 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | ★★★ | Claude 4 网安评测细节（与 Pattern Labs 合作） |  |  |
+| 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | ★★★★ | Claude 参加人类网安竞赛常进前 25%：能力与短板实录 | [[20250809-cyber-competitions-bilingual\|中英对照]] |  |
+| 2025-07-15 | [Detailed cyber evaluations of Claude 4](https://www.anthropic.com/research/claude-4-cyber) | ★★★ | Claude 4 网安评测细节（与 Pattern Labs 合作） | [[20250715-claude-4-cyber-bilingual\|中英对照]] |  |
 | 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | ★★★★ | 给通用 LLM 配工具包即可打业务规模网络的多阶段攻击 |  |  |
 | 2025-02-03 | [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) | ★★★★★ | 宪法分类器首发：扛住 3000 小时红队无 universal jailbreak |  |  |
 
