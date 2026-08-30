@@ -124,6 +124,7 @@
   - [2504-价值在野外：AI 真实表达的价值全景](/04-anthropic-research/20250421-values-wild/20250421-values-wild-bilingual.md)
   - [2504-探索模型福利](/04-anthropic-research/20250424-exploring-model-welfare/20250424-exploring-model-welfare-bilingual.md)
   - [2504-Anthropic 经济指数：AI 对软件开发的影响](/04-anthropic-research/20250428-impact-software-development/20250428-impact-software-development-bilingual.md)
+  - [2505-开源电路追踪工具](/04-anthropic-research/20250529-open-source-circuit-tracing/20250529-open-source-circuit-tracing-bilingual.md)
   - [2506-配备工具包的 LLM](/04-anthropic-research/20250613-cyber-toolkits/20250613-cyber-toolkits-bilingual.md)
   - [2506-SHADE-Arena：评测 LLM 智能体的破坏与监控](/04-anthropic-research/20250616-shade-arena-sabotage-monitoring/20250616-shade-arena-sabotage-monitoring-bilingual.md)
   - [2506-经可信虚拟机实现的机密推理](/04-anthropic-research/20250618-confidential-inference-trusted-vms/20250618-confidential-inference-trusted-vms-bilingual.md)

@@ -68,7 +68,7 @@
 | 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 | [[20260119-assistant-axis-bilingual\|中英对照]] |  |
 | 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | ★★★★ | 模型能否访问并报告自身内部状态：有限但真实的内省证据 | [[20251029-introspection-bilingual\|中英对照]] |  |
 | 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | ★★★★★ | 品格特质的激活向量：监控与控制模型人格的工程方法 | [[20250801-persona-vectors-bilingual\|中英对照]] |  |
-| 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 |  |  |
+| 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 | [[20250529-open-source-circuit-tracing-bilingual\|中英对照]] |  |
 | 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 | [[20250327-tracing-thoughts-language-model-bilingual\|中英对照]] |  |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 | [[20250220-crosscoder-model-diffing-bilingual\|中英对照]] |  |
 | 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 |  |  |

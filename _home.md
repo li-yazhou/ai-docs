@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 198 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 199 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，90 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，91 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，90 篇）
+### Anthropic 研究博客（anthropic.com/research，91 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -201,6 +201,7 @@
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | [价值在野外：AI 真实表达的价值全景](/04-anthropic-research/20250421-values-wild/20250421-values-wild-bilingual.md) | ★★★★★ | 30.8 万主观对话价值分类学：五大类价值、情境敏感（浪漫建议谈边界、历史分析重准确）、28.2% 强支持 vs 3.0% 强抵抗用户价值、越狱集群现「支配/非道德」 |
 | 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | [探索模型福利](/04-anthropic-research/20250424-exploring-model-welfare/20250424-exploring-model-welfare-bilingual.md) | ★★★★ | 模型福利研究纲领开篇：模型偏好与痛苦迹象、低成本干预，科学共识阙如处「谦逊+最少假设」起步 |
 | 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | [Anthropic 经济指数：AI 对软件开发的影响](/04-anthropic-research/20250428-impact-software-development/20250428-impact-software-development-bilingual.md) | ★★★★★ | 50 万交互对照：Claude Code 自动化 79% vs 网页版 49%（反馈回路 35.8%、指令式 43.8%），JS/TS+HTML/CSS 占 59%、UI 任务先受冲击，初创 33% vs 企业 13% |
+| 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | [开源电路追踪工具](/04-anthropic-research/20250529-open-source-circuit-tracing/20250529-open-source-circuit-tracing-bilingual.md) | ★★★★ | 归因图谱生成库+Neuronpedia 交互前端开源：支持开放权重模型追踪电路、改特征验证假设，Fellows 与 Decode Research 合作 |
 | 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | [配备工具包的 LLM](/04-anthropic-research/20250613-cyber-toolkits/20250613-cyber-toolkits-bilingual.md) | ★★★★ | Incalmo 工具包让未微调 LLM 攻破 25–50 主机网络（含 Equifax 高保真仿真），无工具则几乎全败 |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | [SHADE-Arena：评测 LLM 智能体的破坏与监控](/04-anthropic-research/20250616-shade-arena-sabotage-monitoring/20250616-shade-arena-sabotage-monitoring-bilingual.md) | ★★★★★ | 17 项双面任务：总体成功率<30%，暴露思维链可大幅提升监控捕获率，Opus 4 总会「说漏」副任务 |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | [经可信虚拟机实现的机密推理](/04-anthropic-research/20250618-confidential-inference-trusted-vms/20250618-confidential-inference-trusted-vms-bilingual.md) | ★★★ | 可信加载器+TPM 证明+密钥服务器：敏感数据只在处理瞬间、可信环境内解密 |
