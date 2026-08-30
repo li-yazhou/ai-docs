@@ -125,6 +125,7 @@
   - [2410-评估特征转向：缓解社会偏见的案例研究](/04-anthropic-research/20241025-evaluating-feature-steering/20241025-evaluating-feature-steering-bilingual.md)
   - [2411-模型评测的统计方法](/04-anthropic-research/20241119-statistical-approach-to-model-evals/20241119-statistical-approach-to-model-evals-bilingual.md)
   - [2412-Clio：洞察真实世界 AI 使用的隐私保护系统](/04-anthropic-research/20241212-clio/20241212-clio-bilingual.md)
+  - [2412-大语言模型中的对齐伪装](/04-anthropic-research/20241218-alignment-faking/20241218-alignment-faking-bilingual.md)
   - [2502-宪法分类器：抵御通用越狱](/04-anthropic-research/20250203-constitutional-classifiers/20250203-constitutional-classifiers-bilingual.md)
   - [2502-Anthropic 经济指数](/04-anthropic-research/20250210-the-anthropic-economic-index/20250210-the-anthropic-economic-index-bilingual.md)
   - [2502-Crosscoder 模型对比的初步洞见](/04-anthropic-research/20250220-crosscoder-model-diffing/20250220-crosscoder-model-diffing-bilingual.md)

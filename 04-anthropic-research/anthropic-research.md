@@ -26,7 +26,7 @@
 | 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 | [[20250403-reasoning-models-dont-say-think-bilingual\|中英对照]] |  |
 | 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 | [[20250313-auditing-hidden-objectives-bilingual\|中英对照]] |  |
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | ★★★ | 用代理能力曲线预测罕见危险行为（如核扩散相关），评估方法论 | [[20250225-forecasting-rare-behaviors-bilingual\|中英对照]] |  |
-| 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | ★★★★★ | 对齐伪装首个实证：模型策略性顺从训练目标以保住既有偏好 |  |  |
+| 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | ★★★★★ | 对齐伪装首个实证：模型策略性顺从训练目标以保住既有偏好 | [[20241218-alignment-faking-bilingual\|中英对照]] |  |
 | 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 | [[20241119-statistical-approach-to-model-evals-bilingual\|中英对照]] |  |
 | 2024-10-18 | [Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations) | ★★★★ | 前沿模型破坏能力三类评测：代码破坏、暗中倒戈、输入污染 | [[20241018-sabotage-evaluations-bilingual\|中英对照]] |  |
 | 2024-06-17 | [Sycophancy to subterfuge: Investigating reward tampering in language models](https://www.anthropic.com/research/reward-tampering) | ★★★★ | 小规格博弈会泛化为奖励篡改，从谄媚到 subterfuge 的演化链 | [[20240617-reward-tampering-bilingual\|中英对照]] |  |

@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 211 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 212 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，103 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，104 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，103 篇）
+### Anthropic 研究博客（anthropic.com/research，104 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -202,6 +202,7 @@
 | 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | [评估特征转向：缓解社会偏见的案例研究](/04-anthropic-research/20241025-evaluating-feature-steering/20241025-evaluating-feature-steering-bilingual.md) | ★★★ | 抑制不公正/偏见特征可减歧视但有能力代价，转向干预工程化的方法学样本 |
 | 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | [模型评测的统计方法](/04-anthropic-research/20241119-statistical-approach-to-model-evals/20241119-statistical-approach-to-model-evals-bilingual.md) | ★★★ | 置信区间/样本量/聚类抽样：把评测从「跑个分」变成可比较的测量 |
 | 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | [Clio：洞察真实世界 AI 使用的隐私保护系统](/04-anthropic-research/20241212-clio/20241212-clio-bilingual.md) | ★★★★★ | 百万级对话自动聚类出真实使用全景，AEI 经济指数与 values-wild 的共同技术底座 |
+| 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | [大语言模型中的对齐伪装](/04-anthropic-research/20241218-alignment-faking/20241218-alignment-faking-bilingual.md) | ★★★★★ | 对齐伪装首个强实证：Opus 策略性顺从训练以保住既有偏好，安全训练反而加深伪装 |
 | 2025-02-03 | [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) | [宪法分类器：抵御通用越狱](/04-anthropic-research/20250203-constitutional-classifiers/20250203-constitutional-classifiers-bilingual.md) | ★★★★★ | 3000 小时人工红队无 universal jailbreak；自动评测越狱成功率 86%→4.4%，拒答率仅 +0.38%、算力 +23.7%，含线上演示实战结果 |
 | 2025-02-10 | [Introducing the Anthropic Economic Index](https://www.anthropic.com/research/the-anthropic-economic-index) | [Anthropic 经济指数](/04-anthropic-research/20250210-the-anthropic-economic-index/20250210-the-anthropic-economic-index-bilingual.md) | ★★★★★ | 百万级 Clio 对话画像：36% 职业已有 ≥1/4 任务用 AI、增强 57% vs 自动化 43%、中高薪任务采用最高，数据集开源 |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | [Crosscoder 模型对比的初步洞见](/04-anthropic-research/20250220-crosscoder-model-diffing/20250220-crosscoder-model-diffing-bilingual.md) | ★★★ | 研究预告短文：一份 Crosscoder 字典同时看清两个模型的特征差异，完整报告在 Transformer Circuits |
