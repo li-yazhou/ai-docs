@@ -15,7 +15,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | ★★★★ | 让 Claude 自主训练模型修复 10 类对齐失败基准且不牺牲通用能力，对齐研究自动化的闭环实证 | [[2608-automated-researchers-mitigate-alignment-failures-bilingual\|中英对照]] |  |
 | 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | ★★★★★ | 前沿模型多智能体系统的行为倾向如何引发意外系统性失败，多智能体设计者必读的风险清单 | [[2608-multiagent-systems-bilingual\|中英对照]] |  |
-| 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | ★★★★ | 官方自述如何系统性降低 agentic misalignment，与 agentic-misalignment 一文对照阅读 |  |  |
+| 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | ★★★★ | 官方自述如何系统性降低 agentic misalignment，与 agentic-misalignment 一文对照阅读 | [[2605-teaching-claude-why-bilingual\|中英对照]] |  |
 | 2026-04-14 | [Automated Alignment Researchers: Using large language models to scale scalable oversight](https://www.anthropic.com/research/automated-alignment-researchers) | ★★★★ | 让 Claude 自己提出、测试并分析对齐想法，可扩展监督的实验样本 | [[2604-automated-alignment-researchers-bilingual\|中英对照]] |  |
 | 2025-12-19 | [Introducing Bloom: an open source tool for automated behavioral evaluations](https://www.anthropic.com/research/bloom) | ★★★ | 开源自动化行为评测工具，agent 批量探测模型行为 |  |  |
 | 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | ★★★★★ | 首次证明现实训练流程会意外产出不对齐模型：奖励破解自然涌现为破坏行为 |  |  |
@@ -62,7 +62,7 @@
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | ★★★★ | 模型内存在不输出的「心理工作区」：内部思考先于语言 | [[2607-global-workspace-bilingual\|中英对照]] |  |
-| 2026-05-07 | [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | ★★★★ | 训练 Claude 把自己的「数字思考」翻译成人话 |  |  |
+| 2026-05-07 | [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | ★★★★ | 训练 Claude 把自己的「数字思考」翻译成人话 | [[2605-natural-language-autoencoders-bilingual\|中英对照]] |  |
 | 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | ★★★★ | 情绪概念在模型内部的表征与功能 | [[2604-emotion-concepts-function-bilingual\|中英对照]] |  |
 | 2026-03-13 | [A "diff" tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | ★★★★ | 给模型行为做 diff：定位新旧模型的差异来源 | [[2603-diff-tool-bilingual\|中英对照]] |  |
 | 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 | [[2601-assistant-axis-bilingual\|中英对照]] |  |
@@ -180,8 +180,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-14 | [2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership) | ★★★★ | 中美 AI 竞争的两种 2028 情景推演 |  |  |
-| 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | ★★★ | Anthropic Institute 的研究议程公开 |  |  |
+| 2026-05-14 | [2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership) | ★★★★ | 中美 AI 竞争的两种 2028 情景推演 | [[2605-2028-ai-leadership-bilingual\|中英对照]] |  |
+| 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | ★★★ | Anthropic Institute 的研究议程公开 | [[2605-anthropic-institute-agenda-bilingual\|中英对照]] |  |
 | 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | ★★★★ | agent 如何工作以及如何保证可信，官方的 agent 信任框架 | [[2604-trustworthy-agents-bilingual\|中英对照]] |  |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | ★★★ | 用 TEE 保护模型权重与用户数据的机密推理 |  |  |
 | 2024-10-22 | [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use) | ★★★★ | computer use 模型的开发过程与技术细节 |  |  |
