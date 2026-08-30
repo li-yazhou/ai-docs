@@ -46,7 +46,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-13 | [Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | ★★★★ | 30 万真实对话测量跨模型跨语言的价值表达，压缩成四个可解释轴 | [[2607-claude-values-models-languages-bilingual\|中英对照]] |  |
 | 2026-02-23 | [The persona selection model](https://www.anthropic.com/research/persona-selection-model) | ★★★ | 为什么 AI 助手显得像人：人格选择理论 |  |  |
-| 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | ★★★★ | 新版宪法公布：表达并塑造 Claude 是谁的基础文档 |  |  |
+| 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | ★★★★ | 新版宪法公布：表达并塑造 Claude 是谁的基础文档 | [[2601-claude-new-constitution-bilingual\|中英对照]] |  |
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | ★★★ | 模型退役与存档承诺，少见的制度安排 |  |  |
 | 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | ★★★ | 模型可主动终止极端虐待性对话：福利与安全的权衡实例 |  |  |
 | 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 |  |  |
@@ -65,7 +65,7 @@
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | ★★★★ | 训练 Claude 把自己的「数字思考」翻译成人话 |  |  |
 | 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | ★★★★ | 情绪概念在模型内部的表征与功能 |  |  |
 | 2026-03-13 | [A "diff" tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | ★★★★ | 给模型行为做 diff：定位新旧模型的差异来源 |  |  |
-| 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 |  |  |
+| 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 | [[2601-assistant-axis-bilingual\|中英对照]] |  |
 | 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | ★★★★ | 模型能否访问并报告自身内部状态：有限但真实的内省证据 |  |  |
 | 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | ★★★★★ | 品格特质的激活向量：监控与控制模型人格的工程方法 |  |  |
 | 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 |  |  |
@@ -93,7 +93,7 @@
 | 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | ★★★ | 漏洞利用开发能力的新基准（含智能合约升级版） |  |  |
 | 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | ★★★★ | Mythos Preview 网安能力的技术评估细节 |  |  |
 | 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | ★★★★ | 0 日发现规模化风险与防守方赋能路线 |  |  |
-| 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 |  |  |
+| 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 | [[2601-cyber-toolkits-update-bilingual\|中英对照]] |  |
 | 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 | [[2601-next-generation-constitutional-classifiers-bilingual\|中英对照]] |  |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | ★★★ | 与 PNNL 合作用 AI 防守关键基础设施 | [[2601-critical-infrastructure-defense-bilingual\|中英对照]] |  |
 | 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 |  |  |
@@ -150,7 +150,7 @@
 | 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | ★★★★ | 个人指导类请求的使用画像，并反馈到模型训练 |  |  |
 | 2026-02-18 | [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) | ★★★★★ | 数百万交互分析：人们授予 agent 的自主权如何随经验增长 |  |  |
 | 2026-01-29 | [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills) | ★★★★ | AI 辅助对编程技能形成的影响，开发者成长视角 |  |  |
-| 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | ★★★★ | 真实使用中的「失权」模式识别与分类 |  |  |
+| 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | ★★★★ | 真实使用中的「失权」模式识别与分类 | [[2601-disempowerment-patterns-bilingual\|中英对照]] |  |
 | 2025-12-04 | [Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/research/anthropic-interviewer) | ★★★★ | Claude 驱动的规模化访谈工具与 1250 位专业人员的发现 |  |  |
 | 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 |  |  |
 | 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 |  |  |
