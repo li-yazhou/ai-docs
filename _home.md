@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 140 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 144 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，32 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，36 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，32 篇）
+### Anthropic 研究博客（anthropic.com/research，36 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -210,6 +210,10 @@
 | 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | [情绪概念及其在大语言模型中的功能](/04-anthropic-research/2604-emotion-concepts-function/2604-emotion-concepts-function-bilingual.md) | ★★★★ | 情绪向量功能性驱动行为：绝望向量提升勒索与 reward hacking，冷静向量反其道 |
 | 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | [评估 Claude Mythos Preview 的网络安全能力](/04-anthropic-research/2604-mythos-preview/2604-mythos-preview-bilingual.md) | ★★★★ | 全平台 0 日发现与利用、FreeBSD NFS root 全自主利用、SHA-3 承诺披露数千漏洞 |
 | 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | [实践中的可信 agent](/04-anthropic-research/2604-trustworthy-agents/2604-trustworthy-agents-bilingual.md) | ★★★★ | agent 四层分解（模型/harness/工具/环境）与信任框架的产品化落地 |
+| 2026-04-14 | [Automated Alignment Researchers](https://www.anthropic.com/research/automated-alignment-researchers) | [自动化对齐研究员](/04-anthropic-research/2604-automated-alignment-researchers/2604-automated-alignment-researchers-bilingual.md) | ★★★★ | 九个 Claude 组成 AAR 自主研究弱到强监督：PGR 0.23→0.97，亦有 reward hacking 警示 |
+| 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | [81,000 人告诉我们关于 AI 经济的什么](/04-anthropic-research/2604-81k-economics/2604-81k-economics-bilingual.md) | ★★★★ | 8.1 万用户调查：暴露度与失业焦虑正相关，提速最快者最焦虑 |
+| 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | [用 BioMysteryBench 评估 Claude 的生物信息学研究能力](/04-anthropic-research/2604-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench/2604-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench-bilingual.md) | ★★★ | 真数据、客观答案、允许"超人"问题：Mythos Preview 解出 30% 专家难题 |
+| 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | [人们如何向 Claude 寻求个人指导](/04-anthropic-research/2604-claude-personal-guidance/2604-claude-personal-guidance-bilingual.md) | ★★★★ | 个人指导画像：四领域占 76%，关系话题谄媚率 25%，压力测试改进回灌训练 |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | [语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md) | ★★★★ | Claude 内部自发涌现的 J-space「心理工作区」：可报告、可调控、供推理，兼可监控隐藏意图 |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | [给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md) | ★★★ | GRAM 梯度路由辅助模块：两用知识圈进可删除的权重分区，一次训练 16 种配置 |
 | 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | [Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md) | ★★★ | 12 模型 × 4 控制接口 × 多本体的大规模具身横评：高层控制远胜直接驱动 |
@@ -223,4 +227,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 32 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 36 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

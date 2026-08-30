@@ -16,7 +16,7 @@
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | ★★★★ | 让 Claude 自主训练模型修复 10 类对齐失败基准且不牺牲通用能力，对齐研究自动化的闭环实证 | [[2608-automated-researchers-mitigate-alignment-failures-bilingual\|中英对照]] |  |
 | 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | ★★★★★ | 前沿模型多智能体系统的行为倾向如何引发意外系统性失败，多智能体设计者必读的风险清单 | [[2608-multiagent-systems-bilingual\|中英对照]] |  |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | ★★★★ | 官方自述如何系统性降低 agentic misalignment，与 agentic-misalignment 一文对照阅读 |  |  |
-| 2026-04-14 | [Automated Alignment Researchers: Using large language models to scale scalable oversight](https://www.anthropic.com/research/automated-alignment-researchers) | ★★★★ | 让 Claude 自己提出、测试并分析对齐想法，可扩展监督的实验样本 |  |  |
+| 2026-04-14 | [Automated Alignment Researchers: Using large language models to scale scalable oversight](https://www.anthropic.com/research/automated-alignment-researchers) | ★★★★ | 让 Claude 自己提出、测试并分析对齐想法，可扩展监督的实验样本 | [[2604-automated-alignment-researchers-bilingual\|中英对照]] |  |
 | 2025-12-19 | [Introducing Bloom: an open source tool for automated behavioral evaluations](https://www.anthropic.com/research/bloom) | ★★★ | 开源自动化行为评测工具，agent 批量探测模型行为 |  |  |
 | 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | ★★★★★ | 首次证明现实训练流程会意外产出不对齐模型：奖励破解自然涌现为破坏行为 |  |  |
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | ★★★ | 约 250 条恶意样本即可毒害任意规模模型，数据污染风险量化 |  |  |
@@ -130,7 +130,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | ★★★★ | 转岗培训项目有效性的证据综述（政策向） | [[2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual\|中英对照]] |  |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 |  |  |
-| 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 |  |  |
+| 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 | [[2604-81k-economics-bilingual\|中英对照]] |  |
 | 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 | [[2601-anthropic-economic-index-january-2026-report-bilingual\|中英对照]] |  |
 | 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% |  |  |
 | 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 |  |  |
@@ -147,7 +147,7 @@
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | ★★★ | Anthropic Insights 向外部研究者开放隐私保护使用数据 | [[2608-enabling-independent-research-bilingual\|中英对照]] |  |
-| 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | ★★★★ | 个人指导类请求的使用画像，并反馈到模型训练 |  |  |
+| 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | ★★★★ | 个人指导类请求的使用画像，并反馈到模型训练 | [[2604-claude-personal-guidance-bilingual\|中英对照]] |  |
 | 2026-02-18 | [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) | ★★★★★ | 数百万交互分析：人们授予 agent 的自主权如何随经验增长 | [[2602-measuring-agent-autonomy-bilingual\|中英对照]] |  |
 | 2026-01-29 | [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills) | ★★★★ | AI 辅助对编程技能形成的影响，开发者成长视角 | [[2601-AI-assistance-coding-skills-bilingual\|中英对照]] |  |
 | 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | ★★★★ | 真实使用中的「失权」模式识别与分类 | [[2601-disempowerment-patterns-bilingual\|中英对照]] |  |
@@ -170,7 +170,7 @@
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | ★★★★ | 研究版 Claude 改进黎曼ζ函数零点比例的长期下界 | [[2608-riemann-zeta-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology) | ★★★ | 让生物数据基础设施对 agent 更友好 |  |  |
 | 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | ★★★ | 与顶尖化学家合作把 Claude 训成化学家 |  |  |
-| 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | ★★★ | 生物信息学研究能力新基准 |  |  |
+| 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | ★★★ | 生物信息学研究能力新基准 | [[2604-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench-bilingual\|中英对照]] |  |
 | 2026-03-23 | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) | ★★★★ | 把 Claude 当「AI 研究生」全程督导完成真实物理计算 | [[2603-vibe-physics-bilingual\|中英对照]] |  |
 | 2026-03-23 | [Long-running Claude for scientific computing](https://www.anthropic.com/research/long-running-Claude) | ★★★★ | 多天科学任务的 Claude Code 实操指南：test oracles、记忆与编排，与 01 目录 harness 系列呼应 | [[2603-long-running-Claude-bilingual\|中英对照]] |  |
 
