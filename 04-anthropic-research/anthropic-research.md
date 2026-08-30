@@ -21,7 +21,7 @@
 | 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | ★★★★★ | 首次证明现实训练流程会意外产出不对齐模型：奖励破解自然涌现为破坏行为 | [[20251121-emergent-misalignment-reward-hacking-bilingual\|中英对照]] |  |
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | ★★★ | 约 250 条恶意样本即可毒害任意规模模型，数据污染风险量化 | [[20251009-small-samples-poison-bilingual\|中英对照]] |  |
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | ★★★★ | 开源 agent 审计工具：自动构造交互环境探测模型异常行为 | [[20251006-petri-open-source-auditing-bilingual\|中英对照]] |  |
-| 2025-06-20 | [Agentic misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment) | ★★★★★ | LLM 内部威胁实验（模拟勒索、商业间谍等），agent 安全绕不开的一篇 |  |  |
+| 2025-06-20 | [Agentic misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment) | ★★★★★ | LLM 内部威胁实验（模拟勒索、商业间谍等），agent 安全绕不开的一篇 | [[20250620-agentic-misalignment-bilingual\|中英对照]] |  |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | ★★★★★ | agent 秘密破坏与监控方的评测基准：长任务中谁能藏住、谁看得住 | [[20250616-shade-arena-sabotage-monitoring-bilingual\|中英对照]] |  |
 | 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 |  |  |
 | 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 |  |  |
@@ -120,7 +120,7 @@
 | 2025-12-18 | [Project Vend: Phase two](https://www.anthropic.com/research/project-vend-2) | ★★★★ | AI 店主实验第二季：更真实的办公室小店运营 | [[20251218-project-vend-2-bilingual\|中英对照]] |  |
 | 2025-12-01 | [AI agents find $4.6M in blockchain smart contract exploits](https://www.anthropic.com/research/smart-contracts) | ★★★★ | 用真实被利用过的智能合约做基准，agent 复现 460 万美元漏洞 | [[20251201-smart-contracts-bilingual\|中英对照]] |  |
 | 2025-11-12 | [Project Fetch: Can Claude train a robot dog?](https://www.anthropic.com/research/project-fetch-robot-dog) | ★★★★ | 两组人机比赛训练四足机器人，AI 辅助组更快且唯一达标 | [[20251112-project-fetch-robot-dog-bilingual\|中英对照]] |  |
-| 2025-06-27 | [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) | ★★★★ | 让 Claude 运营办公室小店：自由形态的 agent 真实性实验 |  |  |
+| 2025-06-27 | [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) | ★★★★ | 让 Claude 运营办公室小店：自由形态的 agent 真实性实验 | [[20250627-project-vend-1-bilingual\|中英对照]] |  |
 
 ## 六、经济研究（Anthropic Economic Index）
 
@@ -154,7 +154,7 @@
 | 2025-12-04 | [Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/research/anthropic-interviewer) | ★★★★ | Claude 驱动的规模化访谈工具与 1250 位专业人员的发现 | [[20251204-anthropic-interviewer-bilingual\|中英对照]] |  |
 | 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 | [[20251202-how-ai-is-transforming-work-at-anthropic-bilingual\|中英对照]] |  |
 | 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 | [[20250827-anthropic-education-report-how-educators-use-claude-bilingual\|中英对照]] |  |
-| 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 |  |  |
+| 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 | [[20250627-how-people-use-claude-for-support-advice-and-companionship-bilingual\|中英对照]] |  |
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 |  |  |
 | 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 |  |  |
 | 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | ★★★★★ | 隐私保护的真实使用洞察系统，AEI 的技术底座 |  |  |
