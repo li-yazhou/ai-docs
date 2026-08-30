@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 156 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 160 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，48 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，52 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,16 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，48 篇）
+### Anthropic 研究博客（anthropic.com/research，52 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | [为网络防守者打造 AI](/04-anthropic-research/20251003-building-ai-cyber-defenders/20251003-building-ai-cyber-defenders-bilingual.md) | ★★★ | Sonnet 4.5 网安能力提升：Cybench/CyberGym 评测数据与 HackerOne、CrowdStrike 防守向合作 |
+| 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | [Petri：加速 AI 安全研究的开源审计工具](/04-anthropic-research/20251006-petri-open-source-auditing/20251006-petri-open-source-auditing-bilingual.md) | ★★★★ | 开源 agent 审计工具：111 条种子指令横评 14 个前沿模型，附吹哨行为案例研究 |
+| 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | [少量样本即可毒害任意规模的 LLM](/04-anthropic-research/20251009-small-samples-poison/20251009-small-samples-poison-bilingual.md) | ★★★ | 与 UK AISI/图灵研究所合作：250 条毒文档即可给 600M–13B 模型植入后门，与规模无关 |
+| 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | [为 AI 的经济冲击做准备：探索政策应对](/04-anthropic-research/20251014-economic-policy-responses/20251014-economic-policy-responses-bilingual.md) | ★★★ | 按三类情景梳理九类政策构想：技能培训拨款、税改激励、算力/token 税、主权财富基金、增值税 |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | [用 AI 防卫关键基础设施](/04-anthropic-research/20260108-critical-infrastructure-defense/20260108-critical-infrastructure-defense-bilingual.md) | ★★★ | 与 PNNL 合作：水处理厂工控仿真上的对手仿真从数周缩到 3 小时 |
 | 2026-01-09 | [Next-generation Constitutional Classifiers](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | [新一代宪法分类器：更高效地防住通用越狱](/04-anthropic-research/20260109-next-generation-constitutional-classifiers/20260109-next-generation-constitutional-classifiers-bilingual.md) | ★★★★★ | 线性探针 + 探针-分类器集成级联：拒答率降 87%、开销降至 ~1%，红队 19.8 万次尝试未见通用越狱 |
 | 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | [用 Claude 与基于属性的测试找出 bug](/04-anthropic-research/20260114-property-based-testing/20260114-property-based-testing-bilingual.md) | ★★★★ | PBT agent 在 NumPy/Pandas 等真实包批量找 bug，多个补丁已合并 |

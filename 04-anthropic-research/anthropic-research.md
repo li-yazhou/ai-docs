@@ -19,8 +19,8 @@
 | 2026-04-14 | [Automated Alignment Researchers: Using large language models to scale scalable oversight](https://www.anthropic.com/research/automated-alignment-researchers) | ★★★★ | 让 Claude 自己提出、测试并分析对齐想法，可扩展监督的实验样本 | [[20260414-automated-alignment-researchers-bilingual\|中英对照]] |  |
 | 2025-12-19 | [Introducing Bloom: an open source tool for automated behavioral evaluations](https://www.anthropic.com/research/bloom) | ★★★ | 开源自动化行为评测工具，agent 批量探测模型行为 |  |  |
 | 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | ★★★★★ | 首次证明现实训练流程会意外产出不对齐模型：奖励破解自然涌现为破坏行为 |  |  |
-| 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | ★★★ | 约 250 条恶意样本即可毒害任意规模模型，数据污染风险量化 |  |  |
-| 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | ★★★★ | 开源 agent 审计工具：自动构造交互环境探测模型异常行为 |  |  |
+| 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | ★★★ | 约 250 条恶意样本即可毒害任意规模模型，数据污染风险量化 | [[20251009-small-samples-poison-bilingual\|中英对照]] |  |
+| 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | ★★★★ | 开源 agent 审计工具：自动构造交互环境探测模型异常行为 | [[20251006-petri-open-source-auditing-bilingual\|中英对照]] |  |
 | 2025-06-20 | [Agentic misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment) | ★★★★★ | LLM 内部威胁实验（模拟勒索、商业间谍等），agent 安全绕不开的一篇 |  |  |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | ★★★★★ | agent 秘密破坏与监控方的评测基准：长任务中谁能藏住、谁看得住 |  |  |
 | 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 |  |  |
@@ -97,7 +97,7 @@
 | 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 | [[20260109-next-generation-constitutional-classifiers-bilingual\|中英对照]] |  |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | ★★★ | 与 PNNL 合作用 AI 防守关键基础设施 | [[20260108-critical-infrastructure-defense-bilingual\|中英对照]] |  |
 | 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 |  |  |
-| 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 |  |  |
+| 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 | [[20251003-building-ai-cyber-defenders-bilingual\|中英对照]] |  |
 | 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | ★★★★ | 论为何认真对待 LLM 生物风险：评估与防护的论证 |  |  |
 | 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） |  |  |
 | 2025-08-09 | [Claude is competitive with humans in (some) cyber competitions](https://www.anthropic.com/research/cyber-competitions) | ★★★★ | Claude 参加人类网安竞赛常进前 25%：能力与短板实录 |  |  |
@@ -133,7 +133,7 @@
 | 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 | [[20260422-81k-economics-bilingual\|中英对照]] |  |
 | 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 | [[20260115-anthropic-economic-index-january-2026-report-bilingual\|中英对照]] |  |
 | 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% |  |  |
-| 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 |  |  |
+| 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 | [[20251014-economic-policy-responses-bilingual\|中英对照]] |  |
 | 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | ★★★ | 采用的地域与企业不均衡：委托式自动化上升 |  |  |
 | 2025-09-15 | [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography) | ★★★★ | AEI 地理维度首发：收入与 AI 采用强相关，directive 自动化 27%→39% |  |  |
 | 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | ★★★★★ | Claude Code 自动化率 79% vs 网页版 49%，软件开发被 AI 改造的第一手数据 |  |  |
