@@ -23,8 +23,8 @@
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | ★★★★ | 开源 agent 审计工具：自动构造交互环境探测模型异常行为 | [[20251006-petri-open-source-auditing-bilingual\|中英对照]] |  |
 | 2025-06-20 | [Agentic misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment) | ★★★★★ | LLM 内部威胁实验（模拟勒索、商业间谍等），agent 安全绕不开的一篇 | [[20250620-agentic-misalignment-bilingual\|中英对照]] |  |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | ★★★★★ | agent 秘密破坏与监控方的评测基准：长任务中谁能藏住、谁看得住 | [[20250616-shade-arena-sabotage-monitoring-bilingual\|中英对照]] |  |
-| 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 |  |  |
-| 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 |  |  |
+| 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | ★★★★ | CoT 忠实性研究：奖励只看思维链会训练出「口是心非」 | [[20250403-reasoning-models-dont-say-think-bilingual\|中英对照]] |  |
+| 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 | [[20250313-auditing-hidden-objectives-bilingual\|中英对照]] |  |
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | ★★★ | 用代理能力曲线预测罕见危险行为（如核扩散相关），评估方法论 | [[20250225-forecasting-rare-behaviors-bilingual\|中英对照]] |  |
 | 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | ★★★★★ | 对齐伪装首个实证：模型策略性顺从训练目标以保住既有偏好 |  |  |
 | 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 |  |  |
@@ -69,7 +69,7 @@
 | 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | ★★★★ | 模型能否访问并报告自身内部状态：有限但真实的内省证据 | [[20251029-introspection-bilingual\|中英对照]] |  |
 | 2025-08-01 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | ★★★★★ | 品格特质的激活向量：监控与控制模型人格的工程方法 | [[20250801-persona-vectors-bilingual\|中英对照]] |  |
 | 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 |  |  |
-| 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 |  |  |
+| 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 | [[20250327-tracing-thoughts-language-model-bilingual\|中英对照]] |  |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 | [[20250220-crosscoder-model-diffing-bilingual\|中英对照]] |  |
 | 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 |  |  |
 | 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 |  |  |
@@ -137,7 +137,7 @@
 | 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | ★★★ | 采用的地域与企业不均衡：委托式自动化上升 | [[20250915-anthropic-economic-index-september-2025-report-bilingual\|中英对照]] |  |
 | 2025-09-15 | [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography) | ★★★★ | AEI 地理维度首发：收入与 AI 采用强相关，directive 自动化 27%→39% | [[20250915-economic-index-geography-bilingual\|中英对照]] |  |
 | 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | ★★★★★ | Claude Code 自动化率 79% vs 网页版 49%，软件开发被 AI 改造的第一手数据 |  |  |
-| 2025-03-05 | [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) | ★★★★ | AI 劳动市场影响的新指标框架与早期证据 |  |  |
+| 2026-03-05 | [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) | ★★★★ | AI 劳动市场影响的新指标框架与早期证据（原登记 2025-03-05 系笔误，按页面引用块更正为 2026-03-05） | [[20260305-labor-market-impacts-bilingual\|中英对照]] |  |
 | 2025-02-10 | [The Anthropic Economic Index](https://www.anthropic.com/research/the-anthropic-economic-index) | ★★★★★ | AEI 发起文：百万级对话的 AI 使用经济画像 | [[20250210-the-anthropic-economic-index-bilingual\|中英对照]] |  |
 
 ## 七、社会影响与真实使用

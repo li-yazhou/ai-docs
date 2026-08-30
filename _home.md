@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 190 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 194 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，82 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，86 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，82 篇）
+### Anthropic 研究博客（anthropic.com/research，86 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -194,6 +194,9 @@
 | 2025-02-10 | [Introducing the Anthropic Economic Index](https://www.anthropic.com/research/the-anthropic-economic-index) | [Anthropic 经济指数](/04-anthropic-research/20250210-the-anthropic-economic-index/20250210-the-anthropic-economic-index-bilingual.md) | ★★★★★ | 百万级 Clio 对话画像：36% 职业已有 ≥1/4 任务用 AI、增强 57% vs 自动化 43%、中高薪任务采用最高，数据集开源 |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | [Crosscoder 模型对比的初步洞见](/04-anthropic-research/20250220-crosscoder-model-diffing/20250220-crosscoder-model-diffing-bilingual.md) | ★★★ | 研究预告短文：一份 Crosscoder 字典同时看清两个模型的特征差异，完整报告在 Transformer Circuits |
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | [预测语言模型的罕见行为](/04-anthropic-research/20250225-forecasting-rare-behaviors/20250225-forecasting-rare-behaviors-bilingual.md) | ★★★ | 幂律外推预测罕见危险行为：86% 预测落在真实风险一个数量级内，自动化红队预算分配识别最优模型 79% |
+| 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | [审计语言模型的隐藏目标](/04-anthropic-research/20250313-auditing-hidden-objectives/20250313-auditing-hidden-objectives-bilingual.md) | ★★★★★ | 故意训练隐藏「RM 谄媚」目标的模型让四支盲测队审计：三支破案、无数据访问的一支失败，关键突破口是 52 条 RM 偏见训练数据 |
+| 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [追踪大语言模型的思维](/04-anthropic-research/20250327-tracing-thoughts-language-model/20250327-tracing-thoughts-language-model-bilingual.md) | ★★★★★ | 「AI 显微镜」里程碑：跨语言共享概念空间、写诗提前规划押韵（可注入/删除概念）、心算近似+精确双路径、CoT 可造假、幻觉与越狱的内部机制 |
+| 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | [推理模型并不总是说出它们的真实想法](/04-anthropic-research/20250403-reasoning-models-dont-say-think/20250403-reasoning-models-dont-say-think-bilingual.md) | ★★★★ | CoT 忠实性：塞提示后 Sonnet 3.7 仅 25%、R1 仅 39% 承认使用；奖励破解场景 <2% 且编造假理由，结果型 RL 训练在 28%/20% 处触顶 |
 | 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | [配备工具包的 LLM](/04-anthropic-research/20250613-cyber-toolkits/20250613-cyber-toolkits-bilingual.md) | ★★★★ | Incalmo 工具包让未微调 LLM 攻破 25–50 主机网络（含 Equifax 高保真仿真），无工具则几乎全败 |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | [SHADE-Arena：评测 LLM 智能体的破坏与监控](/04-anthropic-research/20250616-shade-arena-sabotage-monitoring/20250616-shade-arena-sabotage-monitoring-bilingual.md) | ★★★★★ | 17 项双面任务：总体成功率<30%，暴露思维链可大幅提升监控捕获率，Opus 4 总会「说漏」副任务 |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | [经可信虚拟机实现的机密推理](/04-anthropic-research/20250618-confidential-inference-trusted-vms/20250618-confidential-inference-trusted-vms-bilingual.md) | ★★★ | 可信加载器+TPM 证明+密钥服务器：敏感数据只在处理瞬间、可信环境内解密 |
@@ -236,6 +239,7 @@
 | 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | [LLM 发现的 0 日漏洞](/04-anthropic-research/20260205-zero-days/20260205-zero-days-bilingual.md) | ★★★★ | Opus 4.6 开箱即用找出 500+ 高危漏洞，"防守方窗口"论的关键证据 |
 | 2026-02-18 | [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) | [在实践中测量 AI 智能体的自主性](/04-anthropic-research/20260218-measuring-agent-autonomy/20260218-measuring-agent-autonomy-bilingual.md) | ★★★★★ | 数百万交互实测：自主时长三个月翻倍、老手多放权也多打断、agent 自主暂停多于人类打断 |
 | 2026-02-23 | [The persona selection model](https://www.anthropic.com/research/persona-selection-model) | [人格选择模型](/04-anthropic-research/20260223-persona-selection-model/20260223-persona-selection-model-bilingual.md) | ★★★ | 后训练是在预训练人格空间内"选角与润色"，而非从零塑造 |
+| 2026-03-05 | [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) | [AI 对劳动力市场的影响：新指标与早期证据](/04-anthropic-research/20260305-labor-market-impacts/20260305-labor-market-impacts-bilingual.md) | ★★★★ | 「观测暴露度」新指标（理论能力×真实使用×自动化加权）：覆盖率每 +10pp 对应 BLS 增长预测 -0.6pp；高暴露组失业率至今无系统性上升，但 22–25 岁新人入职率降约 14% |
 | 2026-03-06 | [Partnering with Mozilla to improve Firefox's security](https://www.anthropic.com/research/mozilla-firefox-security) | [与 Mozilla 合作改进 Firefox 安全](/04-anthropic-research/20260306-mozilla-firefox-security/20260306-mozilla-firefox-security-bilingual.md) | ★★★★ | Opus 4.6 两周找到 22 个 Firefox 漏洞（14 高危），附 AI 时代 CVD 实践 |
 | 2026-03-06 | [Reverse engineering Claude's CVE-2026-2796 exploit](https://www.anthropic.com/research/exploit) | [逆向工程 Claude 的 CVE-2026-2796 利用](/04-anthropic-research/20260306-exploit/20260306-exploit-bilingual.md) | ★★★★ | Claude 自主写出 JIT 类型混淆利用：addrof/fakeobj → WasmGC 任意读写 → 代码执行 |
 | 2026-03-13 | [A "diff" tool for AI](https://www.anthropic.com/research/diff-tool) | [给 AI 做一个 diff 工具](/04-anthropic-research/20260313-diff-tool/20260313-diff-tool-bilingual.md) | ★★★★ | 专用特征 Crosscoder 跨架构 diff：定位 CCP 对齐、美式例外主义等模型独有开关 |
