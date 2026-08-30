@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 148 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 152 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，40 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，44 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，40 篇）
+### Anthropic 研究博客（anthropic.com/research，44 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -218,6 +218,10 @@
 | 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | [Anthropic Institute 的研究重点](/04-anthropic-research/2605-anthropic-institute-agenda/2605-anthropic-institute-agenda-bilingual.md) | ★★★ | TAI 四大研究支柱：经济扩散、威胁与韧性、野外 AI 系统、AI 驱动研发 |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | [教 Claude 为什么](/04-anthropic-research/2605-teaching-claude-why/2605-teaching-claude-why-bilingual.md) | ★★★★ | 系统性压降 agentic misalignment：训练"理由"胜过训练"行为"，OOD 数据效率 28 倍 |
 | 2026-05-14 | [2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership) | [2028：全球 AI 领导地位的两种情景](/04-anthropic-research/2605-2028-ai-leadership/2605-2028-ai-leadership-bilingual.md) | ★★★★ | 中美 AI 竞争 2028 推演：算力差距与蒸馏攻击、四条战线与政策三箭 |
+| 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | [度量 LLM 开发利用的能力](/04-anthropic-research/2605-exploit-evals/2605-exploit-evals-bilingual.md) | ★★★ | 三基准实测：ExploitBench 21/41 ACE、SCONE 3500 万美元、翻倍周期 0.7 个月 |
+| 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | [绘制一年 AI 赋能网络威胁的所得](/04-anthropic-research/2606-AI-enabled-cyber-threats-mitre-attack/2606-AI-enabled-cyber-threats-mitre-attack-bilingual.md) | ★★★★ | 832 个封禁账号映射 ATT&CK：中高风险半年翻 1.7 倍，攻击深入后期阶段 |
+| 2026-06-03 | [Mapping AI-enabled cyber threats](https://www.anthropic.com/research/attack-navigator) | [映射 AI 赋能的网络威胁](/04-anthropic-research/2606-attack-navigator/2606-attack-navigator-bilingual.md) | ★★★ | LLM ATT&CK Navigator 与 ARiES 评分：区分器是编排而非技能 |
+| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | [把 Claude 训成化学家](/04-anthropic-research/2606-making-claude-a-chemist/2606-making-claude-a-chemist-bilingual.md) | ★★★ | NMR 对决 ChemDraw：Opus 4.7 氢谱 ±0.079 ppm，可从谱图反推结构 |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | [语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md) | ★★★★ | Claude 内部自发涌现的 J-space「心理工作区」：可报告、可调控、供推理，兼可监控隐藏意图 |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | [给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md) | ★★★ | GRAM 梯度路由辅助模块：两用知识圈进可删除的权重分区，一次训练 16 种配置 |
 | 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | [Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md) | ★★★ | 12 模型 × 4 控制接口 × 多本体的大规模具身横评：高层控制远胜直接驱动 |
@@ -231,4 +235,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 40 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 44 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

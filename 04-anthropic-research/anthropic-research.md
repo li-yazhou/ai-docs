@@ -88,9 +88,9 @@
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[2607-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 | [[2607-off-switch-dual-use-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Measuring LLMs' impact on N-day exploits](https://www.anthropic.com/research/n-days) | ★★★★ | N 日漏洞（已披露未修复）的 LLM 影响测量 |  |  |
-| 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | ★★★★ | 一年真实 AI 网络威胁情报的年度报告 |  |  |
-| 2026-06-03 | [Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator](https://www.anthropic.com/research/attack-navigator) | ★★★ | 把真实攻击映射到 MITRE ATT&CK 框架的方法与洞察 |  |  |
-| 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | ★★★ | 漏洞利用开发能力的新基准（含智能合约升级版） |  |  |
+| 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | ★★★★ | 一年真实 AI 网络威胁情报的年度报告 | [[2606-AI-enabled-cyber-threats-mitre-attack-bilingual\|中英对照]] |  |
+| 2026-06-03 | [Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator](https://www.anthropic.com/research/attack-navigator) | ★★★ | 把真实攻击映射到 MITRE ATT&CK 框架的方法与洞察 | [[2606-attack-navigator-bilingual\|中英对照]] |  |
+| 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | ★★★ | 漏洞利用开发能力的新基准（含智能合约升级版） | [[2605-exploit-evals-bilingual\|中英对照]] |  |
 | 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | ★★★★ | Mythos Preview 网安能力的技术评估细节 | [[2604-mythos-preview-bilingual\|中英对照]] |  |
 | 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | ★★★★ | 0 日发现规模化风险与防守方赋能路线 | [[2602-zero-days-bilingual\|中英对照]] |  |
 | 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 | [[2601-cyber-toolkits-update-bilingual\|中英对照]] |  |
@@ -169,7 +169,7 @@
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | ★★★★ | 蛋白质设计与分析化学提效的两个实例 | [[2608-claude-accelerates-protein-design-bilingual\|中英对照]] |  |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | ★★★★ | 研究版 Claude 改进黎曼ζ函数零点比例的长期下界 | [[2608-riemann-zeta-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology) | ★★★ | 让生物数据基础设施对 agent 更友好 |  |  |
-| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | ★★★ | 与顶尖化学家合作把 Claude 训成化学家 |  |  |
+| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | ★★★ | 与顶尖化学家合作把 Claude 训成化学家 | [[2606-making-claude-a-chemist-bilingual\|中英对照]] |  |
 | 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | ★★★ | 生物信息学研究能力新基准 | [[2604-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench-bilingual\|中英对照]] |  |
 | 2026-03-23 | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) | ★★★★ | 把 Claude 当「AI 研究生」全程督导完成真实物理计算 | [[2603-vibe-physics-bilingual\|中英对照]] |  |
 | 2026-03-23 | [Long-running Claude for scientific computing](https://www.anthropic.com/research/long-running-Claude) | ★★★★ | 多天科学任务的 Claude Code 实操指南：test oracles、记忆与编排，与 01 目录 harness 系列呼应 | [[2603-long-running-Claude-bilingual\|中英对照]] |  |
