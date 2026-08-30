@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 177 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 180 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，69 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，72 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，69 篇）
+### Anthropic 研究博客（anthropic.com/research，72 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -196,6 +196,9 @@
 | 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | [Claude Opus 4 与 4.1 可以结束一小类对话](/04-anthropic-research/20250815-end-subset-conversations/20250815-end-subset-conversations-bilingual.md) | ★★★ | 模型可结束持续虐待性对话：AI 福利探索的产品化干预，仅作多轮转引失败后的最后手段 |
 | 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | [为 AI 开发核安全保障](/04-anthropic-research/20250821-nuclear-safeguards-for-ai/20250821-nuclear-safeguards-for-ai-bilingual.md) | ★★★★ | 与 NNSA/DOE 共建核内容分类器：合成数据破题保密与隐私双重约束，检出 94.8% 零误报 |
 | 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | [Anthropic 教育报告：教育者如何使用 Claude](/04-anthropic-research/20250827-anthropic-education-report-how-educators-use-claude/20250827-anthropic-education-report-how-educators-use-claude-bilingual.md) | ★★★ | 7.4 万高教对话：课程开发占 57%、Artifacts 造交互课件，AI 批改的自动化争议 |
+| 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | [LLM 与生物风险](/04-anthropic-research/20250905-biorisk/20250905-biorisk-bilingual.md) | ★★★★ | 认真对待 LLM 生物风险的论证：VCT 逼近并超越专家、上游试验显著提质、湿实验与 FMF 后续 |
+| 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | [Anthropic 经济指数报告：地理与企业 AI 采用的不均衡](/04-anthropic-research/20250915-anthropic-economic-index-september-2025-report/20250915-anthropic-economic-index-september-2025-report-bilingual.md) | ★★★ | V3 完整报告三章：地理 AUI 指数+API 企业部署 77% 自动化、上下文弹性 0.38 |
+| 2025-09-15 | [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography) | [Anthropic 经济指数：追踪 AI 在美国与全球经济中的角色](/04-anthropic-research/20250915-economic-index-geography/20250915-economic-index-geography-bilingual.md) | ★★★★ | AEI 地理首发博客版：使用与人均收入强相关（0.7/州 1.8）、directive 自动化 27%→39% |
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | [为网络防守者打造 AI](/04-anthropic-research/20251003-building-ai-cyber-defenders/20251003-building-ai-cyber-defenders-bilingual.md) | ★★★ | Sonnet 4.5 网安能力提升：Cybench/CyberGym 评测数据与 HackerOne、CrowdStrike 防守向合作 |
 | 2025-10-06 | [Petri: An open-source auditing tool to accelerate AI safety research](https://www.anthropic.com/research/petri-open-source-auditing) | [Petri：加速 AI 安全研究的开源审计工具](/04-anthropic-research/20251006-petri-open-source-auditing/20251006-petri-open-source-auditing-bilingual.md) | ★★★★ | 开源 agent 审计工具：111 条种子指令横评 14 个前沿模型，附吹哨行为案例研究 |
 | 2025-10-09 | [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison) | [少量样本即可毒害任意规模的 LLM](/04-anthropic-research/20251009-small-samples-poison/20251009-small-samples-poison-bilingual.md) | ★★★ | 与 UK AISI/图灵研究所合作：250 条毒文档即可给 600M–13B 模型植入后门，与规模无关 |
