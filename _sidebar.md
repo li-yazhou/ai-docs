@@ -113,6 +113,12 @@
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2607-语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md)
+  - [2607-给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md)
+  - [2607-Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md)
+  - [2607-Claude 的价值观如何随模型与语言而变化](/04-anthropic-research/2607-claude-values-models-languages/2607-claude-values-models-languages-bilingual.md)
+  - [2607-Project Pilot：AI 模型能飞无人机吗？](/04-anthropic-research/2607-project-pilot/2607-project-pilot-bilingual.md)
+  - [2607-用 Claude 发现密码学弱点](/04-anthropic-research/2607-discovering-cryptographic-weaknesses/2607-discovering-cryptographic-weaknesses-bilingual.md)
   - [2608-深入了解 Claude 的数学能力](/04-anthropic-research/2608-riemann-zeta/2608-riemann-zeta-bilingual.md)
   - [2608-转岗培训项目的效果究竟如何？](/04-anthropic-research/2608-reviewing-the-evidence-on-worker-retraining-programs/2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual.md)
   - [2608-多智能体系统的模式与问题](/04-anthropic-research/2608-multiagent-systems/2608-multiagent-systems-bilingual.md)

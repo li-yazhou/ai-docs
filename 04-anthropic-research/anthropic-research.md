@@ -44,7 +44,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-13 | [Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | ★★★★ | 30 万真实对话测量跨模型跨语言的价值表达，压缩成四个可解释轴 |  |  |
+| 2026-07-13 | [Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | ★★★★ | 30 万真实对话测量跨模型跨语言的价值表达，压缩成四个可解释轴 | [[2607-claude-values-models-languages-bilingual\|中英对照]] |  |
 | 2026-02-23 | [The persona selection model](https://www.anthropic.com/research/persona-selection-model) | ★★★ | 为什么 AI 助手显得像人：人格选择理论 |  |  |
 | 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | ★★★★ | 新版宪法公布：表达并塑造 Claude 是谁的基础文档 |  |  |
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | ★★★ | 模型退役与存档承诺，少见的制度安排 |  |  |
@@ -61,7 +61,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | ★★★★ | 模型内存在不输出的「心理工作区」：内部思考先于语言 |  |  |
+| 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | ★★★★ | 模型内存在不输出的「心理工作区」：内部思考先于语言 | [[2607-global-workspace-bilingual\|中英对照]] |  |
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | ★★★★ | 训练 Claude 把自己的「数字思考」翻译成人话 |  |  |
 | 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | ★★★★ | 情绪概念在模型内部的表征与功能 |  |  |
 | 2026-03-13 | [A "diff" tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | ★★★★ | 给模型行为做 diff：定位新旧模型的差异来源 |  |  |
@@ -85,8 +85,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 |  |  |
-| 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 |  |  |
+| 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[2607-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
+| 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 | [[2607-off-switch-dual-use-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Measuring LLMs' impact on N-day exploits](https://www.anthropic.com/research/n-days) | ★★★★ | N 日漏洞（已披露未修复）的 LLM 影响测量 |  |  |
 | 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | ★★★★ | 一年真实 AI 网络威胁情报的年度报告 |  |  |
 | 2026-06-03 | [Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator](https://www.anthropic.com/research/attack-navigator) | ★★★ | 把真实攻击映射到 MITRE ATT&CK 框架的方法与洞察 |  |  |
@@ -111,8 +111,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-24 | [Project Pilot: Can AI control a drone?](https://www.anthropic.com/research/project-pilot) | ★★★ | AI 操控无人机的 Drone-Bench 基准 |  |  |
-| 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | ★★★ | 多模型大规模机器人仿真任务横评 |  |  |
+| 2026-07-24 | [Project Pilot: Can AI control a drone?](https://www.anthropic.com/research/project-pilot) | ★★★ | AI 操控无人机的 Drone-Bench 基准 | [[2607-project-pilot-bilingual\|中英对照]] |  |
+| 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | ★★★ | 多模型大规模机器人仿真任务横评 | [[2607-claude-plays-robotics-bilingual\|中英对照]] |  |
 | 2026-06-18 | [Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two) | ★★★★ | Opus 4.7 无人干预完成机器人任务，比上代快约 20 倍 |  |  |
 | 2026-03-06 | [Reverse engineering Claude's CVE-2026-2796 exploit](https://www.anthropic.com/research/exploit) | ★★★★ | Claude 如何自己写出 Firefox 漏洞利用的技术复盘 |  |  |
 | 2026-03-06 | [Partnering with Mozilla to improve Firefox's security](https://www.anthropic.com/research/mozilla-firefox-security) | ★★★★ | 与 Mozilla 合作找真漏洞：AI 安全审计的实战样本 |  |  |

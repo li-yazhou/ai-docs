@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 114 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 120 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，6 篇）：Alignment、多智能体风险、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，12 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,18 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，6 篇）
+### Anthropic 研究博客（anthropic.com/research，12 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | [语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md) | ★★★★ | Claude 内部自发涌现的 J-space「心理工作区」：可报告、可调控、供推理，兼可监控隐藏意图 |
+| 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | [给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md) | ★★★ | GRAM 梯度路由辅助模块：两用知识圈进可删除的权重分区，一次训练 16 种配置 |
+| 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | [Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md) | ★★★ | 12 模型 × 4 控制接口 × 多本体的大规模具身横评：高层控制远胜直接驱动 |
+| 2026-07-13 | [Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | [Claude 的价值观如何随模型与语言而变化](/04-anthropic-research/2607-claude-values-models-languages/2607-claude-values-models-languages-bilingual.md) | ★★★★ | 30 万对话压缩出四条价值轴，量化跨模型与跨语言的价值漂移 |
+| 2026-07-24 | [Project Pilot: Can AI control a drone?](https://www.anthropic.com/research/project-pilot) | [Project Pilot：AI 模型能飞无人机吗？](/04-anthropic-research/2607-project-pilot/2607-project-pilot-bilingual.md) | ★★★ | Drone-Bench：无人机定位跟随五子任务，Fable 5 四项过人机基线 |
+| 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | [用 Claude 发现密码学弱点](/04-anthropic-research/2607-discovering-cryptographic-weaknesses/2607-discovering-cryptographic-weaknesses-bilingual.md) | ★★★★ | HAWK 后量子签名密钥强度减半、7 轮 AES 攻击提速 200–800 倍 |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | [深入了解 Claude 的数学能力](/04-anthropic-research/2608-riemann-zeta/2608-riemann-zeta-bilingual.md) | ★★★★ | 研究版 Claude 改进黎曼 ζ 函数零点比例下界至 67.2%，经人类数学家验证 |
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | [转岗培训项目的效果究竟如何？](/04-anthropic-research/2608-reviewing-the-evidence-on-worker-retraining-programs/2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual.md) | ★★★★ | 56 项随机实验元分析：AI 冲击下最热门政策选项的证据基础 |
 | 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | [多智能体系统的模式与问题](/04-anthropic-research/2608-multiagent-systems/2608-multiagent-systems-bilingual.md) | ★★★★★ | 从众、认知失灵、目标冲突：多智能体系统性失败的三类根源（年度必读） |
@@ -197,4 +203,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 6 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 12 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
