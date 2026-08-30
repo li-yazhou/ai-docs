@@ -1,9 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 108 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 114 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
+- **Anthropic 研究博客**（anthropic.com/research，6 篇）：Alignment、多智能体风险、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -182,3 +183,18 @@
 | 2026-05-14 | [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) | [创始人手册：打造 AI 原生初创公司](/02-claude/2605-founders-playbook/2605-founders-playbook-bilingual.md) | ★★★ | AI 原生创业手册 |
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
+
+### Anthropic 研究博客（anthropic.com/research，6 篇）
+
+*Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
+
+| 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
+| --- | --- | --- | --- | --- |
+| 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | [深入了解 Claude 的数学能力](/04-anthropic-research/2608-riemann-zeta/2608-riemann-zeta-bilingual.md) | ★★★★ | 研究版 Claude 改进黎曼 ζ 函数零点比例下界至 67.2%，经人类数学家验证 |
+| 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | [转岗培训项目的效果究竟如何？](/04-anthropic-research/2608-reviewing-the-evidence-on-worker-retraining-programs/2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual.md) | ★★★★ | 56 项随机实验元分析：AI 冲击下最热门政策选项的证据基础 |
+| 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | [多智能体系统的模式与问题](/04-anthropic-research/2608-multiagent-systems/2608-multiagent-systems-bilingual.md) | ★★★★★ | 从众、认知失灵、目标冲突：多智能体系统性失败的三类根源（年度必读） |
+| 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | [Claude 如何加速蛋白质设计与分析化学](/04-anthropic-research/2608-claude-accelerates-protein-design/2608-claude-accelerates-protein-design-bilingual.md) | ★★★★ | 真实湿实验验证的蛋白质从头设计战役与分析化学全流程自动化 |
+| 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
+| 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
+
+（研究区共 6 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

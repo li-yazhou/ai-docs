@@ -111,3 +111,11 @@
   - [2608-把 Claude Mythos 5 的网络安全能力带给更多防守者](/02-claude/2608-mythos-5-defenders/2608-mythos-5-defenders-bilingual.md)
   - [2608-Claude 的记忆无处不在，内容由你决定](/02-claude/2608-claude-memory-everywhere/2608-claude-memory-everywhere-bilingual.md)
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
+- **Anthropic 研究博客（anthropic.com/research）**
+  - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2608-深入了解 Claude 的数学能力](/04-anthropic-research/2608-riemann-zeta/2608-riemann-zeta-bilingual.md)
+  - [2608-转岗培训项目的效果究竟如何？](/04-anthropic-research/2608-reviewing-the-evidence-on-worker-retraining-programs/2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual.md)
+  - [2608-多智能体系统的模式与问题](/04-anthropic-research/2608-multiagent-systems/2608-multiagent-systems-bilingual.md)
+  - [2608-Claude 如何加速蛋白质设计与分析化学](/04-anthropic-research/2608-claude-accelerates-protein-design/2608-claude-accelerates-protein-design-bilingual.md)
+  - [2608-让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/2608-enabling-independent-research/2608-enabling-independent-research-bilingual.md)
+  - [2608-自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/2608-automated-researchers-mitigate-alignment-failures/2608-automated-researchers-mitigate-alignment-failures-bilingual.md)
