@@ -27,7 +27,7 @@
 | 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | ★★★★★ | 先训练一个带隐藏目标的模型，再让三支审计队盲测，审计方法论示范作 | [[20250313-auditing-hidden-objectives-bilingual\|中英对照]] |  |
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | ★★★ | 用代理能力曲线预测罕见危险行为（如核扩散相关），评估方法论 | [[20250225-forecasting-rare-behaviors-bilingual\|中英对照]] |  |
 | 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | ★★★★★ | 对齐伪装首个实证：模型策略性顺从训练目标以保住既有偏好 |  |  |
-| 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 |  |  |
+| 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 | [[20241119-statistical-approach-to-model-evals-bilingual\|中英对照]] |  |
 | 2024-10-18 | [Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations) | ★★★★ | 前沿模型破坏能力三类评测：代码破坏、暗中倒戈、输入污染 | [[20241018-sabotage-evaluations-bilingual\|中英对照]] |  |
 | 2024-06-17 | [Sycophancy to subterfuge: Investigating reward tampering in language models](https://www.anthropic.com/research/reward-tampering) | ★★★★ | 小规格博弈会泛化为奖励篡改，从谄媚到 subterfuge 的演化链 | [[20240617-reward-tampering-bilingual\|中英对照]] |  |
 | 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | ★★★★ | 长上下文 many-shot ICL 带来的新型越狱攻击，上下文长度与安全的交叉 | [[20240402-many-shot-jailbreaking-bilingual\|中英对照]] |  |
@@ -71,7 +71,7 @@
 | 2025-05-29 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | ★★★★ | 开源 circuit tracing 工具与 attribution graphs，自己动手看模型思考 | [[20250529-open-source-circuit-tracing-bilingual\|中英对照]] |  |
 | 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 | [[20250327-tracing-thoughts-language-model-bilingual\|中英对照]] |  |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 | [[20250220-crosscoder-model-diffing-bilingual\|中英对照]] |  |
-| 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 |  |  |
+| 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 | [[20241025-evaluating-feature-steering-bilingual\|中英对照]] |  |
 | 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 | [[20240613-engineering-challenges-interpretability-bilingual\|中英对照]] |  |
 | 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | ★★★★★ | 首次详查生产级大模型内部：数千万概念的特征字典 | [[20240521-mapping-mind-language-model-bilingual\|中英对照]] |  |
 | 2023-10-05 | [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning) | ★★★★★ | SAE 字典学习分解单义特征，可解释性工程化的奠基作 |  |  |
@@ -157,7 +157,7 @@
 | 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 | [[20250627-how-people-use-claude-for-support-advice-and-companionship-bilingual\|中英对照]] |  |
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 | [[20250421-values-wild-bilingual\|中英对照]] |  |
 | 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 | [[20250408-anthropic-education-report-how-university-students-use-claude-bilingual\|中英对照]] |  |
-| 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | ★★★★★ | 隐私保护的真实使用洞察系统，AEI 的技术底座 |  |  |
+| 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | ★★★★★ | 隐私保护的真实使用洞察系统，AEI 的技术底座 | [[20241212-clio-bilingual\|中英对照]] |  |
 | 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | ★★★★ | LLM 说服力测量：随规模与训练的变化 | [[20240409-measuring-model-persuasiveness-bilingual\|中英对照]] |  |
 
 ## 八、AI for Science
@@ -184,7 +184,7 @@
 | 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | ★★★ | Anthropic Institute 的研究议程公开 | [[20260507-anthropic-institute-agenda-bilingual\|中英对照]] |  |
 | 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | ★★★★ | agent 如何工作以及如何保证可信，官方的 agent 信任框架 | [[20260409-trustworthy-agents-bilingual\|中英对照]] |  |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | ★★★ | 用 TEE 保护模型权重与用户数据的机密推理 | [[20250618-confidential-inference-trusted-vms-bilingual\|中英对照]] |  |
-| 2024-10-22 | [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use) | ★★★★ | computer use 模型的开发过程与技术细节 |  |  |
+| 2024-10-22 | [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use) | ★★★★ | computer use 模型的开发过程与技术细节 | [[20241022-developing-computer-use-bilingual\|中英对照]] |  |
 
 ---
 
