@@ -87,7 +87,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[2607-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 | [[2607-off-switch-dual-use-bilingual\|中英对照]] |  |
-| 2026-06-08 | [Measuring LLMs' impact on N-day exploits](https://www.anthropic.com/research/n-days) | ★★★★ | N 日漏洞（已披露未修复）的 LLM 影响测量 |  |  |
+| 2026-06-08 | [Measuring LLMs' impact on N-day exploits](https://www.anthropic.com/research/n-days) | ★★★★ | N 日漏洞（已披露未修复）的 LLM 影响测量 | [[2606-n-days-bilingual\|中英对照]] |  |
 | 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | ★★★★ | 一年真实 AI 网络威胁情报的年度报告 | [[2606-AI-enabled-cyber-threats-mitre-attack-bilingual\|中英对照]] |  |
 | 2026-06-03 | [Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator](https://www.anthropic.com/research/attack-navigator) | ★★★ | 把真实攻击映射到 MITRE ATT&CK 框架的方法与洞察 | [[2606-attack-navigator-bilingual\|中英对照]] |  |
 | 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | ★★★ | 漏洞利用开发能力的新基准（含智能合约升级版） | [[2605-exploit-evals-bilingual\|中英对照]] |  |
@@ -113,7 +113,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-24 | [Project Pilot: Can AI control a drone?](https://www.anthropic.com/research/project-pilot) | ★★★ | AI 操控无人机的 Drone-Bench 基准 | [[2607-project-pilot-bilingual\|中英对照]] |  |
 | 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | ★★★ | 多模型大规模机器人仿真任务横评 | [[2607-claude-plays-robotics-bilingual\|中英对照]] |  |
-| 2026-06-18 | [Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two) | ★★★★ | Opus 4.7 无人干预完成机器人任务，比上代快约 20 倍 |  |  |
+| 2026-06-18 | [Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two) | ★★★★ | Opus 4.7 无人干预完成机器人任务，比上代快约 20 倍 | [[2606-project-fetch-phase-two-bilingual\|中英对照]] |  |
 | 2026-03-06 | [Reverse engineering Claude's CVE-2026-2796 exploit](https://www.anthropic.com/research/exploit) | ★★★★ | Claude 如何自己写出 Firefox 漏洞利用的技术复盘 | [[2603-exploit-bilingual\|中英对照]] |  |
 | 2026-03-06 | [Partnering with Mozilla to improve Firefox's security](https://www.anthropic.com/research/mozilla-firefox-security) | ★★★★ | 与 Mozilla 合作找真漏洞：AI 安全审计的实战样本 | [[2603-mozilla-firefox-security-bilingual\|中英对照]] |  |
 | 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | ★★★★ | Claude + 基于属性的测试在 Python 生态批量找 bug，测试工程与 agent 的结合 | [[2601-property-based-testing-bilingual\|中英对照]] |  |
@@ -129,7 +129,7 @@
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | ★★★★ | 转岗培训项目有效性的证据综述（政策向） | [[2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual\|中英对照]] |  |
-| 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 |  |  |
+| 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 | [[2606-claude-code-expertise-bilingual\|中英对照]] |  |
 | 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 | [[2604-81k-economics-bilingual\|中英对照]] |  |
 | 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 | [[2601-anthropic-economic-index-january-2026-report-bilingual\|中英对照]] |  |
 | 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% |  |  |
@@ -168,7 +168,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | ★★★★ | 蛋白质设计与分析化学提效的两个实例 | [[2608-claude-accelerates-protein-design-bilingual\|中英对照]] |  |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | ★★★★ | 研究版 Claude 改进黎曼ζ函数零点比例的长期下界 | [[2608-riemann-zeta-bilingual\|中英对照]] |  |
-| 2026-06-08 | [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology) | ★★★ | 让生物数据基础设施对 agent 更友好 |  |  |
+| 2026-06-08 | [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology) | ★★★ | 让生物数据基础设施对 agent 更友好 | [[2606-agents-in-biology-bilingual\|中英对照]] |  |
 | 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | ★★★ | 与顶尖化学家合作把 Claude 训成化学家 | [[2606-making-claude-a-chemist-bilingual\|中英对照]] |  |
 | 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | ★★★ | 生物信息学研究能力新基准 | [[2604-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench-bilingual\|中英对照]] |  |
 | 2026-03-23 | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) | ★★★★ | 把 Claude 当「AI 研究生」全程督导完成真实物理计算 | [[2603-vibe-physics-bilingual\|中英对照]] |  |
