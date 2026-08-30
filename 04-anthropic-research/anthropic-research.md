@@ -63,7 +63,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | ★★★★ | 模型内存在不输出的「心理工作区」：内部思考先于语言 | [[2607-global-workspace-bilingual\|中英对照]] |  |
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | ★★★★ | 训练 Claude 把自己的「数字思考」翻译成人话 |  |  |
-| 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | ★★★★ | 情绪概念在模型内部的表征与功能 |  |  |
+| 2026-04-02 | [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) | ★★★★ | 情绪概念在模型内部的表征与功能 | [[2604-emotion-concepts-function-bilingual\|中英对照]] |  |
 | 2026-03-13 | [A "diff" tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | ★★★★ | 给模型行为做 diff：定位新旧模型的差异来源 | [[2603-diff-tool-bilingual\|中英对照]] |  |
 | 2026-01-19 | [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis) | ★★★★ | 「助手人格」的定位与稳定化，品格研究的几何视角 | [[2601-assistant-axis-bilingual\|中英对照]] |  |
 | 2025-10-29 | [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) | ★★★★ | 模型能否访问并报告自身内部状态：有限但真实的内省证据 |  |  |
@@ -91,7 +91,7 @@
 | 2026-06-03 | [What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack) | ★★★★ | 一年真实 AI 网络威胁情报的年度报告 |  |  |
 | 2026-06-03 | [Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator](https://www.anthropic.com/research/attack-navigator) | ★★★ | 把真实攻击映射到 MITRE ATT&CK 框架的方法与洞察 |  |  |
 | 2026-05-22 | [Measuring LLMs' ability to develop exploits](https://www.anthropic.com/research/exploit-evals) | ★★★ | 漏洞利用开发能力的新基准（含智能合约升级版） |  |  |
-| 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | ★★★★ | Mythos Preview 网安能力的技术评估细节 |  |  |
+| 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | ★★★★ | Mythos Preview 网安能力的技术评估细节 | [[2604-mythos-preview-bilingual\|中英对照]] |  |
 | 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | ★★★★ | 0 日发现规模化风险与防守方赋能路线 | [[2602-zero-days-bilingual\|中英对照]] |  |
 | 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 | [[2601-cyber-toolkits-update-bilingual\|中英对照]] |  |
 | 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 | [[2601-next-generation-constitutional-classifiers-bilingual\|中英对照]] |  |
@@ -172,7 +172,7 @@
 | 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | ★★★ | 与顶尖化学家合作把 Claude 训成化学家 |  |  |
 | 2026-04-29 | [Evaluating Claude's bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | ★★★ | 生物信息学研究能力新基准 |  |  |
 | 2026-03-23 | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) | ★★★★ | 把 Claude 当「AI 研究生」全程督导完成真实物理计算 | [[2603-vibe-physics-bilingual\|中英对照]] |  |
-| 2026-03-23 | [Long-running Claude for scientific computing](https://www.anthropic.com/research/long-running-Claude) | ★★★★ | 多天科学任务的 Claude Code 实操指南：test oracles、记忆与编排，与 01 目录 harness 系列呼应 |  |  |
+| 2026-03-23 | [Long-running Claude for scientific computing](https://www.anthropic.com/research/long-running-Claude) | ★★★★ | 多天科学任务的 Claude Code 实操指南：test oracles、记忆与编排，与 01 目录 harness 系列呼应 | [[2603-long-running-Claude-bilingual\|中英对照]] |  |
 
 ## 九、产品技术与战略
 
@@ -182,7 +182,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2026-05-14 | [2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership) | ★★★★ | 中美 AI 竞争的两种 2028 情景推演 |  |  |
 | 2026-05-07 | [Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda) | ★★★ | Anthropic Institute 的研究议程公开 |  |  |
-| 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | ★★★★ | agent 如何工作以及如何保证可信，官方的 agent 信任框架 |  |  |
+| 2026-04-09 | [Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents) | ★★★★ | agent 如何工作以及如何保证可信，官方的 agent 信任框架 | [[2604-trustworthy-agents-bilingual\|中英对照]] |  |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | ★★★ | 用 TEE 保护模型权重与用户数据的机密推理 |  |  |
 | 2024-10-22 | [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use) | ★★★★ | computer use 模型的开发过程与技术细节 |  |  |
 
