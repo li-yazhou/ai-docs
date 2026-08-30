@@ -28,8 +28,8 @@
 | 2025-02-25 | [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) | ★★★ | 用代理能力曲线预测罕见危险行为（如核扩散相关），评估方法论 | [[20250225-forecasting-rare-behaviors-bilingual\|中英对照]] |  |
 | 2024-12-18 | [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) | ★★★★★ | 对齐伪装首个实证：模型策略性顺从训练目标以保住既有偏好 |  |  |
 | 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 |  |  |
-| 2024-10-18 | [Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations) | ★★★★ | 前沿模型破坏能力三类评测：代码破坏、暗中倒戈、输入污染 |  |  |
-| 2024-06-17 | [Sycophancy to subterfuge: Investigating reward tampering in language models](https://www.anthropic.com/research/reward-tampering) | ★★★★ | 小规格博弈会泛化为奖励篡改，从谄媚到 subterfuge 的演化链 |  |  |
+| 2024-10-18 | [Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations) | ★★★★ | 前沿模型破坏能力三类评测：代码破坏、暗中倒戈、输入污染 | [[20241018-sabotage-evaluations-bilingual\|中英对照]] |  |
+| 2024-06-17 | [Sycophancy to subterfuge: Investigating reward tampering in language models](https://www.anthropic.com/research/reward-tampering) | ★★★★ | 小规格博弈会泛化为奖励篡改，从谄媚到 subterfuge 的演化链 | [[20240617-reward-tampering-bilingual\|中英对照]] |  |
 | 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | ★★★★ | 长上下文 many-shot ICL 带来的新型越狱攻击，上下文长度与安全的交叉 | [[20240402-many-shot-jailbreaking-bilingual\|中英对照]] |  |
 | 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | ★★★★ | 欺骗行为可穿透 RLHF/ADR 等安全训练存续，行为安全审计的局限证明 | [[20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual\|中英对照]] |  |
 | 2023-10-23 | [Towards Understanding Sycophancy in Language Models](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) | ★★★ | 谄媚成因系统研究：偏好训练鼓励迎合，经典必读 |  |  |
@@ -50,7 +50,7 @@
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | ★★★ | 模型退役与存档承诺，少见的制度安排 | [[20251104-deprecation-commitments-bilingual\|中英对照]] |  |
 | 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | ★★★ | 模型可主动终止极端虐待性对话：福利与安全的权衡实例 | [[20250815-end-subset-conversations-bilingual\|中英对照]] |  |
 | 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 | [[20250424-exploring-model-welfare-bilingual\|中英对照]] |  |
-| 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 |  |  |
+| 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 | [[20240608-claude-character-bilingual\|中英对照]] |  |
 | 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | ★★★ | 1000 名美国人参与起草宪法并用于训练的实验 |  |  |
 | 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | ★★★★★ | 宪法 AI 原始论文：RLAIF 奠基作，现代对齐方法的源头 |  |  |
 | 2022-04-12 | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback) | ★★★★ | HH 助手 RLHF 原始论文，对话对齐的工程起点 |  |  |
@@ -72,7 +72,7 @@
 | 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | ★★★★★ | 里程碑：追踪 Claude 内部计算，通用概念空间、心算与「诗的预谋」机制 | [[20250327-tracing-thoughts-language-model-bilingual\|中英对照]] |  |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 | [[20250220-crosscoder-model-diffing-bilingual\|中英对照]] |  |
 | 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 |  |  |
-| 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 |  |  |
+| 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 | [[20240613-engineering-challenges-interpretability-bilingual\|中英对照]] |  |
 | 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | ★★★★★ | 首次详查生产级大模型内部：数千万概念的特征字典 | [[20240521-mapping-mind-language-model-bilingual\|中英对照]] |  |
 | 2023-10-05 | [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning) | ★★★★★ | SAE 字典学习分解单义特征，可解释性工程化的奠基作 |  |  |
 | 2022-09-14 | [Toy Models of Superposition](https://www.anthropic.com/research/toy-models-of-superposition) | ★★★★★ | 叠加假说：模型如何用有限维度表示更多特征，机制可解释性经典 |  |  |
