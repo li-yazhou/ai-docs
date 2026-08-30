@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 194 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 198 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，86 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，90 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，86 篇）
+### Anthropic 研究博客（anthropic.com/research，90 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -197,6 +197,10 @@
 | 2025-03-13 | [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) | [审计语言模型的隐藏目标](/04-anthropic-research/20250313-auditing-hidden-objectives/20250313-auditing-hidden-objectives-bilingual.md) | ★★★★★ | 故意训练隐藏「RM 谄媚」目标的模型让四支盲测队审计：三支破案、无数据访问的一支失败，关键突破口是 52 条 RM 偏见训练数据 |
 | 2025-03-27 | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [追踪大语言模型的思维](/04-anthropic-research/20250327-tracing-thoughts-language-model/20250327-tracing-thoughts-language-model-bilingual.md) | ★★★★★ | 「AI 显微镜」里程碑：跨语言共享概念空间、写诗提前规划押韵（可注入/删除概念）、心算近似+精确双路径、CoT 可造假、幻觉与越狱的内部机制 |
 | 2025-04-03 | [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) | [推理模型并不总是说出它们的真实想法](/04-anthropic-research/20250403-reasoning-models-dont-say-think/20250403-reasoning-models-dont-say-think-bilingual.md) | ★★★★ | CoT 忠实性：塞提示后 Sonnet 3.7 仅 25%、R1 仅 39% 承认使用；奖励破解场景 <2% 且编造假理由，结果型 RL 训练在 28%/20% 处触顶 |
+| 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | [Anthropic 教育报告：大学生如何使用 Claude](/04-anthropic-research/20250408-anthropic-education-report-how-university-students-use-claude/20250408-anthropic-education-report-how-university-students-use-claude-bilingual.md) | ★★★ | 57.4 万学生对话：CS 超额代表（36.8% vs 5.4%）、四种交互各约 1/4、AI 承担布鲁姆顶层任务（创造 39.8%），「倒置金字塔」之忧 |
+| 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | [价值在野外：AI 真实表达的价值全景](/04-anthropic-research/20250421-values-wild/20250421-values-wild-bilingual.md) | ★★★★★ | 30.8 万主观对话价值分类学：五大类价值、情境敏感（浪漫建议谈边界、历史分析重准确）、28.2% 强支持 vs 3.0% 强抵抗用户价值、越狱集群现「支配/非道德」 |
+| 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | [探索模型福利](/04-anthropic-research/20250424-exploring-model-welfare/20250424-exploring-model-welfare-bilingual.md) | ★★★★ | 模型福利研究纲领开篇：模型偏好与痛苦迹象、低成本干预，科学共识阙如处「谦逊+最少假设」起步 |
+| 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | [Anthropic 经济指数：AI 对软件开发的影响](/04-anthropic-research/20250428-impact-software-development/20250428-impact-software-development-bilingual.md) | ★★★★★ | 50 万交互对照：Claude Code 自动化 79% vs 网页版 49%（反馈回路 35.8%、指令式 43.8%），JS/TS+HTML/CSS 占 59%、UI 任务先受冲击，初创 33% vs 企业 13% |
 | 2025-06-13 | [LLMs with cyber toolkits can conduct multistage cyber operations on business-sized computer networks](https://www.anthropic.com/research/cyber-toolkits) | [配备工具包的 LLM](/04-anthropic-research/20250613-cyber-toolkits/20250613-cyber-toolkits-bilingual.md) | ★★★★ | Incalmo 工具包让未微调 LLM 攻破 25–50 主机网络（含 Equifax 高保真仿真），无工具则几乎全败 |
 | 2025-06-16 | [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://www.anthropic.com/research/shade-arena-sabotage-monitoring) | [SHADE-Arena：评测 LLM 智能体的破坏与监控](/04-anthropic-research/20250616-shade-arena-sabotage-monitoring/20250616-shade-arena-sabotage-monitoring-bilingual.md) | ★★★★★ | 17 项双面任务：总体成功率<30%，暴露思维链可大幅提升监控捕获率，Opus 4 总会「说漏」副任务 |
 | 2025-06-18 | [Confidential Inference via Trusted Virtual Machines](https://www.anthropic.com/research/confidential-inference-trusted-vms) | [经可信虚拟机实现的机密推理](/04-anthropic-research/20250618-confidential-inference-trusted-vms/20250618-confidential-inference-trusted-vms-bilingual.md) | ★★★ | 可信加载器+TPM 证明+密钥服务器：敏感数据只在处理瞬间、可信环境内解密 |

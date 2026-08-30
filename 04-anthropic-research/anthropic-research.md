@@ -49,7 +49,7 @@
 | 2026-01-22 | [Claude's new constitution](https://www.anthropic.com/research/claude-new-constitution) | ★★★★ | 新版宪法公布：表达并塑造 Claude 是谁的基础文档 | [[20260122-claude-new-constitution-bilingual\|中英对照]] |  |
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | ★★★ | 模型退役与存档承诺，少见的制度安排 | [[20251104-deprecation-commitments-bilingual\|中英对照]] |  |
 | 2025-08-15 | [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations) | ★★★ | 模型可主动终止极端虐待性对话：福利与安全的权衡实例 | [[20250815-end-subset-conversations-bilingual\|中英对照]] |  |
-| 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 |  |  |
+| 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 | [[20250424-exploring-model-welfare-bilingual\|中英对照]] |  |
 | 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 |  |  |
 | 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | ★★★ | 1000 名美国人参与起草宪法并用于训练的实验 |  |  |
 | 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | ★★★★★ | 宪法 AI 原始论文：RLAIF 奠基作，现代对齐方法的源头 |  |  |
@@ -136,7 +136,7 @@
 | 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 | [[20251014-economic-policy-responses-bilingual\|中英对照]] |  |
 | 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | ★★★ | 采用的地域与企业不均衡：委托式自动化上升 | [[20250915-anthropic-economic-index-september-2025-report-bilingual\|中英对照]] |  |
 | 2025-09-15 | [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography) | ★★★★ | AEI 地理维度首发：收入与 AI 采用强相关，directive 自动化 27%→39% | [[20250915-economic-index-geography-bilingual\|中英对照]] |  |
-| 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | ★★★★★ | Claude Code 自动化率 79% vs 网页版 49%，软件开发被 AI 改造的第一手数据 |  |  |
+| 2025-04-28 | [Anthropic Economic Index: AI's impact on software development](https://www.anthropic.com/research/impact-software-development) | ★★★★★ | Claude Code 自动化率 79% vs 网页版 49%，软件开发被 AI 改造的第一手数据 | [[20250428-impact-software-development-bilingual\|中英对照]] |  |
 | 2026-03-05 | [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) | ★★★★ | AI 劳动市场影响的新指标框架与早期证据（原登记 2025-03-05 系笔误，按页面引用块更正为 2026-03-05） | [[20260305-labor-market-impacts-bilingual\|中英对照]] |  |
 | 2025-02-10 | [The Anthropic Economic Index](https://www.anthropic.com/research/the-anthropic-economic-index) | ★★★★★ | AEI 发起文：百万级对话的 AI 使用经济画像 | [[20250210-the-anthropic-economic-index-bilingual\|中英对照]] |  |
 
@@ -155,8 +155,8 @@
 | 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 | [[20251202-how-ai-is-transforming-work-at-anthropic-bilingual\|中英对照]] |  |
 | 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 | [[20250827-anthropic-education-report-how-educators-use-claude-bilingual\|中英对照]] |  |
 | 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 | [[20250627-how-people-use-claude-for-support-advice-and-companionship-bilingual\|中英对照]] |  |
-| 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 |  |  |
-| 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 |  |  |
+| 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 | [[20250421-values-wild-bilingual\|中英对照]] |  |
+| 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 | [[20250408-anthropic-education-report-how-university-students-use-claude-bilingual\|中英对照]] |  |
 | 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | ★★★★★ | 隐私保护的真实使用洞察系统，AEI 的技术底座 |  |  |
 | 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | ★★★★ | LLM 说服力测量：随规模与训练的变化 |  |  |
 
