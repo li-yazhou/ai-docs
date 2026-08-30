@@ -113,6 +113,10 @@
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2601-用 AI 防卫关键基础设施](/04-anthropic-research/2601-critical-infrastructure-defense/2601-critical-infrastructure-defense-bilingual.md)
+  - [2601-新一代宪法分类器：更高效地防住通用越狱](/04-anthropic-research/2601-next-generation-constitutional-classifiers/2601-next-generation-constitutional-classifiers-bilingual.md)
+  - [2601-用 Claude 与基于属性的测试找出 bug](/04-anthropic-research/2601-property-based-testing/2601-property-based-testing-bilingual.md)
+  - [2601-Anthropic 经济指数报告：经济基元](/04-anthropic-research/2601-anthropic-economic-index-january-2026-report/2601-anthropic-economic-index-january-2026-report-bilingual.md)
   - [2607-语言模型中的全局工作空间](/04-anthropic-research/2607-global-workspace/2607-global-workspace-bilingual.md)
   - [2607-给 AI 模型中的两用知识装上「开关」](/04-anthropic-research/2607-off-switch-dual-use/2607-off-switch-dual-use-bilingual.md)
   - [2607-Claude 在机器人任务上的表现如何](/04-anthropic-research/2607-claude-plays-robotics/2607-claude-plays-robotics-bilingual.md)

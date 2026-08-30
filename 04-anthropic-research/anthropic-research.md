@@ -94,8 +94,8 @@
 | 2026-04-07 | [Assessing Claude Mythos Preview's cybersecurity capabilities](https://www.anthropic.com/research/mythos-preview) | ★★★★ | Mythos Preview 网安能力的技术评估细节 |  |  |
 | 2026-02-05 | [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://www.anthropic.com/research/zero-days) | ★★★★ | 0 日发现规模化风险与防守方赋能路线 |  |  |
 | 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 |  |  |
-| 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 |  |  |
-| 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | ★★★ | 与 PNNL 合作用 AI 防守关键基础设施 |  |  |
+| 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 | [[2601-next-generation-constitutional-classifiers-bilingual\|中英对照]] |  |
+| 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | ★★★ | 与 PNNL 合作用 AI 防守关键基础设施 | [[2601-critical-infrastructure-defense-bilingual\|中英对照]] |  |
 | 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 |  |  |
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 |  |  |
 | 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | ★★★★ | 论为何认真对待 LLM 生物风险：评估与防护的论证 |  |  |
@@ -116,7 +116,7 @@
 | 2026-06-18 | [Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two) | ★★★★ | Opus 4.7 无人干预完成机器人任务，比上代快约 20 倍 |  |  |
 | 2026-03-06 | [Reverse engineering Claude's CVE-2026-2796 exploit](https://www.anthropic.com/research/exploit) | ★★★★ | Claude 如何自己写出 Firefox 漏洞利用的技术复盘 |  |  |
 | 2026-03-06 | [Partnering with Mozilla to improve Firefox's security](https://www.anthropic.com/research/mozilla-firefox-security) | ★★★★ | 与 Mozilla 合作找真漏洞：AI 安全审计的实战样本 |  |  |
-| 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | ★★★★ | Claude + 基于属性的测试在 Python 生态批量找 bug，测试工程与 agent 的结合 |  |  |
+| 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | ★★★★ | Claude + 基于属性的测试在 Python 生态批量找 bug，测试工程与 agent 的结合 | [[2601-property-based-testing-bilingual\|中英对照]] |  |
 | 2025-12-18 | [Project Vend: Phase two](https://www.anthropic.com/research/project-vend-2) | ★★★★ | AI 店主实验第二季：更真实的办公室小店运营 |  |  |
 | 2025-12-01 | [AI agents find $4.6M in blockchain smart contract exploits](https://www.anthropic.com/research/smart-contracts) | ★★★★ | 用真实被利用过的智能合约做基准，agent 复现 460 万美元漏洞 |  |  |
 | 2025-11-12 | [Project Fetch: Can Claude train a robot dog?](https://www.anthropic.com/research/project-fetch-robot-dog) | ★★★★ | 两组人机比赛训练四足机器人，AI 辅助组更快且唯一达标 |  |  |
@@ -131,7 +131,7 @@
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | ★★★★ | 转岗培训项目有效性的证据综述（政策向） | [[2608-reviewing-the-evidence-on-worker-retraining-programs-bilingual\|中英对照]] |  |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 |  |  |
 | 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 |  |  |
-| 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 |  |  |
+| 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 | [[2601-anthropic-economic-index-january-2026-report-bilingual\|中英对照]] |  |
 | 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% |  |  |
 | 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 |  |  |
 | 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | ★★★ | 采用的地域与企业不均衡：委托式自动化上升 |  |  |
