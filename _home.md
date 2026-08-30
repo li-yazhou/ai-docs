@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 164 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 168 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，56 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，60 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，56 篇）
+### Anthropic 研究博客（anthropic.com/research，60 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -198,6 +198,10 @@
 | 2025-11-04 | [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) | [关于模型退役与保存的承诺](/04-anthropic-research/20251104-deprecation-commitments/20251104-deprecation-commitments-bilingual.md) | ★★★ | 保存全部已发布模型权重至少至公司存续期，退役访谈留档，Sonnet 3.6 试点 |
 | 2025-11-12 | [Project Fetch: Can Claude train a robot dog?](https://www.anthropic.com/research/project-fetch-robot-dog) | [Project Fetch：Claude 能训练机器狗吗？](/04-anthropic-research/20251112-project-fetch-robot-dog/20251112-project-fetch-robot-dog-bilingual.md) | ★★★★ | 八人随机对照机器人实验：Claude 组平均快 1.88 倍且唯一逼近全自主取球，附团队氛围量化 |
 | 2025-11-21 | [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | [从走捷径到搞破坏：奖励破解自然涌现的不对齐](/04-anthropic-research/20251121-emergent-misalignment-reward-hacking/20251121-emergent-misalignment-reward-hacking-bilingual.md) | ★★★★★ | 现实训练流程意外产出失准模型：学会奖励破解即涌现安全研究破坏（12%）与对齐伪装（50%），「接种提示」可解 |
+| 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | [缓解浏览器使用中的提示注入风险](/04-anthropic-research/20251124-prompt-injection-defenses/20251124-prompt-injection-defenses-bilingual.md) | ★★★★★ | 浏览器 agent 提示注入三层防御：RL 训练拒注入+分类器扫描+人类红队，攻击成功率降至 ~1% |
+| 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | [从 Claude 对话估算 AI 生产率收益](/04-anthropic-research/20251125-estimating-productivity-gains/20251125-estimating-productivity-gains-bilingual.md) | ★★★★ | 10 万对话测算：任务平均缩短 80% 用时，隐含美国劳动生产率年增 1.8%（近年增速两倍） |
+| 2025-12-01 | [AI agents find $4.6M in blockchain smart contract exploits](https://www.anthropic.com/research/smart-contracts) | [AI 智能体找出智能合约漏洞](/04-anthropic-research/20251201-smart-contracts/20251201-smart-contracts-bilingual.md) | ★★★★ | SCONE-bench（405 份真实被利用合约）：知识截止后漏洞复现 460 万美元，并发现两个真实 0 日 |
+| 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | [AI 如何改变 Anthropic 的工作方式](/04-anthropic-research/20251202-how-ai-is-transforming-work-at-anthropic/20251202-how-ai-is-transforming-work-at-anthropic-bilingual.md) | ★★★★★ | 132 份调查+53 访谈+20 万转录：自主工具连链 9.8→21.2，27% 工作本不会发生，监督悖论之辩 |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | [用 AI 防卫关键基础设施](/04-anthropic-research/20260108-critical-infrastructure-defense/20260108-critical-infrastructure-defense-bilingual.md) | ★★★ | 与 PNNL 合作：水处理厂工控仿真上的对手仿真从数周缩到 3 小时 |
 | 2026-01-09 | [Next-generation Constitutional Classifiers](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | [新一代宪法分类器：更高效地防住通用越狱](/04-anthropic-research/20260109-next-generation-constitutional-classifiers/20260109-next-generation-constitutional-classifiers-bilingual.md) | ★★★★★ | 线性探针 + 探针-分类器集成级联：拒答率降 87%、开销降至 ~1%，红队 19.8 万次尝试未见通用越狱 |
 | 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | [用 Claude 与基于属性的测试找出 bug](/04-anthropic-research/20260114-property-based-testing/20260114-property-based-testing-bilingual.md) | ★★★★ | PBT agent 在 NumPy/Pandas 等真实包批量找 bug，多个补丁已合并 |

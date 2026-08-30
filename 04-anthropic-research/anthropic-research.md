@@ -96,7 +96,7 @@
 | 2026-01-16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](https://www.anthropic.com/research/cyber-toolkits-update) | ★★★★ | 真实网域上的多阶段攻击：模型能力显著跃升 | [[20260116-cyber-toolkits-update-bilingual\|中英对照]] |  |
 | 2026-01-09 | [Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks](https://www.anthropic.com/research/next-generation-constitutional-classifiers) | ★★★★★ | 新一代宪法分类器：防 universal jailbreak 且推理成本大幅下降 | [[20260109-next-generation-constitutional-classifiers-bilingual\|中英对照]] |  |
 | 2026-01-08 | [Experimenting with AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense) | ★★★ | 与 PNNL 合作用 AI 防守关键基础设施 | [[20260108-critical-infrastructure-defense-bilingual\|中英对照]] |  |
-| 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 |  |  |
+| 2025-11-24 | [Mitigating the risk of prompt injections in browser use](https://www.anthropic.com/research/prompt-injection-defenses) | ★★★★★ | 浏览器使用场景的提示注入风险分析与防御，agent 工程直接相关 | [[20251124-prompt-injection-defenses-bilingual\|中英对照]] |  |
 | 2025-10-03 | [Building AI for cyber defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) | ★★★ | 把前沿 AI 武装给防守方：检测、分析、修复 | [[20251003-building-ai-cyber-defenders-bilingual\|中英对照]] |  |
 | 2025-09-05 | [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk) | ★★★★ | 论为何认真对待 LLM 生物风险：评估与防护的论证 |  |  |
 | 2025-08-21 | [Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai) | ★★★★ | 与 NNSA/DOE 实验室合作开发核内容分类器（96% 准确率） |  |  |
@@ -118,7 +118,7 @@
 | 2026-03-06 | [Partnering with Mozilla to improve Firefox's security](https://www.anthropic.com/research/mozilla-firefox-security) | ★★★★ | 与 Mozilla 合作找真漏洞：AI 安全审计的实战样本 | [[20260306-mozilla-firefox-security-bilingual\|中英对照]] |  |
 | 2026-01-14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](https://www.anthropic.com/research/property-based-testing) | ★★★★ | Claude + 基于属性的测试在 Python 生态批量找 bug，测试工程与 agent 的结合 | [[20260114-property-based-testing-bilingual\|中英对照]] |  |
 | 2025-12-18 | [Project Vend: Phase two](https://www.anthropic.com/research/project-vend-2) | ★★★★ | AI 店主实验第二季：更真实的办公室小店运营 |  |  |
-| 2025-12-01 | [AI agents find $4.6M in blockchain smart contract exploits](https://www.anthropic.com/research/smart-contracts) | ★★★★ | 用真实被利用过的智能合约做基准，agent 复现 460 万美元漏洞 |  |  |
+| 2025-12-01 | [AI agents find $4.6M in blockchain smart contract exploits](https://www.anthropic.com/research/smart-contracts) | ★★★★ | 用真实被利用过的智能合约做基准，agent 复现 460 万美元漏洞 | [[20251201-smart-contracts-bilingual\|中英对照]] |  |
 | 2025-11-12 | [Project Fetch: Can Claude train a robot dog?](https://www.anthropic.com/research/project-fetch-robot-dog) | ★★★★ | 两组人机比赛训练四足机器人，AI 辅助组更快且唯一达标 | [[20251112-project-fetch-robot-dog-bilingual\|中英对照]] |  |
 | 2025-06-27 | [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) | ★★★★ | 让 Claude 运营办公室小店：自由形态的 agent 真实性实验 |  |  |
 
@@ -132,7 +132,7 @@
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 | [[20260616-claude-code-expertise-bilingual\|中英对照]] |  |
 | 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 | [[20260422-81k-economics-bilingual\|中英对照]] |  |
 | 2026-01-15 | [Anthropic Economic Index report: Economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) | ★★★★★ | 「经济基元」新度量框架：自动化/协作的细粒度刻画 | [[20260115-anthropic-economic-index-january-2026-report-bilingual\|中英对照]] |  |
-| 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% |  |  |
+| 2025-11-25 | [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) | ★★★★ | 10 万对话测算：任务时间平均缩短 80% | [[20251125-estimating-productivity-gains-bilingual\|中英对照]] |  |
 | 2025-10-14 | [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses) | ★★★ | AI 经济冲击的政策选项综述 | [[20251014-economic-policy-responses-bilingual\|中英对照]] |  |
 | 2025-09-15 | [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) | ★★★ | 采用的地域与企业不均衡：委托式自动化上升 |  |  |
 | 2025-09-15 | [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography) | ★★★★ | AEI 地理维度首发：收入与 AI 采用强相关，directive 自动化 27%→39% |  |  |
@@ -152,7 +152,7 @@
 | 2026-01-29 | [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills) | ★★★★ | AI 辅助对编程技能形成的影响，开发者成长视角 | [[20260129-AI-assistance-coding-skills-bilingual\|中英对照]] |  |
 | 2026-01-28 | [Disempowerment patterns in real-world AI usage](https://www.anthropic.com/research/disempowerment-patterns) | ★★★★ | 真实使用中的「失权」模式识别与分类 | [[20260128-disempowerment-patterns-bilingual\|中英对照]] |  |
 | 2025-12-04 | [Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/research/anthropic-interviewer) | ★★★★ | Claude 驱动的规模化访谈工具与 1250 位专业人员的发现 |  |  |
-| 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 |  |  |
+| 2025-12-02 | [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) | ★★★★★ | 自家工程师/研究者如何被 AI 改变工作：内部调查+Claude Code 使用数据 | [[20251202-how-ai-is-transforming-work-at-anthropic-bilingual\|中英对照]] |  |
 | 2025-08-27 | [Anthropic Education Report: How educators use Claude](https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude) | ★★★ | 7.4 万教师对话：教学、科研与互动工具 |  |  |
 | 2025-06-27 | [How people use Claude for support, advice, and companionship](https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship) | ★★★★ | 情感支持/陪伴类使用的量化画像与边界 |  |  |
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 |  |  |
