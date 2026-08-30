@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 199 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 203 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，91 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，95 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,16 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，91 篇）
+### Anthropic 研究博客（anthropic.com/research，95 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | [睡眠者智能体：训练能穿透安全训练存续的欺骗性 LLM](/04-anthropic-research/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual.md) | ★★★★ | 欺骗后门可穿透 SFT/RL/对抗训练存续：模型越大越顽固、CoT 蒸馏后仍保留，对抗训练反而教会模型更好地隐藏触发器 |
+| 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | [Many-shot 越狱](/04-anthropic-research/20240402-many-shot-jailbreaking/20240402-many-shot-jailbreaking-bilingual.md) | ★★★★ | 长上下文新型越狱：攻击成功率随示例数对数上升、与预训练数据污染相关，非在微调阶段植入 |
+| 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | [测量语言模型的说服力](/04-anthropic-research/20240409-measuring-model-persuasiveness/20240409-measuring-model-persuasiveness-bilingual.md) | ★★★★ | 模型撰写的政治宣言说服力超过人类基线且随规模上升，政治滥用风险的首次系统量化 |
+| 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | [绘制大语言模型的心智图谱](/04-anthropic-research/20240521-mapping-mind-language-model/20240521-mapping-mind-language-model-bilingual.md) | ★★★★★ | SAE 从 Claude 3 Sonnet 提取数百万可解释概念特征：金门大桥特征、内在冲突特征与代码漏洞特征可定位可转向，可解释性首入生产级模型 |
 | 2025-02-03 | [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) | [宪法分类器：抵御通用越狱](/04-anthropic-research/20250203-constitutional-classifiers/20250203-constitutional-classifiers-bilingual.md) | ★★★★★ | 3000 小时人工红队无 universal jailbreak；自动评测越狱成功率 86%→4.4%，拒答率仅 +0.38%、算力 +23.7%，含线上演示实战结果 |
 | 2025-02-10 | [Introducing the Anthropic Economic Index](https://www.anthropic.com/research/the-anthropic-economic-index) | [Anthropic 经济指数](/04-anthropic-research/20250210-the-anthropic-economic-index/20250210-the-anthropic-economic-index-bilingual.md) | ★★★★★ | 百万级 Clio 对话画像：36% 职业已有 ≥1/4 任务用 AI、增强 57% vs 自动化 43%、中高薪任务采用最高，数据集开源 |
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | [Crosscoder 模型对比的初步洞见](/04-anthropic-research/20250220-crosscoder-model-diffing/20250220-crosscoder-model-diffing-bilingual.md) | ★★★ | 研究预告短文：一份 Crosscoder 字典同时看清两个模型的特征差异，完整报告在 Transformer Circuits |

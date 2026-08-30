@@ -113,6 +113,10 @@
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2401-睡眠者智能体：训练能穿透安全训练存续的欺骗性 LLM](/04-anthropic-research/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual.md)
+  - [2404-Many-shot 越狱](/04-anthropic-research/20240402-many-shot-jailbreaking/20240402-many-shot-jailbreaking-bilingual.md)
+  - [2404-测量语言模型的说服力](/04-anthropic-research/20240409-measuring-model-persuasiveness/20240409-measuring-model-persuasiveness-bilingual.md)
+  - [2405-绘制大语言模型的心智图谱](/04-anthropic-research/20240521-mapping-mind-language-model/20240521-mapping-mind-language-model-bilingual.md)
   - [2502-宪法分类器：抵御通用越狱](/04-anthropic-research/20250203-constitutional-classifiers/20250203-constitutional-classifiers-bilingual.md)
   - [2502-Anthropic 经济指数](/04-anthropic-research/20250210-the-anthropic-economic-index/20250210-the-anthropic-economic-index-bilingual.md)
   - [2502-Crosscoder 模型对比的初步洞见](/04-anthropic-research/20250220-crosscoder-model-diffing/20250220-crosscoder-model-diffing-bilingual.md)

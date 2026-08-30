@@ -30,8 +30,8 @@
 | 2024-11-19 | [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals) | ★★★ | 用统计方法设计高信噪比评测，评测工程的基础读物 |  |  |
 | 2024-10-18 | [Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations) | ★★★★ | 前沿模型破坏能力三类评测：代码破坏、暗中倒戈、输入污染 |  |  |
 | 2024-06-17 | [Sycophancy to subterfuge: Investigating reward tampering in language models](https://www.anthropic.com/research/reward-tampering) | ★★★★ | 小规格博弈会泛化为奖励篡改，从谄媚到 subterfuge 的演化链 |  |  |
-| 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | ★★★★ | 长上下文 many-shot ICL 带来的新型越狱攻击，上下文长度与安全的交叉 |  |  |
-| 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | ★★★★ | 欺骗行为可穿透 RLHF/ADR 等安全训练存续，行为安全审计的局限证明 |  |  |
+| 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | ★★★★ | 长上下文 many-shot ICL 带来的新型越狱攻击，上下文长度与安全的交叉 | [[20240402-many-shot-jailbreaking-bilingual\|中英对照]] |  |
+| 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | ★★★★ | 欺骗行为可穿透 RLHF/ADR 等安全训练存续，行为安全审计的局限证明 | [[20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual\|中英对照]] |  |
 | 2023-10-23 | [Towards Understanding Sycophancy in Language Models](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) | ★★★ | 谄媚成因系统研究：偏好训练鼓励迎合，经典必读 |  |  |
 | 2023-10-04 | [Challenges in evaluating AI systems](https://www.anthropic.com/research/evaluating-ai-systems) | ★★★ | 评测 AI 系统为何难：早期但依然成立的挑战清单 |  |  |
 | 2023-02-15 | [The Capacity for Moral Self-Correction in Large Language Models](https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models) | ★★★ | 模型道德自我纠错能力测试，可解释对齐行为的早期工作 |  |  |
@@ -73,7 +73,7 @@
 | 2025-02-20 | [Insights on crosscoder model diffing](https://www.anthropic.com/research/crosscoder-model-diffing) | ★★★ | 跨模型特征对比：一份字典看两个模型的差异 | [[20250220-crosscoder-model-diffing-bilingual\|中英对照]] |  |
 | 2024-10-25 | [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering) | ★★★ | 特征转向缓解社会偏见的案例研究 |  |  |
 | 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 |  |  |
-| 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | ★★★★★ | 首次详查生产级大模型内部：数千万概念的特征字典 |  |  |
+| 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | ★★★★★ | 首次详查生产级大模型内部：数千万概念的特征字典 | [[20240521-mapping-mind-language-model-bilingual\|中英对照]] |  |
 | 2023-10-05 | [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning) | ★★★★★ | SAE 字典学习分解单义特征，可解释性工程化的奠基作 |  |  |
 | 2022-09-14 | [Toy Models of Superposition](https://www.anthropic.com/research/toy-models-of-superposition) | ★★★★★ | 叠加假说：模型如何用有限维度表示更多特征，机制可解释性经典 |  |  |
 | 2022-03-08 | [In-context Learning and Induction Heads](https://www.anthropic.com/research/in-context-learning-and-induction-heads) | ★★★★★ | induction heads 解释上下文学习，transformer 机制研究的开山作之一 |  |  |
@@ -158,7 +158,7 @@
 | 2025-04-21 | [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild) | ★★★★★ | 70 万对话的价值分类学：AI 真实表达的价值全景 | [[20250421-values-wild-bilingual\|中英对照]] |  |
 | 2025-04-08 | [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) | ★★★ | 大学生使用画像：学习伙伴还是代写工具 | [[20250408-anthropic-education-report-how-university-students-use-claude-bilingual\|中英对照]] |  |
 | 2024-12-12 | [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) | ★★★★★ | 隐私保护的真实使用洞察系统，AEI 的技术底座 |  |  |
-| 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | ★★★★ | LLM 说服力测量：随规模与训练的变化 |  |  |
+| 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | ★★★★ | LLM 说服力测量：随规模与训练的变化 | [[20240409-measuring-model-persuasiveness-bilingual\|中英对照]] |  |
 
 ## 八、AI for Science
 
