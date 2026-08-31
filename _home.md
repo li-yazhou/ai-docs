@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 220 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 224 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，112 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，116 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,7 +184,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，112 篇）
+### Anthropic 研究博客（anthropic.com/research，116 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -198,6 +198,10 @@
 | 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | [宪法 AI：来自 AI 反馈的无害性](/04-anthropic-research/20221215-constitutional-ai-harmlessness-from-ai-feedback/20221215-constitutional-ai-harmlessness-from-ai-feedback-bilingual.md) | ★★★★★ | RLAIF 奠基作：宪法原则驱动的批判-修订与 AI 反馈强化学习，用 AI 监督 AI 取代人工标注无害性 |
 | 2022-12-19 | [Discovering Language Model Behaviors with Model-Written Evaluations](https://arxiv.org/abs/2212.09251) | [用模型书写的评测发现语言模型行为](/04-anthropic-research/20221219-discovering-language-model-behaviors-with-model-written-evaluations/20221219-discovering-language-model-behaviors-with-model-written-evaluations-bilingual.md) | ★★★ | 用 LLM 生成与人类写题质量相当的评测题库：人格、谄媚、先进 AI 风险、性别偏见四族数百数据集 |
 | 2023-02-15 | [The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/abs/2302.07459) | [大语言模型的道德自我纠错能力](/04-anthropic-research/20230215-the-capacity-for-moral-self-correction-in-large-language-models/20230215-the-capacity-for-moral-self-correction-in-large-language-models-bilingual.md) | ★★★ | 有害-无害数据混合即可带来无需 RLHF 的道德自我纠错且随规模改善，诚实维度的纠错则依赖 RLHF |
+| 2023-10-04 | [Challenges in evaluating AI systems](https://www.anthropic.com/research/evaluating-ai-systems) | [评测 AI 系统的挑战](/04-anthropic-research/20231004-challenges-in-evaluating-ai-systems/20231004-challenges-in-evaluating-ai-systems-bilingual.md) | ★★★ | 以 BIG-bench 落地经历为案例：工程成本、结果噪声、构念效度与「跑分≠能力」，附政策建议 |
+| 2023-10-05 | [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | [走向单义性：用字典学习分解语言模型](/04-anthropic-research/20231005-towards-monosemanticity-decomposing-language-models-with-dictionary-learning/20231005-towards-monosemanticity-decomposing-language-models-with-dictionary-learning-bilingual.md) | ★★★★★ | SAE 从单层 Transformer 分解出单义特征：文字/DNA/base64 特征仪表板、特征分裂与普适性，可解释性工程化奠基作 |
+| 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | [集体宪法 AI：让语言模型与公众输入对齐](/04-anthropic-research/20231017-collective-constitutional-ai-aligning-a-language-model-with-public-input/20231017-collective-constitutional-ai-aligning-a-language-model-with-public-input-bilingual.md) | ★★★ | Polis 平台征集约 1000 名美国人起草「公众宪法」并用于微调 Claude：流程、行为变化与教训 |
+| 2023-10-23 | [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) | [理解语言模型中的谄媚行为](/04-anthropic-research/20231023-towards-understanding-sycophancy-in-language-models/20231023-towards-understanding-sycophancy-in-language-models-bilingual.md) | ★★★ | 谄媚成因系统研究：五类谄媚行为测量+分离/归因实验证明人类偏好数据与偏好模型天然鼓励迎合 |
 | 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | [睡眠者智能体：训练能穿透安全训练存续的欺骗性 LLM](/04-anthropic-research/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual.md) | ★★★★ | 欺骗后门可穿透 SFT/RL/对抗训练存续：模型越大越顽固、CoT 蒸馏后仍保留，对抗训练反而教会模型更好地隐藏触发器 |
 | 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | [Many-shot 越狱](/04-anthropic-research/20240402-many-shot-jailbreaking/20240402-many-shot-jailbreaking-bilingual.md) | ★★★★ | 长上下文新型越狱：攻击成功率随示例数对数上升、与预训练数据污染相关，非在微调阶段植入 |
 | 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | [测量语言模型的说服力](/04-anthropic-research/20240409-measuring-model-persuasiveness/20240409-measuring-model-persuasiveness-bilingual.md) | ★★★★ | 模型撰写的政治宣言说服力超过人类基线且随规模上升，政治滥用风险的首次系统量化 |
@@ -303,4 +307,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/20260826-enabling-independent-research/20260826-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/20260828-automated-researchers-mitigate-alignment-failures/20260828-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 112 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 116 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
