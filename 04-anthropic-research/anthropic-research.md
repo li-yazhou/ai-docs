@@ -34,9 +34,9 @@
 | 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | ★★★★ | 欺骗行为可穿透 RLHF/ADR 等安全训练存续，行为安全审计的局限证明 | [[20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual\|中英对照]] |  |
 | 2023-10-23 | [Towards Understanding Sycophancy in Language Models](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) | ★★★ | 谄媚成因系统研究：偏好训练鼓励迎合，经典必读 |  |  |
 | 2023-10-04 | [Challenges in evaluating AI systems](https://www.anthropic.com/research/evaluating-ai-systems) | ★★★ | 评测 AI 系统为何难：早期但依然成立的挑战清单 |  |  |
-| 2023-02-15 | [The Capacity for Moral Self-Correction in Large Language Models](https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models) | ★★★ | 模型道德自我纠错能力测试，可解释对齐行为的早期工作 |  |  |
-| 2022-12-19 | [Discovering Language Model Behaviors with Model-Written Evaluations](https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations) | ★★★ | 用 LLM 生成评测题库的方法论奠基（model-written evals） |  |  |
-| 2022-11-04 | [Measuring Progress on Scalable Oversight for Large Language Models](https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models) | ★★★ | 可扩展监督的对比评测框架（辩论/递归奖励建模等） |  |  |
+| 2023-02-15 | [The Capacity for Moral Self-Correction in Large Language Models](https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models) | ★★★ | 模型道德自我纠错能力测试，可解释对齐行为的早期工作 | [[20230215-the-capacity-for-moral-self-correction-in-large-language-models-bilingual\|中英对照]] |  |
+| 2022-12-19 | [Discovering Language Model Behaviors with Model-Written Evaluations](https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations) | ★★★ | 用 LLM 生成评测题库的方法论奠基（model-written evals） | [[20221219-discovering-language-model-behaviors-with-model-written-evaluations-bilingual\|中英对照]] |  |
+| 2022-11-04 | [Measuring Progress on Scalable Oversight for Large Language Models](https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models) | ★★★ | 可扩展监督的对比评测框架（辩论/递归奖励建模等） | [[20221104-measuring-progress-on-scalable-oversight-for-large-language-models-bilingual\|中英对照]] |  |
 
 ## 二、模型品格、宪法与福利
 
@@ -52,7 +52,7 @@
 | 2025-04-24 | [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare) | ★★★★ | 模型福利研究纲领开篇：该不该关心 AI 的内在状态 | [[20250424-exploring-model-welfare-bilingual\|中英对照]] |  |
 | 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 | [[20240608-claude-character-bilingual\|中英对照]] |  |
 | 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | ★★★ | 1000 名美国人参与起草宪法并用于训练的实验 |  |  |
-| 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | ★★★★★ | 宪法 AI 原始论文：RLAIF 奠基作，现代对齐方法的源头 |  |  |
+| 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | ★★★★★ | 宪法 AI 原始论文：RLAIF 奠基作，现代对齐方法的源头 | [[20221215-constitutional-ai-harmlessness-from-ai-feedback-bilingual\|中英对照]] |  |
 | 2022-04-12 | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback) | ★★★★ | HH 助手 RLHF 原始论文，对话对齐的工程起点 | [[20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-bilingual\|中英对照]] |  |
 
 ## 三、可解释性
