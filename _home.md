@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 212 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 216 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，104 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，108 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -184,12 +184,16 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，104 篇）
+### Anthropic 研究博客（anthropic.com/research，108 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
 | 发布时间 | 英文原文标题 | 中英文版本 | 重要程度 | 主要看点 |
 | --- | --- | --- | --- | --- |
+| 2021-12-22 | [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html) | [Transformer 电路的数学框架](/04-anthropic-research/20211222-a-mathematical-framework-for-transformer-circuits/20211222-a-mathematical-framework-for-transformer-circuits-bilingual.md) | ★★★★ | circuits 纲领数学奠基：残差流、QK/OV 电路分解与三种注意力头组合，界定机制可解释性的基本语言 |
+| 2022-03-08 | [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) | [上下文学习与归纳头](/04-anthropic-research/20220308-in-context-learning-and-induction-heads/20220308-in-context-learning-and-induction-heads-bilingual.md) | ★★★★★ | 六条互补证据论证归纳头是 in-context learning 的机制来源：训练早期「相变」处归纳头形成与 ICL 跃升同步出现 |
+| 2022-04-12 | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) | [用人类反馈强化学习训练有益且无害的助手](/04-anthropic-research/20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback/20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-bilingual.md) | ★★★★ | HH 助手 RLHF 原始论文：偏好模型随规模提升且校准良好、KL 散度与奖励近似线性、iterated online RLHF |
+| 2022-09-14 | [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) | [叠加的玩具模型](/04-anthropic-research/20220914-toy-models-of-superposition/20220914-toy-models-of-superposition-bilingual.md) | ★★★★★ | 叠加假说：超完备特征的稀疏近正交表示、相变与几何结构（均匀多面体对），重塑对神经网络特征的理解 |
 | 2024-01-14 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training) | [睡眠者智能体：训练能穿透安全训练存续的欺骗性 LLM](/04-anthropic-research/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual.md) | ★★★★ | 欺骗后门可穿透 SFT/RL/对抗训练存续：模型越大越顽固、CoT 蒸馏后仍保留，对抗训练反而教会模型更好地隐藏触发器 |
 | 2024-04-02 | [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) | [Many-shot 越狱](/04-anthropic-research/20240402-many-shot-jailbreaking/20240402-many-shot-jailbreaking-bilingual.md) | ★★★★ | 长上下文新型越狱：攻击成功率随示例数对数上升、与预训练数据污染相关，非在微调阶段植入 |
 | 2024-04-09 | [Measuring the persuasiveness of language models](https://www.anthropic.com/research/measuring-model-persuasiveness) | [测量语言模型的说服力](/04-anthropic-research/20240409-measuring-model-persuasiveness/20240409-measuring-model-persuasiveness-bilingual.md) | ★★★★ | 模型撰写的政治宣言说服力超过人类基线且随规模上升，政治滥用风险的首次系统量化 |
@@ -295,4 +299,4 @@
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/20260826-enabling-independent-research/20260826-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/20260828-automated-researchers-mitigate-alignment-failures/20260828-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
 
-（研究区共 48 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 108 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

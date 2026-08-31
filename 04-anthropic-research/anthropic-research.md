@@ -53,7 +53,7 @@
 | 2024-06-08 | [Claude's Character](https://www.anthropic.com/research/claude-character) | ★★★★ | Claude 3 品格训练自述：character training 与宪法的关系 | [[20240608-claude-character-bilingual\|中英对照]] |  |
 | 2023-10-17 | [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) | ★★★ | 1000 名美国人参与起草宪法并用于训练的实验 |  |  |
 | 2022-12-15 | [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | ★★★★★ | 宪法 AI 原始论文：RLAIF 奠基作，现代对齐方法的源头 |  |  |
-| 2022-04-12 | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback) | ★★★★ | HH 助手 RLHF 原始论文，对话对齐的工程起点 |  |  |
+| 2022-04-12 | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback) | ★★★★ | HH 助手 RLHF 原始论文，对话对齐的工程起点 | [[20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-bilingual\|中英对照]] |  |
 
 ## 三、可解释性
 
@@ -75,9 +75,9 @@
 | 2024-06-13 | [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability) | ★★★ | 可解释性规模化的工程挑战 | [[20240613-engineering-challenges-interpretability-bilingual\|中英对照]] |  |
 | 2024-05-21 | [Mapping the mind of a large language model](https://www.anthropic.com/research/mapping-mind-language-model) | ★★★★★ | 首次详查生产级大模型内部：数千万概念的特征字典 | [[20240521-mapping-mind-language-model-bilingual\|中英对照]] |  |
 | 2023-10-05 | [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning) | ★★★★★ | SAE 字典学习分解单义特征，可解释性工程化的奠基作 |  |  |
-| 2022-09-14 | [Toy Models of Superposition](https://www.anthropic.com/research/toy-models-of-superposition) | ★★★★★ | 叠加假说：模型如何用有限维度表示更多特征，机制可解释性经典 |  |  |
-| 2022-03-08 | [In-context Learning and Induction Heads](https://www.anthropic.com/research/in-context-learning-and-induction-heads) | ★★★★★ | induction heads 解释上下文学习，transformer 机制研究的开山作之一 |  |  |
-| 2021-12-22 | [A Mathematical Framework for Transformer Circuits](https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits) | ★★★★ | transformer circuits 研究纲领的数学框架 |  |  |
+| 2022-09-14 | [Toy Models of Superposition](https://www.anthropic.com/research/toy-models-of-superposition) | ★★★★★ | 叠加假说：模型如何用有限维度表示更多特征，机制可解释性经典 | [[20220914-toy-models-of-superposition-bilingual\|中英对照]] |  |
+| 2022-03-08 | [In-context Learning and Induction Heads](https://www.anthropic.com/research/in-context-learning-and-induction-heads) | ★★★★★ | induction heads 解释上下文学习，transformer 机制研究的开山作之一 | [[20220308-in-context-learning-and-induction-heads-bilingual\|中英对照]] |  |
+| 2021-12-22 | [A Mathematical Framework for Transformer Circuits](https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits) | ★★★★ | transformer circuits 研究纲领的数学框架 | [[20211222-a-mathematical-framework-for-transformer-circuits-bilingual\|中英对照]] |  |
 
 ## 四、滥用防线与网络安全
 

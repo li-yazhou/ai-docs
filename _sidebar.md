@@ -113,6 +113,10 @@
   - [2608-Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
+  - [2112-Transformer 电路的数学框架](/04-anthropic-research/20211222-a-mathematical-framework-for-transformer-circuits/20211222-a-mathematical-framework-for-transformer-circuits-bilingual.md)
+  - [2203-上下文学习与归纳头](/04-anthropic-research/20220308-in-context-learning-and-induction-heads/20220308-in-context-learning-and-induction-heads-bilingual.md)
+  - [2204-用人类反馈强化学习训练有益且无害的助手](/04-anthropic-research/20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback/20220412-training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-bilingual.md)
+  - [2209-叠加的玩具模型](/04-anthropic-research/20220914-toy-models-of-superposition/20220914-toy-models-of-superposition-bilingual.md)
   - [2401-睡眠者智能体：训练能穿透安全训练存续的欺骗性 LLM](/04-anthropic-research/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training/20240114-sleeper-agents-training-deceptive-llms-that-persist-through-safety-training-bilingual.md)
   - [2404-Many-shot 越狱](/04-anthropic-research/20240402-many-shot-jailbreaking/20240402-many-shot-jailbreaking-bilingual.md)
   - [2404-测量语言模型的说服力](/04-anthropic-research/20240409-measuring-model-persuasiveness/20240409-measuring-model-persuasiveness-bilingual.md)
