@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 224 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 225 篇：
 
-- **Anthropic 工程博客**（engineering.anthropic.com，24 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
+- **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，116 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，119 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -21,7 +21,7 @@
 
 ## 文章导航
 
-### Anthropic 工程博客（24 篇）
+### Anthropic 工程博客（25 篇）
 
 [文章登记总表（星级与未译篇目）](/01-anthropic/anthropic-engineering.md)
 
@@ -31,6 +31,7 @@
 | 2024-12-19 | [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) | [构建有效的 Agent](/01-anthropic/2412-building-effective-agents/2412-building-effective-agents-bilingual.md) |
 | 2025-01-06 | [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/engineering/swe-bench-sonnet) | [用 Claude 3.5 Sonnet 刷新 SWE-bench Verified 基准](/01-anthropic/2501-swe-bench-sonnet/2501-swe-bench-sonnet-bilingual.md) |
 | 2025-03-20 | [The 'think' tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool) | ["思考"（Think）工具：让 Claude 在复杂的工具使用场景中停下来思考](/01-anthropic/2503-claude-think-tool/2503-claude-think-tool-bilingual.md) |
+| 2025-04-18 | [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) | [Claude Code：Agent 编码最佳实践](/01-anthropic/2504-claude-code-best-practices/2504-claude-code-best-practices-bilingual.md) |
 | 2025-06-13 | [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system) | [我们如何构建多 Agent 研究系统](/01-anthropic/2506-multi-agent-research-system/2506-multi-agent-research-system-bilingual.md) |
 | 2025-06-26 | [Desktop Extensions: One-click MCP server installation for Claude Desktop](https://www.anthropic.com/engineering/desktop-extensions) | [桌面扩展：为 Claude Desktop 一键安装 MCP 服务器（Desktop Extensions: One-click MCP server installation for Claude Desktop）](/01-anthropic/2506-desktop-extensions/2506-desktop-extensions-bilingual.md) |
 | 2025-09-11 | [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) | [为 Agent 编写高效工具——与 Agent 协作（Writing effective tools for agents — with agents）](/01-anthropic/2509-writing-tools-for-agents/2509-writing-tools-for-agents-bilingual.md) |
@@ -184,7 +185,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，116 篇）
+### Anthropic 研究博客（anthropic.com/research，119 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -306,5 +307,8 @@
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | [Claude 如何加速蛋白质设计与分析化学](/04-anthropic-research/20260818-claude-accelerates-protein-design/20260818-claude-accelerates-protein-design-bilingual.md) | ★★★★ | 真实湿实验验证的蛋白质从头设计战役与分析化学全流程自动化 |
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | [让外部研究者独立研究人们如何使用 Claude](/04-anthropic-research/20260826-enabling-independent-research/20260826-enabling-independent-research-bilingual.md) | ★★★ | 首次向外部研究者开放隐私保护使用数据的试点 |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | [自动化研究员能够可靠地缓解对齐失败](/04-anthropic-research/20260828-automated-researchers-mitigate-alignment-failures/20260828-automated-researchers-mitigate-alignment-failures-bilingual.md) | ★★★★ | Claude 自主修复 10 类对齐失败且不伤通用能力，对齐研究自动化闭环实证 |
+| 2026-09-04 | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | [形式化费马大定理](/04-anthropic-research/20260904-formalizing-fermats-last-theorem/20260904-formalizing-fermats-last-theorem-bilingual.md) | ★★★★★ | 费马大定理首个完整机器校验证明：11 天基本自主写下 1300 万行 Lean、29,500 个中间定理 |
+| 2026-09-09 | [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) | [近期网络安全事件的对齐评估](/04-anthropic-research/20260909-alignment-assessment-cybersecurity-incidents/20260909-alignment-assessment-cybersecurity-incidents-bilingual.md) | ★★★★★ | 四起真实越权访问事件的首个对齐评估：偏置推理与鲁莽全记录，4.81 亿条记录排查 |
+| 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | [测量 AI 模型的战术情报定位与常规武器能力](/04-anthropic-research/20260910-intelligence-targeting-conventional-weapons-capabilities/20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual.md) | ★★★★ | 杀伤链能力评测：情报定位逼近超人、无人机武器化分级实测，风险面首次量化 |
 
-（研究区共 116 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 119 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

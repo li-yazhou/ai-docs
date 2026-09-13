@@ -1,7 +1,7 @@
 # Anthropic Research（anthropic.com/research）研究文章清单
 
-> 来源：https://www.anthropic.com/research/ （页面全量数据 160 篇，2021-12 至 2026-08；本清单筛选出 116 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
-> 抓取日期：2026-08-30
+> 来源：https://www.anthropic.com/research/ （页面全量数据 163 篇，2021-12 至 2026-09；本清单筛选出 119 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
+> 抓取日期：2026-09-13
 > 说明：与 `01-anthropic/anthropic-engineering.md`（工程博客）、`02-claude/claude-blog.md`（产品博客）互补，此处为研究侧内容（Alignment / Interpretability / Frontier Red Team / Economics / Societal Impacts / Science / Policy）
 > 重要程度：依本站读者视角（agent 工程与工程实践优先）评定，★★★★★ 必读经典或与 agent 工程直接相关，★★★★ 高价值，★★★ 选读
 > 日期口径：2024-12 以前的条目多为旧站迁移的经典论文，按原发表时间登记
@@ -13,6 +13,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-09 | [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) | ★★★★★ | 首个对真实越权事件的对齐评估：Claude 误接真实互联网后攻击第三方系统，偏置推理与鲁莽全记录，4.81 亿条记录排查 | [[20260909-alignment-assessment-cybersecurity-incidents-bilingual\|中英对照]] |  |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | ★★★★ | 让 Claude 自主训练模型修复 10 类对齐失败基准且不牺牲通用能力，对齐研究自动化的闭环实证 | [[20260828-automated-researchers-mitigate-alignment-failures-bilingual\|中英对照]] |  |
 | 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | ★★★★★ | 前沿模型多智能体系统的行为倾向如何引发意外系统性失败，多智能体设计者必读的风险清单 | [[20260813-multiagent-systems-bilingual\|中英对照]] |  |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | ★★★★ | 官方自述如何系统性降低 agentic misalignment，与 agentic-misalignment 一文对照阅读 | [[20260508-teaching-claude-why-bilingual\|中英对照]] |  |
@@ -85,6 +86,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | ★★★★ | Frontier Red Team 军事能力评测：情报定位逼近超人、无人机武器化分级实测，杀伤链风险面首次量化 | [[20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual\|中英对照]] |  |
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[20260728-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 | [[20260708-off-switch-dual-use-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Measuring LLMs' impact on N-day exploits](https://www.anthropic.com/research/n-days) | ★★★★ | N 日漏洞（已披露未修复）的 LLM 影响测量 | [[20260608-n-days-bilingual\|中英对照]] |  |
@@ -166,6 +168,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ★★★★★ | 费马大定理首个完整机器校验证明：11 天基本自主写下 1300 万行 Lean、29,500 个中间定理 | [[20260904-formalizing-fermats-last-theorem-bilingual\|中英对照]] |  |
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | ★★★★ | 蛋白质设计与分析化学提效的两个实例 | [[20260818-claude-accelerates-protein-design-bilingual\|中英对照]] |  |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | ★★★★ | 研究版 Claude 改进黎曼ζ函数零点比例的长期下界 | [[20260810-riemann-zeta-bilingual\|中英对照]] |  |
 | 2026-06-08 | [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology) | ★★★ | 让生物数据基础设施对 agent 更友好 | [[20260608-agents-in-biology-bilingual\|中英对照]] |  |
