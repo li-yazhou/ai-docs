@@ -2,6 +2,7 @@
 
 > 来源：https://www.anthropic.com/engineering/ （含 sitemap 核对，共 25 篇）
 > 抓取日期：2026-08-15
+> 2026-09-13 复核：官网无新增文章，25 篇全部有译文（claude-code-best-practices 原文已迁移，基于 Wayback 存档补译）
 
 ## 2026
 
@@ -32,7 +33,7 @@
 | 2025-09-11 | [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) | [[2509-writing-tools-for-agents-bilingual\|中英对照]] |  |
 | 2025-06-26 | [Desktop Extensions: One-click MCP server installation for Claude Desktop](https://www.anthropic.com/engineering/desktop-extensions) | [[2506-desktop-extensions-bilingual\|中英对照]] |  |
 | 2025-06-13 | [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system) | [[2506-multi-agent-research-system-bilingual\|中英对照]] |  |
-| 2025-04-18 | [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) | ⚠️ 暂缺（原链接已迁移至 code.claude.com，无法访问） |  |
+| 2025-04-18 | [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) | [[2504-claude-code-best-practices-bilingual\|中英对照]] | 原链接现 301 至 code.claude.com 新版文档；译文基于 Wayback 2025-04-20 快照 |
 | 2025-03-20 | [The 'think' tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool) | [[2503-claude-think-tool-bilingual\|中英对照]] |  |
 | 2025-01-06 | [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/engineering/swe-bench-sonnet) | [[2501-swe-bench-sonnet-bilingual\|中英对照]] |  |
 
