@@ -233,3 +233,4 @@
   - [2609-形式化费马大定理](/04-anthropic-research/20260904-formalizing-fermats-last-theorem/20260904-formalizing-fermats-last-theorem-bilingual.md)
   - [2609-近期网络安全事件的对齐评估](/04-anthropic-research/20260909-alignment-assessment-cybersecurity-incidents/20260909-alignment-assessment-cybersecurity-incidents-bilingual.md)
   - [2609-测量 AI 模型的战术情报定位与常规武器能力](/04-anthropic-research/20260910-intelligence-targeting-conventional-weapons-capabilities/20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual.md)
+  - [2609-Claude 如何提升（uplift）生物分子建模](/04-anthropic-research/20260917-claude-uplifts-biomolecular-modeling/20260917-claude-uplifts-biomolecular-modeling-bilingual.md)

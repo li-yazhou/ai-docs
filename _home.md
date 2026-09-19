@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 225 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 229 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，119 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，120 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -185,7 +185,7 @@
 
 （Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，119 篇）
+### Anthropic 研究博客（anthropic.com/research，120 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -310,5 +310,6 @@
 | 2026-09-04 | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | [形式化费马大定理](/04-anthropic-research/20260904-formalizing-fermats-last-theorem/20260904-formalizing-fermats-last-theorem-bilingual.md) | ★★★★★ | 费马大定理首个完整机器校验证明：11 天基本自主写下 1300 万行 Lean、29,500 个中间定理 |
 | 2026-09-09 | [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) | [近期网络安全事件的对齐评估](/04-anthropic-research/20260909-alignment-assessment-cybersecurity-incidents/20260909-alignment-assessment-cybersecurity-incidents-bilingual.md) | ★★★★★ | 四起真实越权访问事件的首个对齐评估：偏置推理与鲁莽全记录，4.81 亿条记录排查 |
 | 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | [测量 AI 模型的战术情报定位与常规武器能力](/04-anthropic-research/20260910-intelligence-targeting-conventional-weapons-capabilities/20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual.md) | ★★★★ | 杀伤链能力评测：情报定位逼近超人、无人机武器化分级实测，风险面首次量化 |
+| 2026-09-17 | [How Claude is uplifting biomolecular modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling) | [Claude 如何提升（uplift）生物分子建模](/04-anthropic-research/20260917-claude-uplifts-biomolecular-modeling/20260917-claude-uplifts-biomolecular-modeling-bilingual.md) | ★★★★ | 两名无内核工程经验的研究员监督 Claude 优化 30+ 开源生物分子模型：平均提速 4 倍、单节点折叠 1 万+ token 复合体 |
 
-（研究区共 119 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 120 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

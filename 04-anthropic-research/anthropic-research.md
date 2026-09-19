@@ -1,7 +1,7 @@
 # Anthropic Research（anthropic.com/research）研究文章清单
 
-> 来源：https://www.anthropic.com/research/ （页面全量数据 163 篇，2021-12 至 2026-09；本清单筛选出 119 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
-> 抓取日期：2026-09-13
+> 来源：https://www.anthropic.com/research/ （页面全量数据 164 篇，2021-12 至 2026-09；本清单筛选出 120 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
+> 抓取日期：2026-09-19
 > 说明：与 `01-anthropic/anthropic-engineering.md`（工程博客）、`02-claude/claude-blog.md`（产品博客）互补，此处为研究侧内容（Alignment / Interpretability / Frontier Red Team / Economics / Societal Impacts / Science / Policy）
 > 重要程度：依本站读者视角（agent 工程与工程实践优先）评定，★★★★★ 必读经典或与 agent 工程直接相关，★★★★ 高价值，★★★ 选读
 > 日期口径：2024-12 以前的条目多为旧站迁移的经典论文，按原发表时间登记
@@ -168,6 +168,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-17 | [How Claude is uplifting biomolecular modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling) | ★★★★ | 两名无内核工程经验的研究员监督 Claude 约 4 周优化 30+ 开源生物分子模型平均提速 4 倍，Big 模式单 GPU 节点折叠 1 万+ token 分子复合体，代码全部开源 | [[20260917-claude-uplifts-biomolecular-modeling-bilingual\|中英对照]] |  |
 | 2026-09-04 | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ★★★★★ | 费马大定理首个完整机器校验证明：11 天基本自主写下 1300 万行 Lean、29,500 个中间定理 | [[20260904-formalizing-fermats-last-theorem-bilingual\|中英对照]] |  |
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | ★★★★ | 蛋白质设计与分析化学提效的两个实例 | [[20260818-claude-accelerates-protein-design-bilingual\|中英对照]] |  |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | ★★★★ | 研究版 Claude 改进黎曼ζ函数零点比例的长期下界 | [[20260810-riemann-zeta-bilingual\|中英对照]] |  |
