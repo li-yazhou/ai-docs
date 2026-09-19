@@ -1,7 +1,7 @@
 # Claude 产品博客（claude.com/blog）文章清单
 
-> 来源：https://claude.com/blog/ （sitemap 全量 229 篇，2023-08 至 2026-08；本清单筛选出 84 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
-> 抓取日期：2026-08-16（2026-08-28 增补 12 篇）
+> 来源：https://claude.com/blog/ （sitemap 全量 246 篇，2023-08 至 2026-09；本清单筛选出 95 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
+> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇）
 > 说明：与 `03-anthropic/anthropic-engineering.md`（Anthropic 工程博客）互补，此处为 Claude 产品侧内容
 > 翻译登记：完成后在「中英文版本」列填 `[[YYMM-slug-bilingual|中英对照]]`
 
@@ -33,6 +33,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-14 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | ★★★★ | agentic coding 让 CI 承压：Anthropic 规模化落地测试影响分析（test impact analysis）的工程实践 | [[2609-agentic-coding-straining-ci-bilingual\|中英对照]] |  |
+| 2026-08-28 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | ★★★ | Anthropic 全员在日常工作中使用 Claude Tag 的内部用例 | [[2608-anthropic-employees-claude-tag-bilingual\|中英对照]] |  |
 | 2026-08-21 | [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) | ★★★★ | AI 原生软件开发的六阶段（plan→maintain）官方全景手册 | [[2608-ai-native-sdlc-playbook-bilingual\|中英对照]] |  |
 | 2026-08-20 | [The Claude Code Guide For Startups](https://claude.com/blog/claude-code-guide-for-startups) | ★★★ | 五条规则让初创团队以 10 倍规模出货 | [[2608-claude-code-guide-startups-bilingual\|中英对照]] |  |
 | 2026-08-18 | [How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | ★★★ | Claude Tag 当 CI/CD 故障第一响应人，附搭建 kit 的 agentic ops 内部实践 | [[2608-ai-ci-cd-on-call-bilingual\|中英对照]] |  |
@@ -63,6 +65,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-17 | [Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5](https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5) | ★★★ | Balyasny 对 Fable 5 的评估与治理方法（frontier 系列新篇） | [[2609-balyasny-governs-fable-5-bilingual\|中英对照]] |  |
+| 2026-09-14 | [How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag) | ★★★ | 医疗机构用 Claude Tag 的部署与治理案例 | [[2609-healthcare-claude-tag-bilingual\|中英对照]] |  |
+| 2026-09-10 | [T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process) | ★★★ | T. Rowe Price 把 Claude 深入投资流程 | [[2609-t-rowe-price-investment-bilingual\|中英对照]] |  |
 | 2026-08-26 | [How Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) | ★★★ | Warp 的自改进 agent 开发模式 | [[2608-warp-self-improving-agents-bilingual\|中英对照]] |  |
 | 2026-08-20 | [How monday.com transformed its platform into an agent-first product where humans and agents collaborate](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate) | ★★★ | monday.com 向 agent-first 产品的平台级转型 | [[2608-monday-com-agent-first-bilingual\|中英对照]] |  |
 | 2026-08-19 | [Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams) | ★★★ | Slack CPO 谈人机团队构建（系列第二篇） | [[2608-slack-human-agent-teams-bilingual\|中英对照]] |  |
@@ -103,6 +108,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-16 | [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude) | ★★★★ | Cowork 与 chat 合并为统一的 Claude，agentic surface 走向整合的关键节点 | [[2609-cowork-is-now-claude-bilingual\|中英对照]] |  |
+| 2026-09-08 | [Reducing cost and improving performance with Claude Platform](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform) | ★★★ | Claude Platform 降本与提效的官方工程手段 | [[2609-claude-platform-cost-performance-bilingual\|中英对照]] |  |
+| 2026-08-26 | [Claude in Chrome is generally available](https://claude.com/blog/claude-in-chrome-generally-available) | ★★★ | 浏览器端 agent 正式 GA（上次增补漏登，补记） | [[2608-claude-in-chrome-ga-bilingual\|中英对照]] |  |
 | 2026-08-25 | [Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it) | ★★★ | chat↔Cowork↔Code 记忆统一，用户决定记忆内容 | [[2608-claude-memory-everywhere-bilingual\|中英对照]] |  |
 | 2026-07-28 | [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude) | ★★★ | MCP 2026-07-28 新规范在 Claude 的落地 | [[2607-bringing-mcp-2026-07-28-bilingual\|中英对照]] |  |
 | 2026-07-24 | [Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case) | ★★★ | 全模型线官方选型指南 | [[2607-claude-models-explained-bilingual\|中英对照]] |  |
@@ -125,6 +133,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-15 | [Building an AI-native revenue organization](https://claude.com/blog/building-an-ai-native-revenue-organization) | ★★★ | AI 原生收入组织（销售/GTM）的构建方式 | [[2609-ai-native-revenue-org-bilingual\|中英对照]] |  |
+| 2026-09-14 | [Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production) | ★★★★ | 面向 CIO/技术负责人的 AI 从试点到上生产蓝图 | [[2609-pilot-to-production-bilingual\|中英对照]] |  |
+| 2026-09-10 | [What 1,000 small business owners taught us about AI](https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai) | ★★★ | 千家小企业主的 AI 使用调研 | [[2609-1000-small-business-owners-bilingual\|中英对照]] |  |
 | 2026-05-14 | [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) | ★★★ | AI 原生创业手册 | [[2605-founders-playbook-bilingual\|中英对照]] |  |
 | 2026-04-29 | [Product development in the agentic era](https://claude.com/blog/product-development-in-the-agentic-era) | ★★★ | agent 时代的产品开发范式 | [[2604-product-development-agentic-era-bilingual\|中英对照]] |  |
 | 2026-03-19 | [Product management on the AI exponential ](https://claude.com/blog/product-management-on-the-ai-exponential) | ★★★ | 指数曲线上做产品管理 | [[2603-product-management-ai-exponential-bilingual\|中英对照]] |  |
