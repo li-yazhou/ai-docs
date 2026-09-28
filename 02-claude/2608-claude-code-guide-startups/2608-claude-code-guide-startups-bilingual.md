@@ -372,9 +372,9 @@ Other examples include summarizing thousands of legal documents with subagents (
 
 其他例子包括：用 subagent 总结数千份法律文件（Crosby）、扫查理赔数据以跨站点标记异常（Commure）、持续挖掘医院财务数据中任何分析团队都无法及时捕捉的预警信号（Translucent）。
 
-**Tip:** [Dynamic workflows](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) can be used to fan multiple subagents to analyze large amounts of data in parallel or to conduct an adversarial review of another agent's work. When using a model like Claude Opus or Claude Fable say "fan out multiple subagents," or "use a workflow."
+**Tip:** [Dynamic workflows](https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/) can be used to fan multiple subagents to analyze large amounts of data in parallel or to conduct an adversarial review of another agent's work. When using a model like Claude Opus or Claude Fable say "fan out multiple subagents," or "use a workflow."
 
-**提示：** [Dynamic workflows（动态工作流）](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)可用于派发（fan out）多个 subagent 并行分析海量数据，或对另一个 agent 的工作进行对抗性审查。使用 Claude Opus 或 Claude Fable 这类模型时，直接说"fan out multiple subagents"或"use a workflow"即可。
+**提示：** [Dynamic workflows（动态工作流）](https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/)可用于派发（fan out）多个 subagent 并行分析海量数据，或对另一个 agent 的工作进行对抗性审查。使用 Claude Opus 或 Claude Fable 这类模型时，直接说"fan out multiple subagents"或"use a workflow"即可。
 
 ![img-04](images/img-04.png)
 

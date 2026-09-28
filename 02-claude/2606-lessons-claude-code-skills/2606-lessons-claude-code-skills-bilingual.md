@@ -2,7 +2,7 @@
 
 > **原文标题：** Lessons from building Claude Code: How we use skills
 > **作者：** Thariq Shihipar（Anthropic 技术团队成员，从事 Claude Code 开发）
-> **原文链接：** https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
+> **原文链接：** https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/
 > **发布日期：** 2026-06-03
 > **翻译模型：** GLM-5.3
 > 排版：每段英文原文在前，中文翻译紧随其后。术语保留英文原文并附中文释义。

@@ -2,7 +2,7 @@
 
 > **原文标题：** Seeing like an agent: how we design tools in Claude Code
 > **作者：** Thariq Shihipar（Anthropic 技术团队成员，Claude Code）
-> **原文链接：** https://claude.com/blog/seeing-like-an-agent
+> **原文链接：** https://claude.dev/blog/seeing-like-an-agent/
 > **发布日期：** 2026-04-10
 > **翻译模型：** GLM-5.3
 > 排版：每段英文原文在前，中文翻译紧随其后。术语保留英文原文并附中文释义。

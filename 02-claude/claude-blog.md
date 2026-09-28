@@ -1,7 +1,7 @@
 # Claude 产品博客（claude.com/blog）文章清单
 
-> 来源：https://claude.com/blog/ （sitemap 全量 246 篇，2023-08 至 2026-09；本清单筛选出 95 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
-> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇）
+> 来源：https://claude.com/blog/ + https://claude.dev/blog/ （claude.dev 为 2026-09 启用的开发者博客域名，深度工程文章陆续迁往该域名并从 claude.com 301；两站 sitemap 全量 246 + 10 篇，2023-08 至 2026-09；本清单筛选出 102 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
+> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇；2026-09-28 增补 7 篇，并把 6 篇迁移文章链接更新为 claude.dev）
 > 说明：与 `03-anthropic/anthropic-engineering.md`（Anthropic 工程博客）互补，此处为 Claude 产品侧内容
 > 翻译登记：完成后在「中英文版本」列填 `[[YYMM-slug-bilingual|中英对照]]`
 
@@ -12,14 +12,14 @@
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-20 | [Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api) | ★★★★ | computer use/Skills API/Files API 三件套 GA，构建生产 agent 的平台能力与用法 | [[2608-computer-use-skills-api-files-api-bilingual\|中英对照]] |  |
-| 2026-07-24 | [The new rules of context engineering for Claude 5 generation models ](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) | ★★★★★ | Claude 5 代模型的上下文工程新规则，接续 effective-context-engineering 的最新官方方法论 | [[2607-new-rules-context-engineering-bilingual\|中英对照]] |  |
+| 2026-07-24 | [The new rules of context engineering for Claude 5 generation models ](https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/) | ★★★★★ | Claude 5 代模型的上下文工程新规则，接续 effective-context-engineering 的最新官方方法论 | [[2607-new-rules-context-engineering-bilingual\|中英对照]] |  |
 | 2026-07-22 | [Building verification loops in Claude Code with skills](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills) | ★★★★ | 用 Skills 构建 agent 自验证回路，让产出可自检 | [[2607-building-verification-loops-bilingual\|中英对照]] |  |
 | 2026-06-30 | [Loop engineering: Getting started with loops](https://claude.com/blog/getting-started-with-loops) | ★★★ | Loop engineering 入门：把任务组织成可迭代的循环 | [[2606-getting-started-with-loops-bilingual\|中英对照]] |  |
 | 2026-06-24 | [Building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams) | ★★★★ | 人机协作从单人模式到人机团队模式的演进，附 Anthropic 内部实际案例 | [[2606-building-effective-human-agent-teams-bilingual\|中英对照]] |  |
-| 2026-06-02 | [A harness for every task: dynamic workflows in Claude Code ](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) | ★★★ | Claude Code 动态工作流：为每类任务配置对应 harness | [[2606-dynamic-workflows-in-claude-code-bilingual\|中英对照]] |  |
+| 2026-06-02 | [A harness for every task: dynamic workflows in Claude Code ](https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/) | ★★★ | Claude Code 动态工作流：为每类任务配置对应 harness | [[2606-dynamic-workflows-in-claude-code-bilingual\|中英对照]] |  |
 | 2026-04-22 | [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) | ★★★ | 经 MCP 安全触达生产系统的架构设计 | [[2604-agents-reach-production-mcp-bilingual\|中英对照]] |  |
 | 2026-04-10 | [Multi-agent coordination patterns: Five approaches and when to use them](https://claude.com/blog/multi-agent-coordination-patterns) | ★★★★★ | 五种多智能体协调模式及适用场景，多智能体系统设计直接可用的分类框架 | [[2604-multi-agent-coordination-patterns-bilingual\|中英对照]] |  |
-| 2026-04-10 | [Seeing like an agent: how we design tools in Claude Code](https://claude.com/blog/seeing-like-an-agent) | ★★★★★ | Claude Code 工具设计哲学：从 agent 的感知方式出发设计工具界面，视角独特 | [[2604-seeing-like-an-agent-bilingual\|中英对照]] |  |
+| 2026-04-10 | [Seeing like an agent: how we design tools in Claude Code](https://claude.dev/blog/seeing-like-an-agent/) | ★★★★★ | Claude Code 工具设计哲学：从 agent 的感知方式出发设计工具界面，视角独特 | [[2604-seeing-like-an-agent-bilingual\|中英对照]] |  |
 | 2026-04-09 | [The advisor strategy: Give agents an intelligence boost](https://claude.com/blog/the-advisor-strategy) | ★★★★ | advisor 模式：给 agent 外挂智囊以低成本提升复杂任务表现 | [[2604-the-advisor-strategy-bilingual\|中英对照]] |  |
 | 2026-04-02 | [Agent Harness Design: 3 Patterns for Harnessing Claude's Intelligence](https://claude.com/blog/harnessing-claudes-intelligence) | ★★★★ | Agent Harness 三种设计模式，与 engineering 板块 harness 系列呼应 | [[2604-harnessing-claudes-intelligence-bilingual\|中英对照]] |  |
 | 2026-03-05 | [Common workflow patterns for AI agents—and when to use them](https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them) | ★★★★ | 常见 agent 工作流模式（单次/链式/并行/编排）与选型建议 | [[2603-common-workflow-patterns-bilingual\|中英对照]] |  |
@@ -33,6 +33,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-25 | [Using Claude Code: Spending your effort](https://claude.dev/blog/spending-your-effort/) | ★★★★ | effort 档位怎么花：按任务难度调节 effort 的使用策略，接续官方 effort 选型指南 | [[2609-spending-your-effort-bilingual\|中英对照]] |  |
+| 2026-09-25 | [What a task costs on Opus 5.5](https://claude.dev/blog/what-a-task-costs-on-opus-5-5/) | ★★★★ | Opus 5.5 上各类任务的真实成本拆解，agentic 成本工程续篇 | [[2609-task-costs-opus-5-5-bilingual\|中英对照]] |  |
+| 2026-09-23 | [How to prepare for AI-driven code modernization projects](https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects) | ★★★ | AI 驱动代码现代化项目的评估与准备指南 | [[2609-code-modernization-projects-bilingual\|中英对照]] |  |
 | 2026-09-14 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | ★★★★ | agentic coding 让 CI 承压：Anthropic 规模化落地测试影响分析（test impact analysis）的工程实践 | [[2609-agentic-coding-straining-ci-bilingual\|中英对照]] |  |
 | 2026-08-28 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | ★★★ | Anthropic 全员在日常工作中使用 Claude Tag 的内部用例 | [[2608-anthropic-employees-claude-tag-bilingual\|中英对照]] |  |
 | 2026-08-21 | [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) | ★★★★ | AI 原生软件开发的六阶段（plan→maintain）官方全景手册 | [[2608-ai-native-sdlc-playbook-bilingual\|中英对照]] |  |
@@ -43,12 +46,12 @@
 | 2026-07-16 | [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration) | ★★★★ | Anthropic 大规模代码迁移的编排方法与实战经验 | [[2607-ai-code-migration-bilingual\|中英对照]] |  |
 | 2026-07-07 | [Claude Code effort level and model selection](https://claude.com/blog/claude-model-and-effort-level-in-claude-code) | ★★★★ | effort 档位（low~max）与模型选型官方指南 | [[2607-claude-code-effort-model-selection-bilingual\|中英对照]] |  |
 | 2026-06-18 | [Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more) | ★★★★★ | CLAUDE.md/skills/hooks/subagents 四种扩展机制何时用哪个，一篇文章讲清分界 | [[2606-steering-claude-code-bilingual\|中英对照]] |  |
-| 2026-06-03 | [Lessons from building Claude Code: How we use skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) | ★★★★ | 官方团队自述开发 Claude Code 时内部如何使用 skills | [[2606-lessons-claude-code-skills-bilingual\|中英对照]] |  |
+| 2026-06-03 | [Lessons from building Claude Code: How we use skills](https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/) | ★★★★ | 官方团队自述开发 Claude Code 时内部如何使用 skills | [[2606-lessons-claude-code-skills-bilingual\|中英对照]] |  |
 | 2026-06-03 | [Running an AI-native engineering org](https://claude.com/blog/running-an-ai-native-engineering-org) | ★★★★ | AI 原生工程组织的运转方式与度量 | [[2606-ai-native-engineering-org-bilingual\|中英对照]] |  |
-| 2026-05-20 | [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html) | ★★★ | 用 HTML 作为 agent 交互与输出媒介的奇效 | [[2605-unreasonable-effectiveness-html-bilingual\|中英对照]] |  |
+| 2026-05-20 | [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/) | ★★★ | 用 HTML 作为 agent 交互与输出媒介的奇效 | [[2605-unreasonable-effectiveness-html-bilingual\|中英对照]] |  |
 | 2026-05-14 | [How Claude Code works in large codebases: Best practices and where to start](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) | ★★★★ | 大型代码仓库中 Claude Code 的检索机制与起步策略 | [[2605-claude-code-large-codebases-bilingual\|中英对照]] |  |
 | 2026-05-13 | [Best practices for computer and browser use with Claude](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude) | ★★★ | computer use / browser use 的官方使用最佳实践 | [[2605-computer-browser-use-bilingual\|中英对照]] |  |
-| 2026-04-30 | [Lessons from building Claude Code: Prompt caching is everything](https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything) | ★★★★ | prompt caching 是一切：agentic coding 的成本工程细节 | [[2604-lessons-claude-code-prompt-caching-bilingual\|中英对照]] |  |
+| 2026-04-30 | [Lessons from building Claude Code: Prompt caching is everything](https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/) | ★★★★ | prompt caching 是一切：agentic coding 的成本工程细节 | [[2604-lessons-claude-code-prompt-caching-bilingual\|中英对照]] |  |
 | 2026-04-28 | [Onboarding Claude Code like a new developer: Lessons from 17 years of development](https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development) | ★★★ | 把 Claude Code 当新员工 onboarding 的经验之谈 | [[2604-onboarding-claude-code-bilingual\|中英对照]] |  |
 | 2026-04-15 | [Using Claude Code: session management and 1M context](https://claude.com/blog/using-claude-code-session-management-and-1m-context) | ★★★ | 会话管理与 1M 上下文的配合使用 | [[2604-session-management-1m-context-bilingual\|中英对照]] |  |
 | 2026-04-14 | [Redesigning Claude Code on desktop for parallel agents](https://claude.com/blog/claude-code-desktop-redesign) | ★★★ | 桌面版为并行多 agent 重设计的交互 | [[2604-claude-code-desktop-redesign-bilingual\|中英对照]] |  |
@@ -108,6 +111,10 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-24 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | ★★★ | Opus 5.5 发布：面向更长、更重上下文的 coding 会话 | [[2609-opus-5-5-coding-sessions-bilingual\|中英对照]] |  |
+| 2026-09-23 | [Claude Marketplace: plugins and connectors, products and agents, and service partners](https://claude.com/blog/claude-marketplace) | ★★★ | Claude Marketplace 发布：插件/连接器/产品与 agent/服务商的统一市场 | [[2609-claude-marketplace-bilingual\|中英对照]] |  |
+| 2026-09-23 | [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/) | ★★★ | claude.ai 两周提速 3 倍的性能工程复盘 | [[2609-claude-ai-3x-faster-bilingual\|中英对照]] |  |
+| 2026-09-22 | [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) | ★★★ | Opus 5.5 官方使用指南：模型特性与搭配建议 | [[2609-getting-most-out-of-opus-5-5-bilingual\|中英对照]] |  |
 | 2026-09-16 | [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude) | ★★★★ | Cowork 与 chat 合并为统一的 Claude，agentic surface 走向整合的关键节点 | [[2609-cowork-is-now-claude-bilingual\|中英对照]] |  |
 | 2026-09-08 | [Reducing cost and improving performance with Claude Platform](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform) | ★★★ | Claude Platform 降本与提效的官方工程手段 | [[2609-claude-platform-cost-performance-bilingual\|中英对照]] |  |
 | 2026-08-26 | [Claude in Chrome is generally available](https://claude.com/blog/claude-in-chrome-generally-available) | ★★★ | 浏览器端 agent 正式 GA（上次增补漏登，补记） | [[2608-claude-in-chrome-ga-bilingual\|中英对照]] |  |

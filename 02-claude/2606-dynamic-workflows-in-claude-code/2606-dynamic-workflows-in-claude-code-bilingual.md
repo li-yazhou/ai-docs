@@ -2,7 +2,7 @@
 
 > **原文标题：** A harness for every task: dynamic workflows in Claude Code
 > **作者：** Thariq Shihipar、Sid Bidasaria（Anthropic 技术团队成员）
-> **原文链接：** https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code
+> **原文链接：** https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/
 > **发布日期：** 2026-06-02
 > **翻译模型：** GLM-5.3
 > 排版：每段英文原文在前，中文翻译紧随其后。术语保留英文原文并附中文释义。

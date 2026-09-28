@@ -138,9 +138,9 @@ It's one thing to have Claude filter through the alert noise, but the real savin
 
 让 Claude 过滤告警噪音是一回事，真正的节省来自调查环节。事件开启后，Claude 发布第一份基于证据的分析的中位时间是 14 分钟；在最快的案例中，它在第一份报告里就在 4 分钟内点名了根因（root cause）。
 
-When an alert has been escalated to an incident, Claude is often ready in our Slack channel with a hypothesis grounded in evidence that we can review. Claude Tag kicks off a [dynamic workflow](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) with an orchestration agent that spins up executor subagents to investigate each dependency and source of truth.
+When an alert has been escalated to an incident, Claude is often ready in our Slack channel with a hypothesis grounded in evidence that we can review. Claude Tag kicks off a [dynamic workflow](https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/) with an orchestration agent that spins up executor subagents to investigate each dependency and source of truth.
 
-当一条告警被升级为事件时，Claude 通常已经在我们的 Slack 频道里准备好了一个有证据支撑、可供我们审阅的假设。Claude Tag 会启动一个[动态工作流（dynamic workflow）](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)，由一个编排 agent（orchestration agent）拉起若干执行子代理（executor subagents），分别调查每一个依赖和数据源（source of truth）。
+当一条告警被升级为事件时，Claude 通常已经在我们的 Slack 频道里准备好了一个有证据支撑、可供我们审阅的假设。Claude Tag 会启动一个[动态工作流（dynamic workflow）](https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/)，由一个编排 agent（orchestration agent）拉起若干执行子代理（executor subagents），分别调查每一个依赖和数据源（source of truth）。
 
 For us that's Grafana, our log store, PagerDuty, GitHub, Kubernetes and Slack incident channels—all wired up via [MCP Connectors](https://code.claude.com/docs/en/mcp). Claude can chase multiple leads in parallel, helping to reduce MTTR (mean time to resolution).
 

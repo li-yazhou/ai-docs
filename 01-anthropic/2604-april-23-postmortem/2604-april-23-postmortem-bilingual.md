@@ -81,9 +81,9 @@ When Claude reasons through a task, that reasoning is normally kept in the conve
 
 当 Claude 对一个任务进行推理时，这些推理通常会被保留在对话历史中，这样在之后的每一轮里，Claude 都能看到自己当初为什么做出那些编辑和工具调用。
 
-On March 26, we shipped what was meant to be an efficiency improvement to this feature. We use prompt caching to make back-to-back API calls cheaper and faster for users. Claude writes the input tokens to the cache when it makes an API request, then after a period of inactivity the prompt is evicted from cache, making room for other prompts. Cache utilization is something we manage carefully (more on our [approach](https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything)).
+On March 26, we shipped what was meant to be an efficiency improvement to this feature. We use prompt caching to make back-to-back API calls cheaper and faster for users. Claude writes the input tokens to the cache when it makes an API request, then after a period of inactivity the prompt is evicted from cache, making room for other prompts. Cache utilization is something we manage carefully (more on our [approach](https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/)).
 
-3 月 26 日，我们发布了一个本意是改善该功能效率的改动。我们使用提示缓存（prompt caching）来让用户连续多次的 API 调用更便宜、更快。Claude 在发起 API 请求时会把输入令牌写入缓存，在一段时间不活动后，提示词就会从缓存中被逐出，为其他提示词腾出空间。缓存利用率是我们精心管理的一项指标（更多关于我们的[做法](https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything)）。
+3 月 26 日，我们发布了一个本意是改善该功能效率的改动。我们使用提示缓存（prompt caching）来让用户连续多次的 API 调用更便宜、更快。Claude 在发起 API 请求时会把输入令牌写入缓存，在一段时间不活动后，提示词就会从缓存中被逐出，为其他提示词腾出空间。缓存利用率是我们精心管理的一项指标（更多关于我们的[做法](https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/)）。
 
 The design should have been simple: if a session has been idle for more than an hour, we could reduce users' cost of resuming that session by clearing old thinking sections. Since the request would be a cache miss anyway, we could prune unnecessary messages from the request to reduce the number of uncached tokens sent to the API. We'd then resume sending full reasoning history. To do this we used the `clear_thinking_20251015` API header along with `keep:1`.
 

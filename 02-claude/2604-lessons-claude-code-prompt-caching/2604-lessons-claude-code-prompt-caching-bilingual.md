@@ -2,7 +2,7 @@
 
 > **原文标题：** Lessons from building Claude Code: Prompt caching is everything
 > **作者：** Thariq Shihipar（Claude Code 团队技术成员）
-> **原文链接：** https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything
+> **原文链接：** https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/
 > **发布日期：** 2026-04-30
 > **翻译模型：** GLM-5.3
 > 排版：每段英文原文在前，中文翻译紧随其后。术语保留英文原文并附中文释义。

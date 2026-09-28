@@ -26,7 +26,7 @@
   - [2604-扩展托管 Agent：将大脑与双手解耦](/01-anthropic/2604-scaling-managed-agents/2604-scaling-managed-agents-bilingual.md)
   - [2604-关于近期 Claude Code 质量问题报告的更新](/01-anthropic/2604-april-23-postmortem/2604-april-23-postmortem-bilingual.md)
   - [2605-我们如何在各个产品中收容 Claude](/01-anthropic/2605-how-we-contain-claude/2605-how-we-contain-claude-bilingual.md)
-- **Claude 产品博客（claude.com/blog）**
+- **Claude 产品博客（claude.com/blog + claude.dev/blog）**
   - [文章登记总表（星级与未译篇目）](/02-claude/claude-blog.md)
   - [2504-Claude 把研究带向新境界](/02-claude/2504-claude-research/2504-claude-research-bilingual.md)
   - [2507-Anthropic 各团队如何使用 Claude Code](/02-claude/2507-how-anthropic-teams-use-claude-code/2507-how-anthropic-teams-use-claude-code-bilingual.md)
