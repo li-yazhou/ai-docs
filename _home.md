@@ -3,7 +3,7 @@
 本站收录 Anthropic 官方博客的中英对照翻译，共 231 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
-- **Claude 产品博客**（claude.com/blog + claude.dev/blog，84 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
+- **Claude 产品博客**（claude.com/blog + claude.dev/blog，102 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
 - **Anthropic 研究博客**（anthropic.com/research，122 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
@@ -53,7 +53,7 @@
 | 2026-04-23 | [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | [关于近期 Claude Code 质量问题报告的更新](/01-anthropic/2604-april-23-postmortem/2604-april-23-postmortem-bilingual.md) |
 | 2026-05-25 | [How we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) | [我们如何在各个产品中收容 Claude](/01-anthropic/2605-how-we-contain-claude/2605-how-we-contain-claude-bilingual.md) |
 
-### Claude 产品博客（claude.com/blog + claude.dev/blog，84 篇）
+### Claude 产品博客（claude.com/blog + claude.dev/blog，102 篇）
 
 [文章登记总表（星级与未译篇目）](/02-claude/claude-blog.md)
 
@@ -80,7 +80,7 @@
 | 2026-08-18 | [How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | [Claude Tag：Anthropic 的 CI/CD 故障第一响应人](/02-claude/2608-ai-ci-cd-on-call/2608-ai-ci-cd-on-call-bilingual.md) | ★★★ | Claude Tag 担任 CI/CD 值班 agent 的内部实践，附搭建思路 |
 | 2026-08-19 | [Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams) | [把对话变成知识：Slack 如何构建人机协作团队](/02-claude/2608-slack-human-agent-teams/2608-slack-human-agent-teams-bilingual.md) | ★★★ | Slack CPO 访谈，human-agent teams 系列第二篇 |
 
-#### 二、Claude Code 深度实战（22 篇）
+#### 二、Claude Code 深度实战（27 篇）
 
 *重度使用 Claude Code 的进阶材料：官方团队自述内部用法、大仓库策略、成本工程、组织推广*
 
@@ -108,8 +108,13 @@
 | 2026-08-14 | [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) | [最大化 Claude Code 会话的价值](/02-claude/2608-maximizing-claude-code-sessions/2608-maximizing-claude-code-sessions-bilingual.md) | ★★★ | 会话提效实操清单，建议搭配 SDLC 手册阅读 |
 | 2026-08-20 | [The Claude Code Guide For Startups](https://claude.com/blog/claude-code-guide-for-startups) | [Claude Code 初创公司指南：五条规则](/02-claude/2608-claude-code-guide-startups/2608-claude-code-guide-startups-bilingual.md) | ★★★ | 五条规则的实战指引，含十余家初创公司一手案例 |
 | 2026-08-21 | [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) | [AI 原生 SDLC 实战手册](/02-claude/2608-ai-native-sdlc-playbook/2608-ai-native-sdlc-playbook-bilingual.md) | ★★★★ | 官方六阶段 AI 原生 SDLC 全景手册，方法论成体系、可直接落地 |
+| 2026-08-28 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | [Anthropic 员工如何使用 Claude Tag](/02-claude/2608-anthropic-employees-claude-tag/2608-anthropic-employees-claude-tag-bilingual.md) | ★★★ | Anthropic 全员在日常工作中使用 Claude Tag 的内部用例 |
+| 2026-09-14 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | [Agentic coding 让 CI 不堪重负：Anthropic 如何规模化测试影响分析](/02-claude/2609-agentic-coding-straining-ci/2609-agentic-coding-straining-ci-bilingual.md) | ★★★★ | agentic coding 让 CI 承压：Anthropic 规模化落地测试影响分析（test impact analysis）的工程实践 |
+| 2026-09-23 | [How to prepare for AI-driven code modernization projects](https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects) | [如何为 AI 驱动的代码现代化项目做好准备](/02-claude/2609-code-modernization-projects/2609-code-modernization-projects-bilingual.md) | ★★★ | AI 驱动代码现代化项目的评估与准备指南 |
+| 2026-09-25 | [Using Claude Code: Spending your effort](https://claude.dev/blog/spending-your-effort/) | [用好 Claude Code:把 effort 花在刀刃上](/02-claude/2609-spending-your-effort/2609-spending-your-effort-bilingual.md) | ★★★★ | effort 档位怎么花：按任务难度调节 effort 的使用策略，接续官方 effort 选型指南 |
+| 2026-09-25 | [What a task costs on Opus 5.5](https://claude.dev/blog/what-a-task-costs-on-opus-5-5/) | [一项任务在 Opus 5.5 上要花多少钱](/02-claude/2609-task-costs-opus-5-5/2609-task-costs-opus-5-5-bilingual.md) | ★★★★ | Opus 5.5 上各类任务的真实成本拆解，agentic 成本工程续篇 |
 
-#### 三、前沿客户案例（17 篇）
+#### 三、前沿客户案例（20 篇）
 
 *Working at the frontier 系列等一手材料：一线公司如何把 agent 推进生产*
 
@@ -132,6 +137,9 @@
 | 2026-08-17 | [How ABC Legal turned every employee into a builder with Claude Managed Agents](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents) | [ABC Legal 如何用 Claude Managed Agents 让每位员工成为建造者](/02-claude/2608-abc-legal-managed-agents/2608-abc-legal-managed-agents-bilingual.md) | ★★★ | 从散乱实验到治理化 agent 舰队的落地路径 |
 | 2026-08-20 | [How monday.com transformed its platform into an agent-first product where humans and agents collaborate](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate) | [monday.com 如何把平台转型为 agent-first 产品](/02-claude/2608-monday-com-agent-first/2608-monday-com-agent-first-bilingual.md) | ★★★ | 25 万客户平台的 agent-first 转型一手案例 |
 | 2026-08-26 | [How Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) | [Warp 如何在 Claude 上构建自改进 agent](/02-claude/2608-warp-self-improving-agents/2608-warp-self-improving-agents-bilingual.md) | ★★★ | 自改进 agent 的可复用开发模式案例 |
+| 2026-09-10 | [T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process) | [T. Rowe Price 让 Claude 更深入其投资流程](/02-claude/2609-t-rowe-price-investment/2609-t-rowe-price-investment-bilingual.md) | ★★★ | T. Rowe Price 把 Claude 深入投资流程 |
+| 2026-09-14 | [How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag) | [医疗机构如何使用 Claude Tag](/02-claude/2609-healthcare-claude-tag/2609-healthcare-claude-tag-bilingual.md) | ★★★ | 医疗机构用 Claude Tag 的部署与治理案例 |
+| 2026-09-17 | [Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5](https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5) | [Working at the frontier：Balyasny 资产管理如何评估与治理 Claude Fable 5](/02-claude/2609-balyasny-governs-fable-5/2609-balyasny-governs-fable-5-bilingual.md) | ★★★ | Balyasny 对 Fable 5 的评估与治理方法（frontier 系列新篇） |
 
 #### 四、Agent 安全与治理（8 篇）
 
@@ -148,7 +156,7 @@
 | 2026-07-21 | [How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle) | [Anthropic 如何保障其 AI 原生软件开发生命周期的安全](/02-claude/2607-anthropic-secures-sdlc/2607-anthropic-secures-sdlc-bilingual.md) | ★★★ | Anthropic 自身 AI 原生 SDLC 的安全实践 |
 | 2026-08-21 | [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders) | [把 Claude Mythos 5 的网络安全能力带给更多防守者](/02-claude/2608-mythos-5-defenders/2608-mythos-5-defenders-bilingual.md) | ★★★ | Project Glasswing 扩围与前沿模型安全部署进展 |
 
-#### 五、产品与模型演进（16 篇）
+#### 五、产品与模型演进（23 篇）
 
 *Claude 生态一年内的关键产品节点，理解 Managed Agents/Cowork/Skills/MCP 的演进主线*
 
@@ -170,8 +178,15 @@
 | 2026-07-28 | [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude) | [将 MCP 2026-07-28 带入 Claude](/02-claude/2607-bringing-mcp-2026-07-28/2607-bringing-mcp-2026-07-28-bilingual.md) | ★★★ | MCP 2026-07-28 新规范在 Claude 的落地 |
 | 2026-08-20 | [Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api) | [用 computer use、Skills API 与 Files API 构建生产级 agent](/02-claude/2608-computer-use-skills-api-files-api/2608-computer-use-skills-api-files-api-bilingual.md) | ★★★★ | computer use、Skills API、Files API 同日 GA，新增 browser use 工具 |
 | 2026-08-25 | [Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it) | [Claude 的记忆无处不在，内容由你决定](/02-claude/2608-claude-memory-everywhere/2608-claude-memory-everywhere-bilingual.md) | ★★★ | 记忆跨产品统一：Claude 产品主线的关键节点 |
+| 2026-08-26 | [Claude in Chrome is generally available](https://claude.com/blog/claude-in-chrome-generally-available) | [Claude in Chrome 正式发布](/02-claude/2608-claude-in-chrome-ga/2608-claude-in-chrome-ga-bilingual.md) | ★★★ | 浏览器端 agent 正式 GA（上次增补漏登，补记） |
+| 2026-09-08 | [Reducing cost and improving performance with Claude Platform](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform) | [用 Claude Platform 降本增效](/02-claude/2609-claude-platform-cost-performance/2609-claude-platform-cost-performance-bilingual.md) | ★★★ | Claude Platform 降本与提效的官方工程手段 |
+| 2026-09-16 | [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude) | [Claude Cowork 与 chat 合而为一](/02-claude/2609-cowork-is-now-claude/2609-cowork-is-now-claude-bilingual.md) | ★★★★ | Cowork 与 chat 合并为统一的 Claude，agentic surface 走向整合的关键节点 |
+| 2026-09-22 | [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) | [充分发挥 Claude 与 Claude Code 中 Opus 5.5 的实力](/02-claude/2609-getting-most-out-of-opus-5-5/2609-getting-most-out-of-opus-5-5-bilingual.md) | ★★★ | Opus 5.5 官方使用指南：模型特性与搭配建议 |
+| 2026-09-23 | [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/) | [我们如何在两周内让 claude.ai 提速 3 倍](/02-claude/2609-claude-ai-3x-faster/2609-claude-ai-3x-faster-bilingual.md) | ★★★ | claude.ai 两周提速 3 倍的性能工程复盘 |
+| 2026-09-23 | [Claude Marketplace: plugins and connectors, products and agents, and service partners](https://claude.com/blog/claude-marketplace) | [Claude Marketplace：一站式发现插件、agent 与服务](/02-claude/2609-claude-marketplace/2609-claude-marketplace-bilingual.md) | ★★★ | Claude Marketplace 发布：插件/连接器/产品与 agent/服务商的统一市场 |
+| 2026-09-24 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | [编码会话更长、上下文更重：Claude Opus 5.5 正是为此而生](/02-claude/2609-opus-5-5-coding-sessions/2609-opus-5-5-coding-sessions-bilingual.md) | ★★★ | Opus 5.5 发布：面向更长、更重上下文的 coding 会话 |
 
-#### 六、行业趋势与组织（5 篇）
+#### 六、行业趋势与组织（8 篇）
 
 *趋势判断与组织层面的思考*
 
@@ -182,8 +197,11 @@
 | 2026-03-19 | [Product management on the AI exponential ](https://claude.com/blog/product-management-on-the-ai-exponential) | [AI 指数曲线上的产品管理](/02-claude/2603-product-management-ai-exponential/2603-product-management-ai-exponential-bilingual.md) | ★★★ | 指数曲线上做产品管理 |
 | 2026-04-29 | [Product development in the agentic era](https://claude.com/blog/product-development-in-the-agentic-era) | [Agentic 时代的产品开发](/02-claude/2604-product-development-agentic-era/2604-product-development-agentic-era-bilingual.md) | ★★★ | agent 时代的产品开发范式 |
 | 2026-05-14 | [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) | [创始人手册：打造 AI 原生初创公司](/02-claude/2605-founders-playbook/2605-founders-playbook-bilingual.md) | ★★★ | AI 原生创业手册 |
+| 2026-09-10 | [What 1,000 small business owners taught us about AI](https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai) | [1,000 位小企业主教我们的 AI 应用之道](/02-claude/2609-1000-small-business-owners/2609-1000-small-business-owners-bilingual.md) | ★★★ | 千家小企业主的 AI 使用调研 |
+| 2026-09-14 | [Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production) | [AI 从试点到生产：面向 CIO 与技术负责人的实用蓝图](/02-claude/2609-pilot-to-production/2609-pilot-to-production-bilingual.md) | ★★★★ | 面向 CIO/技术负责人的 AI 从试点到上生产蓝图 |
+| 2026-09-15 | [Building an AI-native revenue organization](https://claude.com/blog/building-an-ai-native-revenue-organization) | [构建 AI 原生收入组织](/02-claude/2609-ai-native-revenue-org/2609-ai-native-revenue-org-bilingual.md) | ★★★ | AI 原生收入组织（销售/GTM）的构建方式 |
 
-（Claude 区共 84 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
+（Claude 区共 102 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
 ### Anthropic 研究博客（anthropic.com/research，122 篇）
 
