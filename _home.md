@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 231 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 235 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog + claude.dev/blog，102 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，122 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，126 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -203,7 +203,7 @@
 
 （Claude 区共 102 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，122 篇）
+### Anthropic 研究博客（anthropic.com/research，126 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -331,5 +331,9 @@
 | 2026-09-17 | [How Claude is uplifting biomolecular modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling) | [Claude 如何提升（uplift）生物分子建模](/04-anthropic-research/20260917-claude-uplifts-biomolecular-modeling/20260917-claude-uplifts-biomolecular-modeling-bilingual.md) | ★★★★ | 两名无内核工程经验的研究员监督 Claude 优化 30+ 开源生物分子模型：平均提速 4 倍、单节点折叠 1 万+ token 复合体 |
 | 2026-09-24 | [Project Swap: What happens when agents trade for us?](https://www.anthropic.com/research/project-swap) | [Project Swap：当 agent 代替我们交易会发生什么？](/04-anthropic-research/20260924-project-swap/20260924-project-swap-bilingual.md) | ★★★★ | 201 人 × Claude agent 真实换书市场：五分钟访谈 61% 复现偏好，短板在理解而非谈判 |
 | 2026-09-25 | [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) | [是的，Claude 能算九圈](/04-anthropic-research/20260925-yes-claude-can-do-nine-loops/20260925-yes-claude-can-do-nine-loops-bilingual.md) | ★★★★ | Claude Science 一枪命中 N=4 SYM 九圈振幅，预算一两千美元，「低垂果实比专家以为的多」 |
+| 2026-09-29 | [GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | [GLM-5.3 与高级网络攻击能力的扩散](/04-anthropic-research/20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities/20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities-bilingual.md) | ★★★★ | 无防护开源权重扩散前沿网络能力：端到端漏洞利用追平 Mythos Preview，简单手段绕过防护率 64–100% |
+| 2026-09-29 | [What do you want from AI?](https://www.anthropic.com/research/your-thoughts-on-ai) | [你想从 AI 得到什么？](/04-anthropic-research/20260929-your-thoughts-on-ai/20260929-your-thoughts-on-ai-bilingual.md) | ★★★ | 8.1 万人调查续篇：首次允许参与者公开完整访谈，公众声音进入 AI 公共记录 |
+| 2026-09-30 | [Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do) | [我们能预测机器人将做哪些工作吗？](/04-anthropic-research/20260930-what-work-can-robots-do/20260930-what-work-can-robots-do-bilingual.md) | ★★★★ | 机器人暴露指数：74% 体力任务已被覆盖但仅 0.3% 成本可与人工竞争，50 年回测验证 |
+| 2026-10-01 | [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science) | [Claude 形状的科学](/04-anthropic-research/20261001-claude-shaped-science/20261001-claude-shaped-science-bilingual.md) | ★★★★ | 专找「Claude 形状」的问题：BootLoops 三个月 18 领域 36 篇手稿，附 agent 科学协作失败模式清单 |
 
-（研究区共 122 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 126 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）

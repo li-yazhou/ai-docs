@@ -254,3 +254,7 @@
   - [2609-Claude 如何提升（uplift）生物分子建模](/04-anthropic-research/20260917-claude-uplifts-biomolecular-modeling/20260917-claude-uplifts-biomolecular-modeling-bilingual.md)
   - [2609-Project Swap：当 agent 代替我们交易会发生什么？](/04-anthropic-research/20260924-project-swap/20260924-project-swap-bilingual.md)
   - [2609-是的，Claude 能算九圈](/04-anthropic-research/20260925-yes-claude-can-do-nine-loops/20260925-yes-claude-can-do-nine-loops-bilingual.md)
+  - [2609-GLM-5.3 与高级网络攻击能力的扩散](/04-anthropic-research/20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities/20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities-bilingual.md)
+  - [2609-你想从 AI 得到什么？](/04-anthropic-research/20260929-your-thoughts-on-ai/20260929-your-thoughts-on-ai-bilingual.md)
+  - [2609-我们能预测机器人将做哪些工作吗？](/04-anthropic-research/20260930-what-work-can-robots-do/20260930-what-work-can-robots-do-bilingual.md)
+  - [2610-Claude 形状的科学](/04-anthropic-research/20261001-claude-shaped-science/20261001-claude-shaped-science-bilingual.md)

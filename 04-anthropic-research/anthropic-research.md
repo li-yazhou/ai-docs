@@ -1,7 +1,7 @@
 # Anthropic Research（anthropic.com/research）研究文章清单
 
-> 来源：https://www.anthropic.com/research/ （页面全量数据 166 篇，2021-12 至 2026-09；本清单筛选出 122 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
-> 抓取日期：2026-09-28
+> 来源：https://www.anthropic.com/research/ （页面全量数据 170 篇，2021-12 至 2026-10；本清单筛选出 126 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
+> 抓取日期：2026-10-06
 > 说明：与 `01-anthropic/anthropic-engineering.md`（工程博客）、`02-claude/claude-blog.md`（产品博客）互补，此处为研究侧内容（Alignment / Interpretability / Frontier Red Team / Economics / Societal Impacts / Science / Policy）
 > 重要程度：依本站读者视角（agent 工程与工程实践优先）评定，★★★★★ 必读经典或与 agent 工程直接相关，★★★★ 高价值，★★★ 选读
 > 日期口径：2024-12 以前的条目多为旧站迁移的经典论文，按原发表时间登记
@@ -86,6 +86,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-29 | [GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | ★★★★ | 无防护开源权重扩散前沿网络能力：GLM-5.3 端到端漏洞利用追平 Mythos Preview，简单手段绕过防护率 64–100% | [[20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities-bilingual\|中英对照]] |  |
 | 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | ★★★★ | Frontier Red Team 军事能力评测：情报定位逼近超人、无人机武器化分级实测，杀伤链风险面首次量化 | [[20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual\|中英对照]] |  |
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[20260728-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
 | 2026-07-08 | [An off switch for dual-use knowledge in AI models](https://www.anthropic.com/research/off-switch-dual-use) | ★★★ | 给两用知识装「开关」：控制危险能力的访问 | [[20260708-off-switch-dual-use-bilingual\|中英对照]] |  |
@@ -131,6 +132,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-30 | [Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do) | ★★★★ | 机器人暴露指数：74% 体力任务已被覆盖但仅 0.3% 成本可与人工竞争，50 年回测验证，与 LLM 合计暴露 80% 工时 | [[20260930-what-work-can-robots-do-bilingual\|中英对照]] |  |
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | ★★★★ | 转岗培训项目有效性的证据综述（政策向） | [[20260812-reviewing-the-evidence-on-worker-retraining-programs-bilingual\|中英对照]] |  |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 | [[20260616-claude-code-expertise-bilingual\|中英对照]] |  |
 | 2026-04-22 | [What 81,000 people told us about the economics of AI](https://www.anthropic.com/research/81k-economics) | ★★★★ | 8.1 万用户大调查：经济忧虑与流量数据互证 | [[20260422-81k-economics-bilingual\|中英对照]] |  |
@@ -149,6 +151,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-29 | [What do you want from AI?](https://www.anthropic.com/research/your-thoughts-on-ai) | ★★★ | 8.1 万人调查续篇：首次允许参与者公开完整访谈，公众声音进入 AI 公共记录 | [[20260929-your-thoughts-on-ai-bilingual\|中英对照]] |  |
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | ★★★ | Anthropic Insights 向外部研究者开放隐私保护使用数据 | [[20260826-enabling-independent-research-bilingual\|中英对照]] |  |
 | 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | ★★★★ | 个人指导类请求的使用画像，并反馈到模型训练 | [[20260430-claude-personal-guidance-bilingual\|中英对照]] |  |
 | 2026-02-18 | [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) | ★★★★★ | 数百万交互分析：人们授予 agent 的自主权如何随经验增长 | [[20260218-measuring-agent-autonomy-bilingual\|中英对照]] |  |
@@ -169,6 +172,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-01 | [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science) | ★★★★ | 专找「Claude 形状」的问题：BootLoops harness 三个月 18 领域 36 篇手稿，附 agent 科学协作失败模式清单 | [[20261001-claude-shaped-science-bilingual\|中英对照]] |  |
 | 2026-09-25 | [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) | ★★★★ | 挑战发出一个月即被攻克：Claude Science 一枪命中 N=4 SYM 九圈振幅，预算一两千美元 | [[20260925-yes-claude-can-do-nine-loops-bilingual\|中英对照]] |  |
 | 2026-09-17 | [How Claude is uplifting biomolecular modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling) | ★★★★ | 两名无内核工程经验的研究员监督 Claude 约 4 周优化 30+ 开源生物分子模型平均提速 4 倍，Big 模式单 GPU 节点折叠 1 万+ token 分子复合体，代码全部开源 | [[20260917-claude-uplifts-biomolecular-modeling-bilingual\|中英对照]] |  |
 | 2026-09-04 | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ★★★★★ | 费马大定理首个完整机器校验证明：11 天基本自主写下 1300 万行 Lean、29,500 个中间定理 | [[20260904-formalizing-fermats-last-theorem-bilingual\|中英对照]] |  |
