@@ -1,7 +1,7 @@
 # Claude 产品博客（claude.com/blog）文章清单
 
-> 来源：https://claude.com/blog/ + https://claude.dev/blog/ （claude.dev 为 2026-09 启用的开发者博客域名，深度工程文章陆续迁往该域名并从 claude.com 301；两站 sitemap 全量 246 + 10 篇，2023-08 至 2026-09；本清单筛选出 102 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
-> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇；2026-09-28 增补 7 篇，并把 6 篇迁移文章链接更新为 claude.dev）
+> 来源：https://claude.com/blog/ + https://claude.dev/blog/ （claude.dev 为 2026-09 启用的开发者博客域名，深度工程文章陆续迁往该域名并从 claude.com 301；两站 sitemap 全量 251 + 13 篇，2023-08 至 2026-10；本清单筛选出 110 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
+> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇；2026-09-28 增补 7 篇，并把 6 篇迁移文章链接更新为 claude.dev；2026-10-06 增补 8 篇）
 > 说明：与 `03-anthropic/anthropic-engineering.md`（Anthropic 工程博客）互补，此处为 Claude 产品侧内容
 > 翻译登记：完成后在「中英文版本」列填 `[[YYMM-slug-bilingual|中英对照]]`
 
@@ -11,6 +11,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-28 | [Automating eval design and hillclimbing with Claude](https://claude.dev/blog/automating-eval-design-and-hillclimbing/) | ★★★★ | 用 Claude 自动化评测设计与 hillclimbing：验证回路的工程实践 | [[2609-automating-eval-hillclimbing-bilingual\|中英对照]] |  |
 | 2026-08-20 | [Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api) | ★★★★ | computer use/Skills API/Files API 三件套 GA，构建生产 agent 的平台能力与用法 | [[2608-computer-use-skills-api-files-api-bilingual\|中英对照]] |  |
 | 2026-07-24 | [The new rules of context engineering for Claude 5 generation models ](https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/) | ★★★★★ | Claude 5 代模型的上下文工程新规则，接续 effective-context-engineering 的最新官方方法论 | [[2607-new-rules-context-engineering-bilingual\|中英对照]] |  |
 | 2026-07-22 | [Building verification loops in Claude Code with skills](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills) | ★★★★ | 用 Skills 构建 agent 自验证回路，让产出可自检 | [[2607-building-verification-loops-bilingual\|中英对照]] |  |
@@ -33,6 +34,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-01 | [Customize Claude Code with mods in TypeScript](https://claude.com/blog/claude-code-mods) | ★★★★ | Claude Code 新扩展机制 mods（TypeScript）：继 skills/hooks 后的重要演进 | [[2610-claude-code-mods-bilingual\|中英对照]] |  |
+| 2026-10-01 | [Getting started with Claude Code mods](https://claude.dev/blog/getting-started-with-claude-code-mods/) | ★★★ | mods 官方入门：上手写出第一个 mod | [[2610-getting-started-code-mods-bilingual\|中英对照]] |  |
 | 2026-09-25 | [Using Claude Code: Spending your effort](https://claude.dev/blog/spending-your-effort/) | ★★★★ | effort 档位怎么花：按任务难度调节 effort 的使用策略，接续官方 effort 选型指南 | [[2609-spending-your-effort-bilingual\|中英对照]] |  |
 | 2026-09-25 | [What a task costs on Opus 5.5](https://claude.dev/blog/what-a-task-costs-on-opus-5-5/) | ★★★★ | Opus 5.5 上各类任务的真实成本拆解，agentic 成本工程续篇 | [[2609-task-costs-opus-5-5-bilingual\|中英对照]] |  |
 | 2026-09-23 | [How to prepare for AI-driven code modernization projects](https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects) | ★★★ | AI 驱动代码现代化项目的评估与准备指南 | [[2609-code-modernization-projects-bilingual\|中英对照]] |  |
@@ -68,6 +71,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-29 | [Agents you can coach: how Asana builds human-agent teams with Claude](https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude) | ★★★ | Asana 的人机团队实践（human-agent teams 系列新篇） | [[2609-agents-you-can-coach-asana-bilingual\|中英对照]] |  |
 | 2026-09-17 | [Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5](https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5) | ★★★ | Balyasny 对 Fable 5 的评估与治理方法（frontier 系列新篇） | [[2609-balyasny-governs-fable-5-bilingual\|中英对照]] |  |
 | 2026-09-14 | [How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag) | ★★★ | 医疗机构用 Claude Tag 的部署与治理案例 | [[2609-healthcare-claude-tag-bilingual\|中英对照]] |  |
 | 2026-09-10 | [T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process) | ★★★ | T. Rowe Price 把 Claude 深入投资流程 | [[2609-t-rowe-price-investment-bilingual\|中英对照]] |  |
@@ -96,6 +100,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-28 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia) | ★★★ | 与 NVIDIA 合作：企业级 agent 的控制与治理能力 | [[2609-agent-control-nvidia-bilingual\|中英对照]] |  |
 | 2026-08-21 | [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders) | ★★★ | Project Glasswing 扩围：前沿网络安全能力普惠更多防守方 | [[2608-mythos-5-defenders-bilingual\|中英对照]] |  |
 | 2026-07-21 | [How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle) | ★★★ | Anthropic 自身 AI 原生 SDLC 的安全实践 | [[2607-anthropic-secures-sdlc-bilingual\|中英对照]] |  |
 | 2026-07-17 | [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) | ★★★ | CISO 视角的 agentic AI 风险与对策清单 | [[2607-ciso-guide-agentic-ai-bilingual\|中英对照]] |  |
@@ -111,6 +116,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-30 | [Claude for Government is now generally available](https://claude.com/blog/claude-for-government-is-now-generally-available) | ★★★ | Claude for Government 正式 GA：政府市场落地节点 | [[2609-claude-for-government-ga-bilingual\|中英对照]] |  |
+| 2026-09-28 | [Building with Claude Sonnet 5.5](https://claude.dev/blog/building-with-claude-sonnet-5-5/) | ★★★ | Sonnet 5.5 官方构建指南：模型特性与工程搭配 | [[2609-building-with-sonnet-5-5-bilingual\|中英对照]] |  |
 | 2026-09-24 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | ★★★ | Opus 5.5 发布：面向更长、更重上下文的 coding 会话 | [[2609-opus-5-5-coding-sessions-bilingual\|中英对照]] |  |
 | 2026-09-23 | [Claude Marketplace: plugins and connectors, products and agents, and service partners](https://claude.com/blog/claude-marketplace) | ★★★ | Claude Marketplace 发布：插件/连接器/产品与 agent/服务商的统一市场 | [[2609-claude-marketplace-bilingual\|中英对照]] |  |
 | 2026-09-23 | [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/) | ★★★ | claude.ai 两周提速 3 倍的性能工程复盘 | [[2609-claude-ai-3x-faster-bilingual\|中英对照]] |  |
@@ -140,6 +147,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-30 | [How Anthropic's sales team rebuilt inbound with Claude Managed Agents](https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents) | ★★★ | Anthropic 销售团队用 Managed Agents 重建 inbound 流程 | [[2609-anthropic-sales-inbound-bilingual\|中英对照]] |  |
 | 2026-09-15 | [Building an AI-native revenue organization](https://claude.com/blog/building-an-ai-native-revenue-organization) | ★★★ | AI 原生收入组织（销售/GTM）的构建方式 | [[2609-ai-native-revenue-org-bilingual\|中英对照]] |  |
 | 2026-09-14 | [Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production) | ★★★★ | 面向 CIO/技术负责人的 AI 从试点到上生产蓝图 | [[2609-pilot-to-production-bilingual\|中英对照]] |  |
 | 2026-09-10 | [What 1,000 small business owners taught us about AI](https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai) | ★★★ | 千家小企业主的 AI 使用调研 | [[2609-1000-small-business-owners-bilingual\|中英对照]] |  |
