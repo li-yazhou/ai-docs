@@ -12,14 +12,14 @@ Anthropic 工程博客、Claude 产品博客与研究博客的**中英对照双�
 | 目录 | 来源 | 篇数 | 主题 |
 | --- | --- | --- | --- |
 | [01-anthropic/](01-anthropic/) | Anthropic 工程博客（engineering.anthropic.com） | 25 篇 | Agent 工程、上下文工程、评测（evals）、工具与 harness 设计 |
-| [02-claude/](02-claude/) | Claude 产品博客（claude.com/blog + claude.dev/blog） | 110 篇 | Claude Code、多智能体、Skills、hooks、工作流模式、客户案例 |
+| [02-claude/](02-claude/) | Claude 产品博客（claude.com/blog + claude.dev/blog） | 115 篇 | Claude Code、多智能体、Skills、hooks、工作流模式、客户案例 |
 | [04-anthropic-research/](04-anthropic-research/) | Anthropic 研究博客（anthropic.com/research） | 129 篇 | Alignment、可解释性、Frontier Red Team、经济指数、社会影响、AI for Science |
 | [03-openai/](03-openai/) | OpenAI 博客 | 待补充 | — |
 
 每个目录配有一份**登记总表**（清单 md），按发布时间倒序登记原文链接、星级与翻译进度：
 
 - [01-anthropic/anthropic-engineering.md](01-anthropic/anthropic-engineering.md) — 工程博客全量清单（来源 25 篇，含未译篇目标注）
-- [02-claude/claude-blog.md](02-claude/claude-blog.md) — 产品博客清单（claude.com + claude.dev 两站 sitemap 全量 251+13 篇中筛选出 110 篇有阅读价值的文章，按主题分类）
+- [02-claude/claude-blog.md](02-claude/claude-blog.md) — 产品博客清单（claude.com + claude.dev 两站 sitemap 全量 257+15 篇中筛选出 115 篇有阅读价值的文章，按主题分类）
 - [04-anthropic-research/anthropic-research.md](04-anthropic-research/anthropic-research.md) — 研究博客清单（页面全量 170 篇中筛选出 129 篇有阅读价值的文章，按主题分类）
 
 ## 文章体例
@@ -41,7 +41,7 @@ Anthropic 工程博客、Claude 产品博客与研究博客的**中英对照双�
 | 文件 | 说明 |
 | --- | --- |
 | `index.html` | docsify 入口：vue 主题、全文搜索、图片缩放、auto2top；`homepage: '_home.md'`，侧边栏与文章内相对路径均已开启 |
-| `_home.md` | 首页导航：阅读说明、站点说明、文章导航（工程 25 篇 / Claude 110 篇 / 研究 129 篇，共 264 篇，含星级与看点） |
+| `_home.md` | 首页导航：阅读说明、站点说明、文章导航（工程 25 篇 / Claude 115 篇 / 研究 129 篇，共 269 篇，含星级与看点） |
 | `_sidebar.md` | 侧边栏目录：按发布时间排序，顶部链接到各目录登记总表 |
 | `.nojekyll` | 让 GitHub Pages 放行 `_` 开头的 docsify 约定文件 |
 | `.gitignore` | 忽略 `.idea/`、`.DS_Store` |

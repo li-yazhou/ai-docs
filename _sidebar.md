@@ -138,6 +138,11 @@
   - [2609-Anthropic 销售团队如何用 Claude Managed Agents 重建 inbound](/02-claude/2609-anthropic-sales-inbound/2609-anthropic-sales-inbound-bilingual.md)
   - [2610-用 TypeScript mods 自定义 Claude Code](/02-claude/2610-claude-code-mods/2610-claude-code-mods-bilingual.md)
   - [2610-Claude Code mods 入门](/02-claude/2610-getting-started-code-mods/2610-getting-started-code-mods-bilingual.md)
+  - [2610-Cresta 如何把 CX 专业能力变成 Claude Agent SDK 上的 agent 构建器](/02-claude/2610-cresta-agent-builder-sdk/2610-cresta-agent-builder-sdk-bilingual.md)
+  - [2610-Claude Code 上云：云会话实战指南](/02-claude/2610-claude-code-in-the-cloud/2610-claude-code-in-the-cloud-bilingual.md)
+  - [2610-Comcast 与 Booz Allen 如何用 Claude Mythos 发现利用链并加固代码库](/02-claude/2610-comcast-booz-allen-mythos/2610-comcast-booz-allen-mythos-bilingual.md)
+  - [2610-构建高效的 agent 自动化](/02-claude/2610-building-agent-automations/2610-building-agent-automations-bilingual.md)
+  - [2610-Block 如何用 Claude Fable 编排数千个 pull request](/02-claude/2610-block-fable-orchestration/2610-block-fable-orchestration-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
   - [2112-Transformer 电路的数学框架](/04-anthropic-research/20211222-a-mathematical-framework-for-transformer-circuits/20211222-a-mathematical-framework-for-transformer-circuits-bilingual.md)

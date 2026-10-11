@@ -1,9 +1,9 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 264 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 269 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
-- **Claude 产品博客**（claude.com/blog + claude.dev/blog，110 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
+- **Claude 产品博客**（claude.com/blog + claude.dev/blog，115 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
 - **Anthropic 研究博客**（anthropic.com/research，129 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
@@ -53,11 +53,11 @@
 | 2026-04-23 | [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | [关于近期 Claude Code 质量问题报告的更新](/01-anthropic/2604-april-23-postmortem/2604-april-23-postmortem-bilingual.md) |
 | 2026-05-25 | [How we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) | [我们如何在各个产品中收容 Claude](/01-anthropic/2605-how-we-contain-claude/2605-how-we-contain-claude-bilingual.md) |
 
-### Claude 产品博客（claude.com/blog + claude.dev/blog，110 篇）
+### Claude 产品博客（claude.com/blog + claude.dev/blog，115 篇）
 
 [文章登记总表（星级与未译篇目）](/02-claude/claude-blog.md)
 
-#### 一、Agent 工程方法论（17 篇）
+#### 一、Agent 工程方法论（18 篇）
 
 *与 agent 研究方向最契合的一批：harness 设计、多智能体协调、上下文工程、验证回路等工作方式设计*
 
@@ -80,8 +80,9 @@
 | 2026-08-18 | [How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | [Claude Tag：Anthropic 的 CI/CD 故障第一响应人](/02-claude/2608-ai-ci-cd-on-call/2608-ai-ci-cd-on-call-bilingual.md) | ★★★ | Claude Tag 担任 CI/CD 值班 agent 的内部实践，附搭建思路 |
 | 2026-08-19 | [Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams) | [把对话变成知识：Slack 如何构建人机协作团队](/02-claude/2608-slack-human-agent-teams/2608-slack-human-agent-teams-bilingual.md) | ★★★ | Slack CPO 访谈，human-agent teams 系列第二篇 |
 | 2026-09-28 | [Automating eval design and hillclimbing with Claude](https://claude.dev/blog/automating-eval-design-and-hillclimbing/) | [用 Claude 自动化评测（Eval）设计与 Hillclimbing 爬山法优化](/02-claude/2609-automating-eval-hillclimbing/2609-automating-eval-hillclimbing-bilingual.md) | ★★★★ | 用 Claude 自动化评测设计与 hillclimbing：验证回路的工程实践 |
+| 2026-10-08 | [Building effective agent automations](https://claude.dev/blog/building-effective-agent-automations/) | [构建高效的 agent 自动化](/02-claude/2610-building-agent-automations/2610-building-agent-automations-bilingual.md) | ★★★★ | 构建高效 agent 自动化：参考实现走查与常见失败模式，配套代码与评测回路 |
 
-#### 二、Claude Code 深度实战（29 篇）
+#### 二、Claude Code 深度实战（30 篇）
 
 *重度使用 Claude Code 的进阶材料：官方团队自述内部用法、大仓库策略、成本工程、组织推广*
 
@@ -116,8 +117,9 @@
 | 2026-09-25 | [What a task costs on Opus 5.5](https://claude.dev/blog/what-a-task-costs-on-opus-5-5/) | [一项任务在 Opus 5.5 上要花多少钱](/02-claude/2609-task-costs-opus-5-5/2609-task-costs-opus-5-5-bilingual.md) | ★★★★ | Opus 5.5 上各类任务的真实成本拆解，agentic 成本工程续篇 |
 | 2026-10-01 | [Customize Claude Code with mods in TypeScript](https://claude.com/blog/claude-code-mods) | [用 TypeScript mods 自定义 Claude Code](/02-claude/2610-claude-code-mods/2610-claude-code-mods-bilingual.md) | ★★★★ | Claude Code 新扩展机制 mods（TypeScript）：继 skills/hooks 后的重要演进 |
 | 2026-10-01 | [Getting started with Claude Code mods](https://claude.dev/blog/getting-started-with-claude-code-mods/) | [Claude Code mods 入门](/02-claude/2610-getting-started-code-mods/2610-getting-started-code-mods-bilingual.md) | ★★★ | mods 官方入门：上手写出第一个 mod |
+| 2026-10-06 | [Claude Code in the cloud: a field guide to cloud sessions](https://claude.dev/blog/claude-code-in-the-cloud/) | [Claude Code 上云：云会话实战指南](/02-claude/2610-claude-code-in-the-cloud/2610-claude-code-in-the-cloud-bilingual.md) | ★★★★ | 云会话实战指南：并行隔离、GitHub 接入排错、环境配置与七类适用工作流 |
 
-#### 三、前沿客户案例（21 篇）
+#### 三、前沿客户案例（23 篇）
 
 *Working at the frontier 系列等一手材料：一线公司如何把 agent 推进生产*
 
@@ -144,8 +146,10 @@
 | 2026-09-14 | [How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag) | [医疗机构如何使用 Claude Tag](/02-claude/2609-healthcare-claude-tag/2609-healthcare-claude-tag-bilingual.md) | ★★★ | 医疗机构用 Claude Tag 的部署与治理案例 |
 | 2026-09-17 | [Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5](https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5) | [Working at the frontier：Balyasny 资产管理如何评估与治理 Claude Fable 5](/02-claude/2609-balyasny-governs-fable-5/2609-balyasny-governs-fable-5-bilingual.md) | ★★★ | Balyasny 对 Fable 5 的评估与治理方法（frontier 系列新篇） |
 | 2026-09-29 | [Agents you can coach: how Asana builds human-agent teams with Claude](https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude) | [可调教的 agent：Asana 如何用 Claude 构建人机协作团队](/02-claude/2609-agents-you-can-coach-asana/2609-agents-you-can-coach-asana-bilingual.md) | ★★★ | Asana 的人机团队实践（human-agent teams 系列新篇） |
+| 2026-10-05 | [How Cresta turned CX expertise into an agent builder on the Claude Agent SDK](https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk) | [Cresta 如何把 CX 专业能力变成 Claude Agent SDK 上的 agent 构建器](/02-claude/2610-cresta-agent-builder-sdk/2610-cresta-agent-builder-sdk-bilingual.md) | ★★★ | Cresta 在 Claude Agent SDK 上造出「造 agent 的 agent」Conductor，及配套评测方法 |
+| 2026-10-08 | [How Block orchestrates Claude Fable across thousands of pull requests](https://claude.com/blog/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests) | [Block 如何用 Claude Fable 编排数千个 pull request](/02-claude/2610-block-fable-orchestration/2610-block-fable-orchestration-bilingual.md) | ★★★★ | Block 用 Claude Fable 5 编排数千个 PR 级公司代码迁移：评估方法、编排模式与规模化护栏 |
 
-#### 四、Agent 安全与治理（9 篇）
+#### 四、Agent 安全与治理（10 篇）
 
 *agent 落地的权限、身份与零信任问题，代表官方安全立场*
 
@@ -160,6 +164,7 @@
 | 2026-07-21 | [How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle) | [Anthropic 如何保障其 AI 原生软件开发生命周期的安全](/02-claude/2607-anthropic-secures-sdlc/2607-anthropic-secures-sdlc-bilingual.md) | ★★★ | Anthropic 自身 AI 原生 SDLC 的安全实践 |
 | 2026-08-21 | [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders) | [把 Claude Mythos 5 的网络安全能力带给更多防守者](/02-claude/2608-mythos-5-defenders/2608-mythos-5-defenders-bilingual.md) | ★★★ | Project Glasswing 扩围与前沿模型安全部署进展 |
 | 2026-09-28 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia) | [与 NVIDIA 合作,让企业对自己的 AI 智能体拥有更多控制权](/02-claude/2609-agent-control-nvidia/2609-agent-control-nvidia-bilingual.md) | ★★★ | 与 NVIDIA 合作：企业级 agent 的控制与治理能力 |
+| 2026-10-06 | [How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases](https://claude.com/blog/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases) | [Comcast 与 Booz Allen 如何用 Claude Mythos 发现利用链并加固代码库](/02-claude/2610-comcast-booz-allen-mythos/2610-comcast-booz-allen-mythos-bilingual.md) | ★★★ | Comcast 与 Booz Allen 用 Claude Mythos 找出跨系统利用链并加固代码库 |
 
 #### 五、产品与模型演进（25 篇）
 
@@ -209,7 +214,7 @@
 | 2026-09-15 | [Building an AI-native revenue organization](https://claude.com/blog/building-an-ai-native-revenue-organization) | [构建 AI 原生收入组织](/02-claude/2609-ai-native-revenue-org/2609-ai-native-revenue-org-bilingual.md) | ★★★ | AI 原生收入组织（销售/GTM）的构建方式 |
 | 2026-09-30 | [How Anthropic's sales team rebuilt inbound with Claude Managed Agents](https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents) | [Anthropic 销售团队如何用 Claude Managed Agents 重建 inbound](/02-claude/2609-anthropic-sales-inbound/2609-anthropic-sales-inbound-bilingual.md) | ★★★ | Anthropic 销售团队用 Managed Agents 重建 inbound 流程 |
 
-（Claude 区共 110 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
+（Claude 区共 115 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
 ### Anthropic 研究博客（anthropic.com/research，129 篇）
 
