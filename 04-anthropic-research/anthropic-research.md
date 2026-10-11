@@ -1,7 +1,7 @@
 # Anthropic Research（anthropic.com/research）研究文章清单
 
-> 来源：https://www.anthropic.com/research/ （页面全量数据 170 篇，2021-12 至 2026-10；本清单筛选出 126 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
-> 抓取日期：2026-10-06
+> 来源：https://www.anthropic.com/research/ （页面全量数据 170 篇，2021-12 至 2026-10；本清单筛选出 129 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
+> 抓取日期：2026-10-06（初版）；2026-10-11（复核补录 2026-10-08/09 三篇）
 > 说明：与 `01-anthropic/anthropic-engineering.md`（工程博客）、`02-claude/claude-blog.md`（产品博客）互补，此处为研究侧内容（Alignment / Interpretability / Frontier Red Team / Economics / Societal Impacts / Science / Policy）
 > 重要程度：依本站读者视角（agent 工程与工程实践优先）评定，★★★★★ 必读经典或与 agent 工程直接相关，★★★★ 高价值，★★★ 选读
 > 日期口径：2024-12 以前的条目多为旧站迁移的经典论文，按原发表时间登记
@@ -13,6 +13,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-09 | [Investigating unintended model actions in our evaluations and internal use](https://www.anthropic.com/research/investigating-unintended-model-actions) | ★★★★ | 首个独立的模型意外行为透明度报告：四类真实越界行为（利用注入漏洞在服务器执行命令、误交真实政府/警方表单、绕过令牌或付费限制取数、用短链绕过 fetch 限制）+ 修复措施与 overreach / dishonesty 两个对齐维度 | [[20261009-investigating-unintended-model-actions-bilingual\|中英对照]] |  |
 | 2026-09-09 | [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) | ★★★★★ | 首个对真实越权事件的对齐评估：Claude 误接真实互联网后攻击第三方系统，偏置推理与鲁莽全记录，4.81 亿条记录排查 | [[20260909-alignment-assessment-cybersecurity-incidents-bilingual\|中英对照]] |  |
 | 2026-08-28 | [Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures) | ★★★★ | 让 Claude 自主训练模型修复 10 类对齐失败基准且不牺牲通用能力，对齐研究自动化的闭环实证 | [[20260828-automated-researchers-mitigate-alignment-failures-bilingual\|中英对照]] |  |
 | 2026-08-13 | [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) | ★★★★★ | 前沿模型多智能体系统的行为倾向如何引发意外系统性失败，多智能体设计者必读的风险清单 | [[20260813-multiagent-systems-bilingual\|中英对照]] |  |
@@ -86,6 +87,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-08 | [An opt-in vulnerability-finding service for open-source software](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) | ★★★ | OSS Scanner 免费开源漏洞扫描服务：半年扫出 2.9 万条候选漏洞、已向维护者直发近 5000 条报告，97 条高危中 88% 通过人工复核，附 curl / PostgreSQL / OpenSSL / wolfSSL 维护者一手反馈 | [[20261008-launching-opt-in-vuln-finding-service-for-open-source-bilingual\|中英对照]] |  |
 | 2026-09-29 | [GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | ★★★★ | 无防护开源权重扩散前沿网络能力：GLM-5.3 端到端漏洞利用追平 Mythos Preview，简单手段绕过防护率 64–100% | [[20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities-bilingual\|中英对照]] |  |
 | 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | ★★★★ | Frontier Red Team 军事能力评测：情报定位逼近超人、无人机武器化分级实测，杀伤链风险面首次量化 | [[20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual\|中英对照]] |  |
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | ★★★★ | Claude 弱化 HAWK 后量子签名并发现新密码学弱点 | [[20260728-discovering-cryptographic-weaknesses-bilingual\|中英对照]] |  |
@@ -172,6 +174,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-08 | [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) | ★★★★ | Claude Science 多智能体整合 GALEX/Swift/FIMS/TD-1 巡天数据并用 inpainting 补全三分之一从未被紫外观测的天空，产出首张完整紫外天图，留出数据自检误差约 10%，含 GALEX 光斑残留排错复盘 | [[20261008-the-missing-map-of-the-sky-bilingual\|中英对照]] |  |
 | 2026-10-01 | [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science) | ★★★★ | 专找「Claude 形状」的问题：BootLoops harness 三个月 18 领域 36 篇手稿，附 agent 科学协作失败模式清单 | [[20261001-claude-shaped-science-bilingual\|中英对照]] |  |
 | 2026-09-25 | [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) | ★★★★ | 挑战发出一个月即被攻克：Claude Science 一枪命中 N=4 SYM 九圈振幅，预算一两千美元 | [[20260925-yes-claude-can-do-nine-loops-bilingual\|中英对照]] |  |
 | 2026-09-17 | [How Claude is uplifting biomolecular modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling) | ★★★★ | 两名无内核工程经验的研究员监督 Claude 约 4 周优化 30+ 开源生物分子模型平均提速 4 倍，Big 模式单 GPU 节点折叠 1 万+ token 分子复合体，代码全部开源 | [[20260917-claude-uplifts-biomolecular-modeling-bilingual\|中英对照]] |  |

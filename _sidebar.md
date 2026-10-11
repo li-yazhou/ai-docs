@@ -266,3 +266,6 @@
   - [2609-你想从 AI 得到什么？](/04-anthropic-research/20260929-your-thoughts-on-ai/20260929-your-thoughts-on-ai-bilingual.md)
   - [2609-我们能预测机器人将做哪些工作吗？](/04-anthropic-research/20260930-what-work-can-robots-do/20260930-what-work-can-robots-do-bilingual.md)
   - [2610-Claude 形状的科学](/04-anthropic-research/20261001-claude-shaped-science/20261001-claude-shaped-science-bilingual.md)
+  - [2610-缺失的天空地图](/04-anthropic-research/20261008-the-missing-map-of-the-sky/20261008-the-missing-map-of-the-sky-bilingual.md)
+  - [2610-面向开源软件的自愿加入式漏洞发现服务](/04-anthropic-research/20261008-launching-opt-in-vuln-finding-service-for-open-source/20261008-launching-opt-in-vuln-finding-service-for-open-source-bilingual.md)
+  - [2610-调查评测与内部使用中的模型意外行为](/04-anthropic-research/20261009-investigating-unintended-model-actions/20261009-investigating-unintended-model-actions-bilingual.md)

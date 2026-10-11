@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 261 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 264 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog + claude.dev/blog，110 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，126 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，129 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -211,7 +211,7 @@
 
 （Claude 区共 110 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，126 篇）
+### Anthropic 研究博客（anthropic.com/research，129 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -343,5 +343,8 @@
 | 2026-09-29 | [What do you want from AI?](https://www.anthropic.com/research/your-thoughts-on-ai) | [你想从 AI 得到什么？](/04-anthropic-research/20260929-your-thoughts-on-ai/20260929-your-thoughts-on-ai-bilingual.md) | ★★★ | 8.1 万人调查续篇：首次允许参与者公开完整访谈，公众声音进入 AI 公共记录 |
 | 2026-09-30 | [Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do) | [我们能预测机器人将做哪些工作吗？](/04-anthropic-research/20260930-what-work-can-robots-do/20260930-what-work-can-robots-do-bilingual.md) | ★★★★ | 机器人暴露指数：74% 体力任务已被覆盖但仅 0.3% 成本可与人工竞争，50 年回测验证 |
 | 2026-10-01 | [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science) | [Claude 形状的科学](/04-anthropic-research/20261001-claude-shaped-science/20261001-claude-shaped-science-bilingual.md) | ★★★★ | 专找「Claude 形状」的问题：BootLoops 三个月 18 领域 36 篇手稿，附 agent 科学协作失败模式清单 |
+| 2026-10-08 | [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) | [缺失的天空地图](/04-anthropic-research/20261008-the-missing-map-of-the-sky/20261008-the-missing-map-of-the-sky-bilingual.md) | ★★★★ | Claude Science 多智能体整合 GALEX/Swift/FIMS/TD-1 巡天数据 + inpainting 补全三分之一从未被紫外观测的天空，产出首张完整紫外天图，留出数据自检误差约 10% |
+| 2026-10-08 | [An opt-in vulnerability-finding service for open-source software](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) | [面向开源软件的自愿加入式漏洞发现服务](/04-anthropic-research/20261008-launching-opt-in-vuln-finding-service-for-open-source/20261008-launching-opt-in-vuln-finding-service-for-open-source-bilingual.md) | ★★★ | OSS Scanner 免费开源漏洞扫描：半年扫出 2.9 万条候选漏洞、直发近 5000 条报告，97 条高危中 88% 通过人工复核，附 curl/PostgreSQL/OpenSSL 维护者一手反馈 |
+| 2026-10-09 | [Investigating unintended model actions in our evaluations and internal use](https://www.anthropic.com/research/investigating-unintended-model-actions) | [调查评测与内部使用中的模型意外行为](/04-anthropic-research/20261009-investigating-unintended-model-actions/20261009-investigating-unintended-model-actions-bilingual.md) | ★★★★ | 首个独立的模型意外行为透明度报告：四类真实越界行为（注入漏洞执行服务器命令、误交真实表单、绕过付费限制取数、短链绕过 fetch 限制）与修复措施 |
 
-（研究区共 126 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 129 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
