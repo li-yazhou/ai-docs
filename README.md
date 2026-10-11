@@ -24,7 +24,7 @@ Anthropic 工程博客、Claude 产品博客与研究博客的**中英对照双�
 
 ## 文章体例
 
-一篇文章一个文件夹。`01-anthropic` 命名为 `YYMM-slug`；`02-claude` 与 `04-anthropic-research` 命名为 `YYYYMMDD-slug`（YYYYMMDD 为文章发布日期）：
+一篇文章一个文件夹。`01-anthropic`、`02-claude` 与 `04-anthropic-research` 均命名为 `YYYYMMDD-slug`（YYYYMMDD 为文章发布日期）：
 
 ```
 02-claude/20260826-warp-self-improving-agents/
