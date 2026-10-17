@@ -1,7 +1,7 @@
 # Anthropic Research（anthropic.com/research）研究文章清单
 
-> 来源：https://www.anthropic.com/research/ （页面全量数据 170 篇，2021-12 至 2026-10；本清单筛选出 129 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
-> 抓取日期：2026-10-06（初版）；2026-10-11（复核补录 2026-10-08/09 三篇）
+> 来源：https://www.anthropic.com/research/ （页面全量数据 177 篇，2021-12 至 2026-10；本清单筛选出 136 篇有阅读价值的文章，Circuits Updates 月度简报、国别经济简报、纯公告与过专门的技术论文未收录）
+> 抓取日期：2026-10-06（初版）；2026-10-11（复核补录 2026-10-08/09 三篇）；2026-10-17（复核补录 2026-10-12/16 七篇）
 > 说明：与 `01-anthropic/anthropic-engineering.md`（工程博客）、`02-claude/claude-blog.md`（产品博客）互补，此处为研究侧内容（Alignment / Interpretability / Frontier Red Team / Economics / Societal Impacts / Science / Policy）
 > 重要程度：依本站读者视角（agent 工程与工程实践优先）评定，★★★★★ 必读经典或与 agent 工程直接相关，★★★★ 高价值，★★★ 选读
 > 日期口径：2024-12 以前的条目多为旧站迁移的经典论文，按原发表时间登记
@@ -87,6 +87,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | ★★★★ | 悬置 25 年的 ECDSA 标准曲线种子来历之谜被 Claude 半小时破解：只是 lrand48 加 Unix 时间戳，无后门，附可复现代码 | [[20261016-ecdsa-curve-origins-bilingual\|中英对照]] |  |
+| 2026-10-12 | [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai) | ★★★★ | 无数据中心自我复制风险评估：9B 模型已在 9 类陌生硬件 8 类上跑起推理，GLM-5.2 以 8/8 节点稳定完成端到端复制，小模型能力 2026 年底或触及复制门槛 | [[20261012-self-replicating-ai-bilingual\|中英对照]] |  |
+| 2026-10-12 | [Strengthening our defenses against distillation attacks](https://www.anthropic.com/research/distillation-defenses) | ★★★★ | 反蒸馏防御：新方法使蒸馏者获取数据量下降约 90–99%、推理 token 暴露降至 1/10–1/100，首度系统公开攻防手法与代价取舍 | [[20261012-distillation-defenses-bilingual\|中英对照]] |  |
 | 2026-10-08 | [An opt-in vulnerability-finding service for open-source software](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) | ★★★ | OSS Scanner 免费开源漏洞扫描服务：半年扫出 2.9 万条候选漏洞、已向维护者直发近 5000 条报告，97 条高危中 88% 通过人工复核，附 curl / PostgreSQL / OpenSSL / wolfSSL 维护者一手反馈 | [[20261008-launching-opt-in-vuln-finding-service-for-open-source-bilingual\|中英对照]] |  |
 | 2026-09-29 | [GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | ★★★★ | 无防护开源权重扩散前沿网络能力：GLM-5.3 端到端漏洞利用追平 Mythos Preview，简单手段绕过防护率 64–100% | [[20260929-glm-5-3-and-the-spread-of-advanced-cyber-capabilities-bilingual\|中英对照]] |  |
 | 2026-09-10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities) | ★★★★ | Frontier Red Team 军事能力评测：情报定位逼近超人、无人机武器化分级实测，杀伤链风险面首次量化 | [[20260910-intelligence-targeting-conventional-weapons-capabilities-bilingual\|中英对照]] |  |
@@ -134,6 +137,9 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic) | ★★★★ | 前沿采用先导指标：agent 工时 2026 年 3 月超员工、8 月达 6 倍，初级技术岗招聘占比 21%→14%，销售人均成交与合同处理量上升 | [[20261016-employment-at-anthropic-bilingual\|中英对照]] |  |
+| 2026-10-16 | [The AI expectations gap](https://www.anthropic.com/research/ai-expectations-gap) | ★★★★ | 期望差距首创对照调查：91% 员工 vs 39% 公众预期 2030 年前诺贝尔级发现，自身工作自动化预期 75% vs 28%，差距源于体验而非理论 | [[20261016-ai-expectations-gap-bilingual\|中英对照]] |  |
+| 2026-10-16 | [Working at the frontier shapes expectations for the future](https://www.anthropic.com/research/expectations-for-the-future) | ★★★ | 上两份报告导读：员工与公众的经济模型相似、体验不同导致期望分化，每 10 名员工 2 人接近公众预期 | [[20261016-expectations-for-the-future-bilingual\|中英对照]] |  |
 | 2026-09-30 | [Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do) | ★★★★ | 机器人暴露指数：74% 体力任务已被覆盖但仅 0.3% 成本可与人工竞争，50 年回测验证，与 LLM 合计暴露 80% 工时 | [[20260930-what-work-can-robots-do-bilingual\|中英对照]] |  |
 | 2026-08-12 | [Reviewing the evidence on worker retraining programs](https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs) | ★★★★ | 转岗培训项目有效性的证据综述（政策向） | [[20260812-reviewing-the-evidence-on-worker-retraining-programs-bilingual\|中英对照]] |  |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | ★★★★★ | 40 万 Claude Code 会话分析：agentic coding 的使用模式与专家回报持续存在 | [[20260616-claude-code-expertise-bilingual\|中英对照]] |  |
@@ -174,6 +180,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits) | ★★★★ | Claude 基本自主设计出全面超越已发表最优版的量子计算原语：DQI 译码器门数降至约 1/12、点加法 1/17、首个免存储分支历史的可逆 divsteps（STEM Fellows + 哈佛合作） | [[20261016-designing-efficient-quantum-circuits-bilingual\|中英对照]] |  |
 | 2026-10-08 | [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) | ★★★★ | Claude Science 多智能体整合 GALEX/Swift/FIMS/TD-1 巡天数据并用 inpainting 补全三分之一从未被紫外观测的天空，产出首张完整紫外天图，留出数据自检误差约 10%，含 GALEX 光斑残留排错复盘 | [[20261008-the-missing-map-of-the-sky-bilingual\|中英对照]] |  |
 | 2026-10-01 | [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science) | ★★★★ | 专找「Claude 形状」的问题：BootLoops harness 三个月 18 领域 36 篇手稿，附 agent 科学协作失败模式清单 | [[20261001-claude-shaped-science-bilingual\|中英对照]] |  |
 | 2026-09-25 | [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) | ★★★★ | 挑战发出一个月即被攻克：Claude Science 一枪命中 N=4 SYM 九圈振幅，预算一两千美元 | [[20260925-yes-claude-can-do-nine-loops-bilingual\|中英对照]] |  |

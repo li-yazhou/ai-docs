@@ -1,10 +1,10 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 269 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 276 篇：
 
 - **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog + claude.dev/blog，115 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
-- **Anthropic 研究博客**（anthropic.com/research，129 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
+- **Anthropic 研究博客**（anthropic.com/research，136 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
 ## 阅读说明
 
@@ -216,7 +216,7 @@
 
 （Claude 区共 115 篇已译，完整清单与星级见[文章登记总表](/02-claude/claude-blog.md)）
 
-### Anthropic 研究博客（anthropic.com/research，129 篇）
+### Anthropic 研究博客（anthropic.com/research，136 篇）
 
 *Alignment / Interpretability / Economics / Science 等研究侧内容，与工程博客、产品博客互补*
 
@@ -351,5 +351,12 @@
 | 2026-10-08 | [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) | [缺失的天空地图](/04-anthropic-research/20261008-the-missing-map-of-the-sky/20261008-the-missing-map-of-the-sky-bilingual.md) | ★★★★ | Claude Science 多智能体整合 GALEX/Swift/FIMS/TD-1 巡天数据 + inpainting 补全三分之一从未被紫外观测的天空，产出首张完整紫外天图，留出数据自检误差约 10% |
 | 2026-10-08 | [An opt-in vulnerability-finding service for open-source software](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) | [面向开源软件的自愿加入式漏洞发现服务](/04-anthropic-research/20261008-launching-opt-in-vuln-finding-service-for-open-source/20261008-launching-opt-in-vuln-finding-service-for-open-source-bilingual.md) | ★★★ | OSS Scanner 免费开源漏洞扫描：半年扫出 2.9 万条候选漏洞、直发近 5000 条报告，97 条高危中 88% 通过人工复核，附 curl/PostgreSQL/OpenSSL 维护者一手反馈 |
 | 2026-10-09 | [Investigating unintended model actions in our evaluations and internal use](https://www.anthropic.com/research/investigating-unintended-model-actions) | [调查评测与内部使用中的模型意外行为](/04-anthropic-research/20261009-investigating-unintended-model-actions/20261009-investigating-unintended-model-actions-bilingual.md) | ★★★★ | 首个独立的模型意外行为透明度报告：四类真实越界行为（注入漏洞执行服务器命令、误交真实表单、绕过付费限制取数、短链绕过 fetch 限制）与修复措施 |
+| 2026-10-12 | [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai) | [AI 模型可能已能在无数据中心条件下自我复制](/04-anthropic-research/20261012-self-replicating-ai/20261012-self-replicating-ai-bilingual.md) | ★★★★ | 9B 模型已在 9 类陌生硬件 8 类上跑起推理，GLM-5.2 以 8/8 节点稳定完成端到端复制，小模型能力 2026 年底或触及复制门槛 |
+| 2026-10-12 | [Strengthening our defenses against distillation attacks](https://www.anthropic.com/research/distillation-defenses) | [加固针对蒸馏攻击的防御](/04-anthropic-research/20261012-distillation-defenses/20261012-distillation-defenses-bilingual.md) | ★★★★ | 反蒸馏新方法：数据获取量降约 90–99%、推理 token 暴露降至 1/10–1/100，首度系统公开攻防手法与代价取舍 |
+| 2026-10-16 | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | [Claude 揭开 ECDSA 曲线参数的来历之谜](/04-anthropic-research/20261016-ecdsa-curve-origins/20261016-ecdsa-curve-origins-bilingual.md) | ★★★★ | 悬置 25 年的曲线种子之谜半小时破解：lrand48 加 Unix 时间戳，无后门，附可复现代码 |
+| 2026-10-16 | [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits) | [用 Claude 设计更高效的量子线路](/04-anthropic-research/20261016-designing-efficient-quantum-circuits/20261016-designing-efficient-quantum-circuits-bilingual.md) | ★★★★ | 八项计算原语全面超越已发表最优：DQI 译码器门数约 1/12、点加法 1/17（STEM Fellows + 哈佛） |
+| 2026-10-16 | [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic) | [Anthropic 的就业形态正在如何改变](/04-anthropic-research/20261016-employment-at-anthropic/20261016-employment-at-anthropic-bilingual.md) | ★★★★ | agent 工时 3 月超员工、8 月达 6 倍；初级技术岗招聘占比 21%→14%，生产率多指标上升 |
+| 2026-10-16 | [The AI expectations gap](https://www.anthropic.com/research/ai-expectations-gap) | [AI 期望差距](/04-anthropic-research/20261016-ai-expectations-gap/20261016-ai-expectations-gap-bilingual.md) | ★★★★ | 91% 员工 vs 39% 公众预期 2030 年前诺贝尔级发现，自身工作自动化预期 75% vs 28%：差距源于体验而非理论 |
+| 2026-10-16 | [Working at the frontier shapes expectations for the future](https://www.anthropic.com/research/expectations-for-the-future) | [在前沿工作如何塑造对未来的期望](/04-anthropic-research/20261016-expectations-for-the-future/20261016-expectations-for-the-future-bilingual.md) | ★★★ | 两份报告导读：经济模型相似、体验不同导致期望分化，每 10 名员工 2 人接近公众预期 |
 
-（研究区共 129 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
+（研究区共 136 篇已译，完整清单与星级见[文章登记总表](/04-anthropic-research/anthropic-research.md)）
