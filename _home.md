@@ -1,8 +1,8 @@
 # AI技术文摘
 
-本站收录 Anthropic 官方博客的中英对照翻译，共 281 篇：
+本站收录 Anthropic 官方博客的中英对照翻译，共 282 篇：
 
-- **Anthropic 工程博客**（engineering.anthropic.com，25 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
+- **Anthropic 工程博客**（engineering.anthropic.com，26 篇）：Agent 工程、上下文工程、评测（evals）、工具与 harness 设计等工程方法类文章
 - **Claude 产品博客**（claude.com/blog + claude.dev/blog，115 篇）：Claude Code 使用方法、多智能体、Skills、hooks、工作流模式等产品实践类文章
 - **Anthropic 研究博客**（anthropic.com/research，136 篇）：Alignment、多智能体风险、可解释性、AI for Science、经济研究等研究侧文章
 
@@ -21,7 +21,7 @@
 
 ## 文章导航
 
-### Anthropic 工程博客（25 篇）
+### Anthropic 工程博客（26 篇）
 
 [文章登记总表（星级与未译篇目）](/01-anthropic/anthropic-engineering.md)
 
@@ -52,6 +52,7 @@
 | 2026-04-08 | [Scaling Managed Agents: Decoupling the brain from the hands](https://www.anthropic.com/engineering/managed-agents) | [扩展托管 Agent：将大脑与双手解耦](/01-anthropic/20260408-scaling-managed-agents/20260408-scaling-managed-agents-bilingual.md) |
 | 2026-04-23 | [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | [关于近期 Claude Code 质量问题报告的更新](/01-anthropic/20260423-april-23-postmortem/20260423-april-23-postmortem-bilingual.md) |
 | 2026-05-25 | [How we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) | [我们如何在各个产品中收容 Claude](/01-anthropic/20260525-how-we-contain-claude/20260525-how-we-contain-claude-bilingual.md) |
+| 2026-10-13 | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | [重新设计 Anthropic 的源码控制系统](/01-anthropic/20261013-redesigning-source-control/20261013-redesigning-source-control-bilingual.md) |
 
 ### Claude 产品博客（claude.com/blog + claude.dev/blog，115 篇）
 

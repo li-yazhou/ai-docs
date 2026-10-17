@@ -1,13 +1,15 @@
 # Anthropic Engineering 博客文章清单
 
-> 来源：https://www.anthropic.com/engineering/ （含 sitemap 核对，共 25 篇）
+> 来源：https://www.anthropic.com/engineering/ （含 sitemap 核对，共 26 篇）
 > 抓取日期：2026-08-15
 > 2026-09-13 复核：官网无新增文章，25 篇全部有译文（claude-code-best-practices 原文已迁移，基于 Wayback 存档补译）
+> 2026-10-17 复核：新增 2026-10-13 redesigning-source-control（含 10-15 更新），其余 25 篇无变化，26 篇全部有译文
 
 ## 2026
 
 | 发布日期       | 文章题目                                                                                                                               | 中英文版本                                                     | 总结  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --- |
+| 2026-10-13 | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | [[20261013-redesigning-source-control-bilingual\|中英对照]] | agent 规模开发倒逼自研版本控制：日 merge 2500→3 万+，五个月弃 git 迁自研 Scion（配套评审工具 Antique），基础设施足迹省 200 倍 |
 | 2026-05-25 | [How we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)                               | [[20260525-how-we-contain-claude-bilingual\|中英对照]]            |     |
 | 2026-04-23 | [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)                       | [[20260423-april-23-postmortem-bilingual\|中英对照]]            |     |
 | 2026-04-08 | [Scaling Managed Agents: Decoupling the brain from the hands](https://www.anthropic.com/engineering/managed-agents)                | [[20260408-scaling-managed-agents-bilingual\|中英对照]]        |     |
