@@ -26,6 +26,7 @@
   - [2604-扩展托管 Agent：将大脑与双手解耦](/01-anthropic/20260408-scaling-managed-agents/20260408-scaling-managed-agents-bilingual.md)
   - [2604-关于近期 Claude Code 质量问题报告的更新](/01-anthropic/20260423-april-23-postmortem/20260423-april-23-postmortem-bilingual.md)
   - [2605-我们如何在各个产品中收容 Claude](/01-anthropic/20260525-how-we-contain-claude/20260525-how-we-contain-claude-bilingual.md)
+  - [2610-重新设计 Anthropic 的源码控制系统](/01-anthropic/20261013-redesigning-source-control/20261013-redesigning-source-control-bilingual.md)
 - **Claude 产品博客（claude.com/blog + claude.dev/blog）**
   - [文章登记总表（星级与未译篇目）](/02-claude/claude-blog.md)
   - [2504-Claude 把研究带向新境界](/02-claude/20250415-claude-research/20250415-claude-research-bilingual.md)
@@ -143,6 +144,10 @@
   - [2610-Comcast 与 Booz Allen 如何用 Claude Mythos 发现利用链并加固代码库](/02-claude/20261006-comcast-booz-allen-mythos/20261006-comcast-booz-allen-mythos-bilingual.md)
   - [2610-构建高效的 agent 自动化](/02-claude/20261008-building-agent-automations/20261008-building-agent-automations-bilingual.md)
   - [2610-Block 如何用 Claude Fable 编排数千个 pull request](/02-claude/20261008-block-fable-orchestration/20261008-block-fable-orchestration-bilingual.md)
+  - [2610-Uber 的 CISO 谈如何为 AI 建立内部威胁项目](/02-claude/20261013-uber-ciso-insider-threat/20261013-uber-ciso-insider-threat-bilingual.md)
+  - [2610-在 Claude 平台上用 OpenTelemetry 追踪 agent](/02-claude/20261014-agent-observability-otel/20261014-agent-observability-otel-bilingual.md)
+  - [2610-Claude Code 团队如何做代码评审](/02-claude/20261015-code-review-at-anthropic/20261015-code-review-at-anthropic-bilingual.md)
+  - [2610-Code Review 正式发布](/02-claude/20261015-code-review-ga/20261015-code-review-ga-bilingual.md)
 - **Anthropic 研究博客（anthropic.com/research）**
   - [文章登记总表（星级与未译篇目）](/04-anthropic-research/anthropic-research.md)
   - [2112-Transformer 电路的数学框架](/04-anthropic-research/20211222-a-mathematical-framework-for-transformer-circuits/20211222-a-mathematical-framework-for-transformer-circuits-bilingual.md)

@@ -1,7 +1,7 @@
 # Claude 产品博客（claude.com/blog）文章清单
 
-> 来源：https://claude.com/blog/ + https://claude.dev/blog/ （claude.dev 为 2026-09 启用的开发者博客域名，深度工程文章陆续迁往该域名并从 claude.com 301；两站 sitemap 全量 257 + 15 篇，2023-08 至 2026-10；本清单筛选出 115 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
-> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇；2026-09-28 增补 7 篇，并把 6 篇迁移文章链接更新为 claude.dev；2026-10-06 增补 8 篇；2026-10-11 增补 5 篇）
+> 来源：https://claude.com/blog/ + https://claude.dev/blog/ （claude.dev 为 2026-09 启用的开发者博客域名，深度工程文章陆续迁往该域名并从 claude.com 301；2026-10 起 claude.com/blog 整体迁移到 claude.com/resources/articles，旧 /blog/ 链接 308 重定向到新路径，新登记条目直接用新路径；两站 sitemap 全量 263 + 16 篇，2023-08 至 2026-10；本清单筛选出 119 篇有阅读价值的文章，新手教程、纯功能公告、营销稿已忽略）
+> 抓取日期：2026-08-16（2026-08-28 增补 12 篇；2026-09-19 增补 11 篇；2026-09-28 增补 7 篇，并把 6 篇迁移文章链接更新为 claude.dev；2026-10-06 增补 8 篇；2026-10-11 增补 5 篇；2026-10-17 增补 4 篇）
 > 说明：与 `03-anthropic/anthropic-engineering.md`（Anthropic 工程博客）互补，此处为 Claude 产品侧内容
 > 翻译登记：完成后在「中英文版本」列填 `[[YYYYMMDD-slug-bilingual|中英对照]]`
 
@@ -35,6 +35,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-15 | [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) | ★★★★ | Claude Code 团队怎么做代码评审：Lessons from building Claude Code 系列新篇，评审流水线与自动化经验 | [[20261015-code-review-at-anthropic-bilingual\|中英对照]] |  |
 | 2026-10-06 | [Claude Code in the cloud: a field guide to cloud sessions](https://claude.dev/blog/claude-code-in-the-cloud/) | ★★★★ | 云会话实战指南：并行隔离、GitHub 接入排错、环境配置与七类适用工作流 | [[20261006-claude-code-in-the-cloud-bilingual\|中英对照]] |  |
 | 2026-10-01 | [Customize Claude Code with mods in TypeScript](https://claude.com/blog/claude-code-mods) | ★★★★ | Claude Code 新扩展机制 mods（TypeScript）：继 skills/hooks 后的重要演进 | [[20261001-claude-code-mods-bilingual\|中英对照]] |  |
 | 2026-10-01 | [Getting started with Claude Code mods](https://claude.dev/blog/getting-started-with-claude-code-mods/) | ★★★ | mods 官方入门：上手写出第一个 mod | [[20261001-getting-started-code-mods-bilingual\|中英对照]] |  |
@@ -104,6 +105,7 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-13 | [Uber's CISO on building an insider threat program for AI](https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai) | ★★★ | Uber CISO 谈为 AI 建内部威胁项目：agent 监控与可观测性的落地经验 | [[20261013-uber-ciso-insider-threat-bilingual\|中英对照]] |  |
 | 2026-10-06 | [How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases](https://claude.com/blog/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases) | ★★★ | Comcast 与 Booz Allen 用 Claude Mythos 找出跨系统利用链并加固代码库 | [[20261006-comcast-booz-allen-mythos-bilingual\|中英对照]] |  |
 | 2026-09-28 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia) | ★★★ | 与 NVIDIA 合作：企业级 agent 的控制与治理能力 | [[20260928-agent-control-nvidia-bilingual\|中英对照]] |  |
 | 2026-08-21 | [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders) | ★★★ | Project Glasswing 扩围：前沿网络安全能力普惠更多防守方 | [[20260821-mythos-5-defenders-bilingual\|中英对照]] |  |
@@ -121,6 +123,8 @@
 
 | 发布时间 | 文章标题 | 重要程度 | 主要看点 | 中英文版本 | 总结 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-15 | [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | ★★ | Code Review 正式 GA：上线前抓更多 bug（纯功能公告，与「Claude Code 团队怎么做代码评审」配套阅读） | [[20261015-code-review-ga-bilingual\|中英对照]] |  |
+| 2026-10-14 | [Trace agents with OpenTelemetry on the Claude Platform](https://claude.com/resources/articles/agent-observability-on-the-claude-platform) | ★★★ | Claude Platform 的 agent 可观测性：Managed Agents、Messages API 与各 SDK 输出 OpenTelemetry 链路追踪 | [[20261014-agent-observability-otel-bilingual\|中英对照]] |  |
 | 2026-09-30 | [Claude for Government is now generally available](https://claude.com/blog/claude-for-government-is-now-generally-available) | ★★★ | Claude for Government 正式 GA：政府市场落地节点 | [[20260930-claude-for-government-ga-bilingual\|中英对照]] |  |
 | 2026-09-28 | [Building with Claude Sonnet 5.5](https://claude.dev/blog/building-with-claude-sonnet-5-5/) | ★★★ | Sonnet 5.5 官方构建指南：模型特性与工程搭配 | [[20260928-building-with-sonnet-5-5-bilingual\|中英对照]] |  |
 | 2026-09-24 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | ★★★ | Opus 5.5 发布：面向更长、更重上下文的 coding 会话 | [[20260924-opus-5-5-coding-sessions-bilingual\|中英对照]] |  |
